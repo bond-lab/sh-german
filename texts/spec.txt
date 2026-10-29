@@ -1,0 +1,525 @@
+# Das getupfte Band
+
+> Die Haushälterin hatte eben den Nachmittagstee hereingebracht. Nun zog sie die Vorhänge vor den Fenstern zu und zündete die Stehlampe an, die ein warmes Licht über den gedeckten Tisch warf. Das Feuer im Kamin verbreitete eine angenehme Wärme. Doktor Watson saß in einem bequemen Sessel und las, als sich die Türe öffnete und Sherlock Holmes eintrat. »Das ist heute mal wieder ein Nebel!« sagte er und rieb sich die Hände vor dem Feuer warm. »Ein scheußliches Wetter draußen! Keinen Hund möchte man da hinausjagen!« Dann wandte er sich dem Hausgenossen zu: »Was liest du denn da so interessiert, Doktor?«
+
+> Watson legte rasch, fast in leichter Verlegenheit, die Blätter beiseite. Es waren eine Anzahl fortlaufender Nummern des »Telegraph«.
+
+> »Ach, nichts weiter«, sagte er in offensichtlichem Bemühen, der Sache keine weitere Bedeutung zuzuschreiben. »Komm, setz dich lieber her und trinke gleich einen heißen Tee, wenn du so ausgefroren bist.«
+
+> Damit füllte er ihm eine Tasse, rückte einen Sessel zurecht und bot ihm einen Teller mit belegten Broten an. Kaum hatte Holmes sich gesetzt, so klingelte es. Sie stellten beide zugleich, wie auf Verabredung, ihre Tassen nieder und lauschten.
+
+> War es ein Besuch oder ein Ruf? Und wem von ihnen beiden mochte er gelten?
+
+> Dr. Watson hatte zwar seit seiner Rückkehr aus dem afghanischen Feldzug, an dem er als Militärarzt teilnahm, offiziell noch keine Praxis aufgenommen. Aber es kam doch vor, daß er gelegentlich, etwa bei Unglücksfällen, zur dringenden Hilfeleistung geholt wurde und sie dann selbstverständlich nicht verweigerte.
+
+> Die Haushälterin kam herein. »Ein Kind ist überfahren worden, Herr Doktor – –«
+
+> »Ich komme«, unterbrach Watson ihren Bericht und stand sofort auf. Ein Mensch in Gefahr – da wurde jede Frage nach Zeit und Wetter gleichgültig für ihn. Er eilte hinaus, und Holmes hörte noch, wie er draußen mit einem Mädchen verhandelte, sich Name und Wohnung sagen ließ, während er alles Nötige zur Hilfeleistung einpackte. Gleich darauf fiel die Haustüre ins Schloß. Frau Hudson kam mit ihrem schweren Schritt die Treppe herauf und verschwand in der Küche.
+
+> Es war wieder still geworden im Hause. Nichts war mehr zu hören, als das Aufflackern des Feuers im Kamin. Der Lärm der Straße und der vorbeifahrenden Wagen drang nur gedämpft herauf, wie etwas Fernes, das die Abgeschlossenheit dieses Raumes nicht stören konnte.
+
+> Sherlock Holmes hatte seinen Tee getrunken. Nun saß er in behaglicher Entspannung zurückgelehnt in seinem Sessel und blickte gedankenverloren den blauen Wolken seiner Pfeife nach. Da fiel sein Blick auf die Zeitungen, die Watson achtlos liegengelassen hatte und er griff danach. Zuerst blieb sein Blick auf einem Artikel haften, in dem jemand sich weit und breit über die Notwendigkeit frühzeitiger Zahnpflege beim Kleinkind ausließ, dann folgte ein Bericht über den Stand der übertragbaren Krankheiten. Fachsimpelei, die nur Watson angeht, dachte Holmes und war schon im Begriff, den »Telegraph« wieder wegzulegen, als er plötzlich seinen eigenen Namen darin entdeckte. »Aha, Watson scheint mal wieder unter die Schriftsteller gegangen zu sein!« murmelte Holmes vor sich hin. Er überflog einige Spalten, lächelte, legte die Pfeife aus der Hand, setzte sich bequem zurecht, suchte den Anfang und las:
+
+Wenn ich meine Aufzeichnungen von den vielen absonderlichen Fällen überblicke, an denen ich während der letzten Jahre das Verfahren meines Freundes Sherlock Holmes studiert habe, so finde ich darunter manche von tragischer, einige auch von komischer Art; viele lassen sich einfach nur als merkwürdig bezeichnen, aber keiner als alltäglich; denn da Holmes sich bei seiner Tätigkeit weit mehr von der Liebe zu seinem Beruf als von materiellem Gewinn bestimmen ließ, so lehnte er seine Mitwirkung stets ab, wenn die Nachforschungen sich nicht auf einen ungewöhnlichen oder geradezu rätselhaften Vorgang richteten. Unter all diesen verschiedenartigen Fällen weiß ich mich jedoch keines zu entsinnen, der eine gleiche Fülle merkwürdiger Züge dargeboten hätte, wie der, welcher in der bekannten Familie der Roylotts von Stoke Moran in Surrey spielte. Dieses Ereignis fiel in die erste Zeit unseres gemeinsamen Junggesellenlebens in der Bakerstraße. Ich würde es vielleicht früher schon veröffentlicht haben, wäre mir nicht Stillschweigen darüber auferlegt gewesen – eine Pflicht, von der mich erst jetzt der Tod der Dame entbunden hat, in deren Interesse jenes Versprechen gegeben worden war. Vielleicht ist es ganz gut, daß der wahre Sachverhalt jetzt ans Licht kommt, denn wie ich hörte, haben sich über den Tod des Dr. Grimesby Roylott in weiten Kreisen Gerüchte verbreitet, die jene Ereignisse noch gräßlicher ausmalten, als sie in Wirklichkeit waren.
+
+An einem Aprilmorgen erblickte ich beim Erwachen Holmes vollständig angekleidet an meinem Bett. Er stand sonst gewöhnlich spät auf, und da die Uhr auf dem Kaminsims erst ein Viertel nach sieben zeigte, so blinzelte ich ihn einigermaßen überrascht, vielleicht sogar etwas ärgerlich an, denn ich ließ mich selbst nicht gerne in meinen Gewohnheiten stören.
+
+»Es tut mir sehr leid, daß ich dich wecken muß, Watson,« sagte er, »aber es geht heute morgen keinem im Hause besser. Frau Hudson ist zuerst herausgeklopft worden, sie hat mich aufgeweckt, und jetzt kommt die Reihe an dich.«
+
+»Was gibt es denn? Brennt es?«
+
+»Nein, eine Klientin ist da. Eine junge Dame von auswärts, die mich durchaus sprechen will. Sie soll in großer Aufregung sein. Sie wartet unten im Empfangszimmer. Wenn sich aber eine junge Dame in solcher Morgenfrühe nach London aufmacht und die Leute aus den Federn treibt, so wird sie wohl einen triftigen Grund dafür haben. Einen wirklich interessanten Fall würdest du doch gewiß gern von Anfang an verfolgen. Ich wollte dich deshalb unter allen Umständen wecken, um dich dieser Gelegenheit nicht zu berauben.«
+
+»Das war sehr nett von dir, mein lieber Junge, natürlich möchte ich sie um keinen Preis verpassen.«
+
+Ich kannte keinen größeren Genuß, als Holmes bei den Untersuchungen, die sein Beruf mit sich brachte, Schritt für Schritt zu begleiten und seine kühnen Schlußfolgerungen zu bewundern, die blitzschnell, als entstammten sie höherer Eingebung, und doch stets auf streng logischer Grundlage aufgebaut, Licht in das Dunkel der ihm vorgelegten rätselhaften Fälle brachten. Ich warf mich also rasch in die Kleider und war nach wenigen Minuten so weit, um meinem Freund nach dem Empfangszimmer folgen zu können.
+
+Eine schwarzgekleidete, verschleierte Dame saß am Fenster und erhob sich bei unserem Eintritt.
+
+Holmes stellte sich vor, begrüßte sie freundlich und erklärte ihr, indem er auf mich deutete: »Hier ist mein vertrauter Freund und Kollege Dr. Watson, vor dem Sie Ihre Sache ohne Scheu vorbringen können. – Frau Hudson hat ja Feuer angemacht, wie ich sehe, das war vernünftig von ihr. Bitte, setzen Sie sich nur an den Kamin; ich lasse Ihnen gleich eine Tasse heißen Kaffee bringen, Sie zittern ja ordentlich.«
+
+»Aber nicht vor Kälte,« antwortete die Dame mit leiser Stimme, indem sie der Aufforderung Folge leistete.
+
+»Weshalb denn sonst?«
+
+»Vor Angst, Herr Holmes, vor Schrecken.« Bei diesen Worten schlug sie den Schleier zurück, und wir sahen nun, daß sie sich tatsächlich in einem Zustand starker Erregung befand; ihr Gesicht war ganz verzerrt und aschfahl, und sie blickte angstvoll um sich wie ein gehetztes Wild. Ihren Zügen und ihrer Figur nach mußte man sie für dreißigjährig halten, allein ihr Haar zeigte bereits Spuren von Grau, und es lag etwas Müdes und Abgezehrtes in ihrer ganzen Erscheinung.
+
+Holmes musterte sie mit seinem alles durchdringenden Blick. »Sie müssen keine Angst haben,« sagte er in beruhigendem Tone, indem er sich über sie beugte. »Wir werden gewiß bald alles in Ordnung bringen. Sie sind heute früh mit der Bahn angekommen, wie ich sehe.«
+
+»Kennen Sie mich denn?«
+
+»Nein, ich bemerke nur die eine Hälfte der Rückfahrkarte, die Sie in Ihrem linken Handschuh stecken haben. Sie müssen früh aufgebrochen sein und hatten dann bis zur Bahn eine tüchtige Fahrt in einem Jagdwagen auf schlechten Wegen zu machen.«
+
+Mit dem Ausdruck höchsten Erstaunens starrte die Fremde meinen Freund an.
+
+»Sie brauchen sich nicht zu verwundern,« fuhr Holmes lächelnd fort. »Ich treibe keine Hellseherei. Aber der linke Ärmel Ihrer Jacke ist an nicht weniger als sieben Stellen mit noch ganz nassem Schmutz bespritzt. Kein anderes Fuhrwerk wirft aber so viel Schmutz auf wie ein Jagdwagen, und am allerschlimmsten ist es vollends, wenn man vorne links neben dem Kutscher sitzt.«
+
+»Das mag sein, wie es will, jedenfalls treffen Sie mit Ihren Schlüssen das Richtige,« versetzte sie. »Ich fuhr vor 6 Uhr daheim fort, brauchte 20 Minuten bis nach Leatherhead und traf mit dem ersten Zuge hier an der Waterloo-Station ein. – Es kann nicht länger so fortgehen, ich halte es nicht mehr aus, ich werde wahnsinnig! Ich habe gar niemand, an den ich mich wenden könnte – niemand; nur ein einziger Mensch nimmt Anteil an mir, aber helfen kann er mir auch nicht. Man hat mir von Ihnen erzählt, Herr Holmes. Eine meiner Bekannten, Frau Farintosh, der Sie einmal in ihrer schrecklichen Bedrängnis Beistand leisteten, hat mir Ihre Adresse gegeben. Ach, meinen Sie nicht, Sie könnten mir vielleicht ebenfalls helfen und die furchtbare Finsternis, die mich umgibt, wenigstens durch einen schwachen Schimmer erhellen? Ich habe freilich jetzt kein Geld, aber in sechs Wochen oder einem Monat, wenn ich verheiratet und im Besitz meines Vermögens bin, sollen Sie mich nicht undankbar finden.«
+
+Holmes entnahm seinem Schreibtisch ein kleines Buch mit Aufzeichnungen über frühere Fälle und schlug darin nach.
+
+»Farintosh,« murmelte er, »ach ja, jetzt erinnere ich mich des Falles. Es handelte sich um einen Opalkopfschmuck. Das war noch vor deiner Zeit, Watson. – Ich kann Ihnen die Versicherung geben, daß ich mich Ihres Falles mit demselben Interesse annehmen werde, wie damals der Angelegenheit von Frau Farintosh. Über die Geldfrage möchte ich Sie beruhigen, meine Belohnung finde ich einzig in meiner Tätigkeit selbst; doch steht es Ihnen frei, mir meine etwaigen Auslagen bei gelegener Zeit zu ersetzen. Und nun bitte ich Sie, uns alles mitzuteilen, was für die Beurteilung des Falles irgend von Wert sein kann.«
+
+»Ach«, begann die Fremde, »das Schreckliche an meiner Lage ist gerade, daß meine Befürchtungen so unbestimmter Natur sind und mein Verdacht sich nur auf geringfügige Umstände stützt, die jedem andern bedeutungslos erscheinen. Selbst mein Verlobter betrachtet alle meine Vermutungen nur als Eingebungen meiner überreizten Nerven. Er sagt es nicht gerade heraus, allein ich merke es an seinen beschwichtigenden Antworten und ausweichenden Blicken. Aber Sie, Herr Holmes, sollen ja imstande sein wie nur wenige, das menschliche Herz zu durchschauen. Ihr Rat wird mir gewiß einen Weg durch all die Gefahren zeigen, von denen ich jetzt umgeben bin.« Fragend hob sie den Blick zu Holmes.
+
+»Bitte, fahren Sie ruhig fort«, ermunterte er sie.
+
+»Ich heiße Helene Stoner und wohne zusammen mit meinem Stiefvater an der Westgrenze von Surrey. Er ist der letzte der Roylotts von Stoke Moran, die eine der ältesten Familien Englands waren.«
+
+Sherlock Holmes nickte. »Der Name ist mir bekannt«, sagte er.
+
+»Die Familie gehörte einst zu den reichsten in ganz England und ihre Besitzungen erstreckten sich bis über die Grenzen der benachbarten Grafschaften hinaus. Im vorigen Jahrhundert jedoch kam der Besitz viermal hintereinander in leichtsinnige Hände, und als dann noch einer der Erben sich dem Spiel ergab, war der Ruin der Familie besiegelt. Ein paar Hufen Landes und der zweihundert Jahre alte Familiensitz, auf dem aber hohe Hypotheken lasteten, war alles, was übrig blieb. Der vorige Gutsherr harrte noch bis zu seinem Tode dort aus, indem er das schwere Los eines verarmten Edelmannes trug; sein einziger Sohn dagegen, mein jetziger Stiefvater, sah ein, daß er sich den neuen Verhältnissen anpassen mußte; er verschaffte sich ein Darlehen von einem Verwandten, das ihm das Studium der Medizin ermöglichte. Dann ließ er sich in Kalkutta nieder, wo er sich mit großer Willenskraft und durch seine tüchtigen Kenntnisse eine ausgebreitete Praxis erwarb. Im Jähzorn über einen Diebstahl in seinem Hause erschlug er jedoch einen eingeborenen Diener und entging nur mit Mühe einem Todesurteil. Er erhielt eine lange Freiheitsstrafe, nach deren Verbüßung er verbittert und enttäuscht nach England zurückkehrte. Während seines Aufenthalts in Indien heiratete Dr. Roylott meine Mutter, die junge Witwe des Generalmajors Stoner von der bengalischen Artillerie. Meine Zwillingsschwester Julia und ich waren damals erst zwei Jahre alt. Die Mutter besaß ein Vermögen, das etwa tausend Pfund im Jahr einbrachte und das sie unserem Stiefvater vollständig überließ mit der Bedingung, im Falle unserer Verheiratung jeder von uns beiden eine gewisse Summe jährlich auszuzahlen. Bald nach unserer Rückkehr nach England kam meine Mutter bei einem Eisenbahnunfall ums Leben – es sind jetzt acht Jahre her. Nun gab Dr. Roylott seine Versuche auf, sich in London eine ärztliche Praxis zu gründen, und zog mit uns in das alte Stammschloß in Stoke Moran. Da die Hinterlassenschaft meiner Mutter unsere Bedürfnisse reichlich deckte, so hätten wir ein zufriedenes und glückliches Leben führen können.
+
+Allein mit unserem Stiefvater ging plötzlich eine schreckliche Veränderung vor. Anstatt freundschaftlichen Verkehr mit unseren Nachbarn anzuknüpfen, die anfangs hoch erfreut darüber waren, wieder einen Stoke Moran auf dem alten Familiensitz einziehen zu sehen, schloß er sich in sein Haus ein, und wenn er es jemals verließ, bekam er mit jedem, der ihm in den Weg lief, den heftigsten Streit. Ein förmlich krankhafter Jähzorn war überhaupt ein Erbstück der Männer in der Familie, und bei meinem Stiefvater mochte durch seinen langen Aufenthalt in den Tropen diese Eigenschaft wohl noch verstärkt worden sein. Die Folge war, daß er in eine Reihe häßlicher Streitigkeiten verwickelt wurde, die ihn zweimal vor Gericht brachten, bis er zuletzt der Schrecken des ganzen Dorfes war und alles bei seinem bloßen Anblick die Flucht ergriff, denn er besitzt eine riesige Stärke und kennt in seiner Wut keine Grenzen.
+
+Vorige Woche erst warf er den Dorfschmied über das Brückengeländer ins Wasser, und ich mußte alles, was ich an Geld hatte, opfern, damit die Angelegenheit nicht vor Gericht gebracht wurde. Mit keinem Menschen hielt er Freundschaft, außer mit den herumziehenden Zigeunern; sie durften auf den paar Morgen Brachland, die von dem ganzen Besitztum noch geblieben sind, ihr Lager aufschlagen. Oft kehrte er in ihren Zelten ein, ja er begleitete sie sogar wochenlang auf ihren Wanderzügen. Eine leidenschaftliche Vorliebe hat er für indische Tiere, die er sich aus Kalkutta kommen läßt; gegenwärtig besitzt er einen Leoparden und einen Pavian, die er in seinem Anwesen frei umherlaufen läßt und die den Dorfbewohnern denselben Schrecken einjagen wie ihr Herr selbst.
+
+Nach dieser Schilderung werden Sie mir sicher glauben, daß meine Schwester und ich kein leichtes Leben geführt haben. Niemand wollte bei uns bleiben, und lange Zeit mußten wir die ganze Hausarbeit allein verrichten. Obgleich Julia erst dreißig Jahre alt war, als sie starb, hatte sie doch bereits graue Haare wie ich auch.«
+
+»Ihre Schwester ist also gestorben?«
+
+»Ja; es ist gerade zwei Jahre her; und von ihrem Tode möchte ich Ihnen eben Genaueres mitteilen. Sie werden es verstehen, daß wir unter diesen Umständen wenig Gelegenheit zum Verkehr mit unseresgleichen hatten. Nur bei unserer Tante Honoria Westphail durften wir von Zeit zu Zeit einen kurzen Besuch machen. Sie ist eine unverheiratete Schwester meiner Mutter und wohnt in der Nähe von Harrow. Vor zwei Jahren lernte Julia bei einem solchen Besuch über Weihnachten einen auf Halbsold gesetzten Major der Marine kennen, mit dem sie sich verlobte. Unser Stiefvater erhob gegen die Verbindung keine Einwendung; allein vierzehn Tage vor der Hochzeit trat das schreckliche Ereignis ein, das mich meiner einzigen Gefährtin beraubte.«
+
+Holmes, der mit geschlossenen Augen in seinen Armstuhl zurückgelehnt, den Kopf im Kissen vergraben, zugehört hatte, schlug nun die Lider ein wenig auf und warf einen Blick auf die Erzählerin.
+
+»Bitte, vergessen Sie auch nicht den kleinsten Umstand«, sagte er.
+
+»Das wird mir nicht schwer fallen, denn alle Vorgänge dieser entsetzlichen Zeit stehen mir unauslöschlich im Gedächtnis. – Das Wohnhaus ist, wie gesagt, sehr alt, auch wird zur Zeit nur der eine Flügel bewohnt. Die Schlafzimmer befinden sich im Erdgeschoß, während die Wohnzimmer im mittleren Stockwerk liegen. Von den Schlafzimmern hatte das erste unser Stiefvater, das zweite meine Schwester und das dritte ich selbst. Eine Verbindung zwischen ihnen besteht nicht, dagegen führen alle drei Türen auf denselben Gang. – Ich spreche doch verständlich?«
+
+»Vollkommen.«
+
+»Die Fenster der drei Zimmer gehen auf den Rasenplatz vor dem Hause. An jenem schrecklichen Abend also zog sich unser Stiefvater zeitig in sein Schlafzimmer zurück; trotzdem wußten wir wohl, daß er sich noch nicht zur Ruhe begeben hatte, denn meine Schwester wurde durch den Geruch der starken indischen Zigarre belästigt, die er zu rauchen pflegte. Sie kam deshalb in mein Zimmer herüber, um noch eine Zeitlang mit mir über ihre bevorstehende Hochzeit zu plaudern. Es war elf Uhr, als sie mich wieder verließ; an der Tür blieb sie jedoch stehen und schaute noch einmal zurück.
+
+›Sag' mir, Helene‹, fragte sie, ›hast du jemals ein Pfeifen vernommen, wenn nachts alles totenstill ist?‹
+
+›Nein, niemals.‹
+
+›Ich habe auch schon gedacht, vielleicht seist du es, die nachts im Schlafe pfeift. Aber du glaubst doch auch nicht, daß das sein kann?‹
+
+›Gewiß nicht, warum denn?‹
+
+›In den letzten Nächten ertönte etwa um drei Uhr morgens ein leiser heller Pfiff. Ich habe einen leichten Schlaf und bin daran aufgewacht. Woher der Laut kam, kann ich nicht sagen, – vielleicht aus dem Nebenzimmer, vielleicht auch vom Vorplatz herauf. Ich dachte, ich wollte dich doch fragen, ob du es auch gehört hast.‹
+
+›Nein, ich habe nichts gehört. Das muß von dem Zigeunergesindel unten im Park herkommen.‹
+
+›Höchst wahrscheinlich; aber es wundert mich doch, daß du es nicht auch gehört hast, wenn es wirklich von unten kam.‹
+
+›Ich schlafe eben fester als du.‹
+
+›Nun, es ist ja jedenfalls nichts von Bedeutung‹, versetzte sie lächelnd; damit schloß sie die Tür, und wenige Augenblicke darauf hörte ich, wie sie ihre Türe abschloß.«
+
+»Schlossen Sie sich denn nachts regelmäßig ein?« fragte Holmes.
+
+»Stets.«
+
+»Und warum taten Sie das?«
+
+»Ich glaube, ich habe bereits erwähnt, daß unser Stiefvater eine Tigerkatze und einen Pavian hielt; wir fühlten uns deshalb nicht sicher, wenn unsere Türen nicht verschlossen waren.‹
+
+»Ja freilich. Bitte, fahren Sie nur fort.«
+
+»Ich konnte in jener Nacht keinen Schlaf finden. Ein unbestimmtes Vorgefühl drohenden Unheils bedrückte mich. Sie erinnern sich, daß ich und meine Schwester Zwillinge waren, und Sie wissen sicher auch, wie eng man da miteinander verbunden ist. Es war eine unheimliche Nacht. Draußen heulte der Wind, und der Regen schlug klatschend gegen die Läden. Plötzlich ertönte mitten durch das Tosen des Sturmes ein wilder Angstschrei. Ich erkannte die Stimme meiner Schwester. Rasch sprang ich aus dem Bett und stürzte auf den Gang hinaus. Während ich meine Tür öffnete, war es mir, als hörte ich ein leises Pfeifen, wie meine Schwester es beschrieben hatte, und wenige Augenblicke darauf ein klingendes Geräusch wie vom Fall eines schweren metallenen Gegenstandes. Die Zimmertüre meiner Schwester war schon aufgeklinkt und öffnete sich langsam. Starr vor Angst wartete ich auf den Anblick, der sich mir bieten würde; da sah ich beim Schein der Flurlampe meine Schwester unter der Tür erscheinen; schreckensbleich, die Hände hilfesuchend ausgestreckt, schwankte sie hin und her, als wäre sie berauscht. Ich eilte auf sie zu und schlang die Arme um sie, aber gerade in diesem Augenblick versagten ihr die Knie. Sie stürzte zu Boden, wand und krümmte sich wie in furchtbaren Schmerzen, und ihre Glieder zogen sich krampfhaft zuckend zusammen. Ich meinte zuerst, sie habe mich nicht erkannt, aber als ich mich über sie beugte, stieß sie plötzlich mit einer Stimme, die ich nie vergessen werde, die abgebrochenen, undeutlichen Worte hervor: ›Oh, mein Gott! Helene! Es war . . . Band . .! . . . getupfte Band . . .!‹ Sie machte den Versuch, noch etwas zu sagen, wobei sie in der Richtung nach unseres Stiefvaters Schlafzimmer deutete, als ein neuer gräßlicher Krampfanfall ihr die Worte im Munde erstickte. Ich wollte eben unsern Stiefvater herbeiholen und rief laut nach ihm; da kam er mir bereits im Schlafrock entgegengeeilt. Als er zu meiner Schwester trat, hatte sie das Bewußtsein schon verloren. Er flößte ihr noch Kognak ein und ließ auch ärztliche Hilfe aus dem Dorfe herbeiholen, aber es nützte alles nichts mehr, sie wurde immer schwächer und starb, ohne daß sie noch einmal zu sich gekommen wäre. Dies waren die Umstände, unter denen ich meine geliebte Schwester verloren habe.«
+
+»Einen Augenblick!« unterbrach sie Holmes, »haben Sie das Pfeifen und den metallenen Klang ganz bestimmt wahrgenommen? Könnten Sie darauf schwören?«
+
+»Dasselbe fragte mich auch der Gerichtsarzt bei der Totenschau. Ich habe zwar den durchaus sicheren Eindruck, als hätte ich beides gehört, doch kann ich mich am Ende auch getäuscht haben; bei dem Tosen des Sturmes krachte ja das alte Haus in allen Fugen.«
+
+»War ihre Schwester angekleidet?«
+
+»Nein, sie trug nur ihr Nachtgewand. In der rechten Hand hielt sie noch ein herabgebranntes Lichtstümpfchen und in der linken eine Zündholzschachtel. Sie hatte keinen Lichtschalter am Bett, es war auch kein Steckkontakt vorhanden, um eine Nachttischlampe anzuschließen. Deshalb hielt sie sich immer Kerze und Streichhölzer auf dem Nachttisch bereit.«
+
+»Sie hat also noch Licht gemacht und sich umgeschaut, als das Geräusch entstand. Das ist von Wichtigkeit. Und zu welchem Ergebnis gelangte der Leichenbeschauer?«
+
+»Er untersuchte den Fall sehr sorgfältig, denn das auffallende Treiben unseres Stiefvaters war in der ganzen Grafschaft bekannt; er war jedoch nicht imstande, eine bestimmte Todesursache zu entdecken. Aus meinen Mitteilungen ging hervor, daß die Tür von innen verschlossen gewesen war, und die Fenster waren durch altmodische Läden mit breiten Eisenstäben verrammelt, die jede Nacht vorgelegt wurden. Auch die Wände und der Fußboden wurden untersucht, aber nirgends wurde ein Anhaltspunkt gefunden. Der Kamin ist zwar weit, aber mit vier starken Eisenstäben vergittert. Meine Schwester war also zweifellos ganz allein, als ihr Geschick sie ereilte. Auch von einer Einwirkung äußerer Gewalt war keine Spur an ihr zu entdecken.«
+
+»Und Gift – wie steht es damit?«
+
+»Die Leiche wurde von ärztlicher Seite daraufhin untersucht, aber ohne Erfolg.«
+
+»Was ist nun Ihre Ansicht über die Ursache dieses bedauerlichen Todesfalls?«
+
+»Ich bin der Meinung, daß meine Schwester nur infolge einer durch Schrecken hervorgerufenen Nervenerschütterung starb, obwohl ich von der Ursache dieses Schreckens keine Ahnung habe.«
+
+»Hielten sich zu jener Zeit Zigeuner in der Nähe des Hauses auf?«
+
+»Jawohl; es sind fast immer einige da.«
+
+»Und was glauben Sie, daß Ihre Schwester mit der Andeutung von einem ›getupften Band‹ oder auch einer ›getupften Bande‹ meinte?«
+
+»Das möchte ich fast für eine Ausgeburt des Fieberwahns halten; dann meine ich aber auch wieder, es könnte sich auf eine Bande von Menschen, vielleicht gerade auf die Zigeuner im Park, bezogen haben. Vielleicht haben ihr die getupften Tücher, die viele von ihnen um den Kopf tragen, zu der auffallenden Bezeichnung Anlaß gegeben.«
+
+Holmes schüttelte den Kopf, als sei er ganz und gar nicht befriedigt.
+
+»Wir tappen noch ganz im Dunkeln«, meinte er, »aber bitte, erzählen Sie nun weiter.«
+
+»Zwei Jahre sind seitdem vergangen, und mein Leben wurde einsamer als je. Vor einem Monat jedoch hat ein lieber langjähriger Bekannter namens Percy Armitage um mich angehalten. Mein Stiefvater hat nichts dagegen, und so wollen wir noch in diesem Frühjahr heiraten. Seit zwei Tagen werden an dem westlichen Flügel unseres Wohnhauses Ausbesserungen vorgenommen. Dabei wurde eine Wand meines Schlafzimmers durchbrochen. Ich mußte deshalb das Zimmer, in dem meine Schwester starb, beziehen und in ihrem Bett schlafen. Stellen Sie sich nun meinen wahnsinnigen Schrecken vor, als ich in der letzten Nacht plötzlich ebenfalls das leise Pfeifen vernahm, das ihren Tod vorherverkündet hatte. Ich sprang aus dem Bett und schaltete das Licht an, vermochte aber nichts Beunruhigendes im Zimmer zu entdecken. Zu aufgeregt, um wieder einschlafen zu können, kleidete ich mich an und schlich mich, sobald es dämmerte, aus dem Hause, ließ mir in dem gegenüberliegenden Gasthaus zur Krone einen Wagen anspannen und fuhr nach Leatherhead und von da mit dem Morgenzug weiter nach London, um Sie aufzusuchen und um Ihren Rat zu bitten.«
+
+»Das war das Vernünftigste, was Sie tun konnten«, versetzte Holmes. »Aber haben Sie mir auch alles gesagt?«
+
+»Gewiß, alles.«
+
+»Ich bin nicht ganz überzeugt davon, Fräulein Stoner. Sie schonen Ihren Stiefvater.«
+
+»Warum? Was wollen Sie damit sagen?«
+
+Statt einer Antwort schlug Holmes die Manschette über dem rechten Handgelenk der Erzählerin zurück.
+
+Fünf kleine blaue Male, sichtlich von fünf Fingern herrührend, zeichneten sich auf ihrem Arm ab.
+
+»Sie sind mißhandelt worden,« sagte Holmes.
+
+Tief errötend bedeckte sie die Stelle wieder. »Er ist ein rauher Mann,« sagte sie, »der vielleicht selbst kaum weiß, wie stark er ist.«
+
+Ein langes Schweigen folgte; das Kinn in die Hand stützend, blickte Holmes in das prasselnde Kaminfeuer. »Eine höchst rätselhafte Sache,« sagte er zuletzt. »Ich hätte noch tausenderlei Fragen, ehe ich mich über den Weg schlüssig mache, den wir einschlagen müssen. Und doch dürfen wir keinen Augenblick verlieren. Ließe es sich wohl machen, daß wir die drei Schlafzimmer ohne Wissen Ihres Stiefvaters besichtigen können, wenn wir heute nach Stoke Moran fahren?«
+
+»Er hat zufällig erwähnt, daß er heute in einer sehr wichtigen Angelegenheit hierher fahren werde. Vermutlich wird er den ganzen Tag fort sein, und dann wären Sie völlig ungestört. Wir haben zwar gegenwärtig eine Haushälterin, aber die ist alt und einfältig und ich könnte sie leicht eine Weile entfernen.«
+
+»Ausgezeichnet. Du hast doch nichts gegen diesen Ausflug, Watson?«
+
+»Nicht das geringste.«
+
+»Dann werden wir uns also beide im Laufe des Tages einfinden. Und was tun Sie selbst, jetzt?«
+
+»Ich möchte gerne noch ein paar Sachen besorgen, weil ich gerade hier bin. Doch will ich mit dem Zwölfuhrzug wieder zurück fahren, so daß Sie mich rechtzeitig zu Hause treffen werden.«
+
+»Sie können uns bald nach Mittag schon erwarten. Ich habe selbst zuerst noch einige Angelegenheiten zu erledigen. Wollen Sie nicht noch bleiben und etwas frühstücken?«
+
+»Nein, ich muß gehen. Es ist mir schon leichter ums Herz, seit ich Ihnen anvertraut habe, was mich bedrückt. Auf Wiedersehen also heute nachmittag.« Sie zog den schwarzen Schleier wieder über ihr Gesicht und verließ das Zimmer.
+
+»Nun, was hältst du von der Sache, Watson?« fragte Holmes, sich in seinen Stuhl zurücklehnend.
+
+»Es scheint mir eine dunkle, unheimliche Geschichte.«
+
+»Sehr dunkel und sehr unheimlich sogar.«
+
+»Und doch, wenn tatsächlich Fußboden und Wände ganz in Ordnung sind, und durch Tür, Fenster und Kamin nichts hereinkommen konnte, muß unzweifelhaft die Schwester zur Zeit ihres rätselhaften Todes allein gewesen sein.«
+
+»Wie erklärst du dir dann aber das nächtliche Pfeifen und die eigentümliche Äußerung der Sterbenden?«
+
+»Das kann ich mir nicht denken.«
+
+»Dieses nächtliche Pfeifen, die Anwesenheit einer Zigeunerbande, die mit dem alten Doktor auf vertrautem Fuß stand, und die Tatsache, daß dieser offenbar das größte Interesse daran hatte, eine Heirat seiner Stieftochter zu verhindern, sind starke Verdachtsmomente. Wenn ich sie mit der Andeutung der Sterbenden zusammenhalte und schließlich mit dem metallenen Klang, den Fräulein Stoner gehört hat und der sehr wohl von der Wiederbefestigung der Vorlegestange an einem Fensterladen herrühren konnte, so will es mir doch scheinen, als dürften wir hoffen, von dieser Grundlage aus des Rätsels Lösung zu finden.«
+
+»Aber was sollen denn die Zigeuner getan haben?«
+
+»Davon habe ich allerdings auch keine Ahnung.«
+
+»Ich meine, gegen diese ganze Auffassung ließe sich doch sehr viel einwenden.«
+
+»Das muß ich freilich selbst zugeben; gerade deswegen gehen wir noch heute nach Stoke Moran. Ich muß mich überzeugen, ob die Einwendungen stichhaltig sind oder sich beseitigen lassen. – Aber was ist denn hier eigentlich los!« rief er plötzlich aus.
+
+Mit einemmal war nämlich die Zimmertür aufgeflogen, und eine gewaltige Männergestalt in einem sonderbaren, halb gelehrten, halb bäuerischen Aufzug hatte sich in ihrem Rahmen aufgepflanzt. Der Eindringling trug einen hohen schwarzen Hut und einen Rock mit langen Schößen, dazu Stulpenstiefel, und in den Händen eine Reitpeitsche. Er war so groß, daß er buchstäblich oben am Türbalken anstieß, und so umfangreich, daß er die Öffnung völlig auszufüllen schien. Auf seinem breiten, mit zahllosen Runzeln übersäten, sonnenverbrannten Gesicht spiegelten sich alle schlechten Leidenschaften. Er wandte den Blick bald mir, bald meinem Freunde zu, und dabei gaben ihm seine tiefliegenden, gelb unterlaufenen Augen und die weitvorstehende schmale, fleischlose Nase das Aussehen eines grimmigen alten Raubvogels.
+
+»Welcher von euch beiden ist Holmes?« fragte er in unverschämtem Tone.
+
+»So heiße ich; aber ich habe nicht das Vergnügen ...« antwortete mein Freund ruhig.
+
+»Ich bin Dr. Grimesby Roylott von Stoke Moran.«
+
+»Darf ich bitten, daß Sie Platz nehmen, Herr Doktor«, sagte Holmes verbindlich.
+
+»Fällt mir nicht ein. Meine Stieftochter ist dagewesen. Ich bin ihr nachgegangen. Was wollte sie bei Ihnen?«
+
+»Es ist noch etwas kalt für die Jahreszeit!«, gab Holmes zur Antwort.
+
+»Was sie Ihnen gesagt hat, will ich wissen!« schrie der andere wütend.
+
+»Trotzdem soll sich, wie ich höre, die Krokusblüte ganz gut anlassen«, fuhr Holmes unerschütterlich fort.
+
+»Machen Sie nur keine Winkelzüge«, rief jetzt der grobe Kerl, indem er einen Schritt vortrat und die Reitpeitsche schwang. »Ich kenne Sie, Schurke. Habe schon längst von Ihnen gehört. Sie sind Holmes, der Schnüffler!«
+
+Mein Freund lächelte.
+
+»Holmes, der Allerweltslückenbüßer!«
+
+Sein Gesicht erheiterte sich immer mehr.
+
+»Holmes, der General-Kriminalpolizeispitzel!«
+
+Jetzt lachte Holmes hell auf. »Sie sind ja äußerst witzig«, sagte er. »Wenn Sie hinausgehen, machen Sie auch die Tür zu, es zieht ganz entschieden.«
+
+»Erst sage ich meine Sache, und dann gehe ich. Lassen Sie sich nur nicht einfallen, Ihre Nase in meine Angelegenheiten zu stecken. Meine Tochter war da – ich weiß es, ich bin ihr nachgegangen! Ich rate keinem, mir in die Quere zu kommen! Da, sehen Sie her!« Damit trat er rasch auf den Kamin zu, nahm den Schürhaken und bog ihn mit seinen mächtigen braunen Händen vollständig krumm.
+
+»Sehen Sie zu, daß Sie mir nicht unter die Finger kommen!« schrie er Holmes noch zu, warf den verbogenen Schürhaken wieder in den Kamin und schritt hinaus.
+
+»Nun, das ist ja ein recht liebenswürdiger Kumpan«, meinte Holmes lachend. »Ich bin zwar nicht ganz so vierschrötig wie er, aber wenn er noch einen Augenblick dageblieben wäre, hätte ich ihm zeigen können, daß meine Finger an Kraft den seinen nicht viel nachgeben.« Dabei nahm er den stählernen Schürhaken und bog ihn mit einem Ruck wieder gerade.
+
+»Ein selten unverschämter Mensch! Dieser Zwischenfall verleiht übrigens unserem Vorhaben nur noch einen Reiz mehr. Ich hoffe bloß, daß unsere Schutzbefohlene ihre Unvorsichtigkeit nicht zu büßen bekommt. – Aber nun wollen wir frühstücken, Watson, und dann will ich nach der Gerichtsregistratur gehen, wo ich mir einige Daten zu verschaffen hoffe, die uns in dieser Sache vielleicht von Nutzen sein können.«
+
+Es war ungefähr ein Uhr, als Holmes von seinem Ausgang zurückkam. Er hatte ein Blatt Papier in der Hand, das ganz mit Notizen und Zeichnungen bedeckt war.
+
+»Ich habe mir das Testament der Frau Roylott zeigen lassen«, sagte er. »Um ihre Willensmeinung ganz genau festzustellen, mußte ich den heutigen Wert der Anlagepapiere ausrechnen, um die es sich dabei handelt. Der Gesamtertrag, der zur Zeit ihres Todes fast elfhundert Pfund betrug, beläuft sich jetzt infolge des Rückgangs im Werte höchstens noch auf siebenhundertfünfzig Pfund. Nun kann jede der Töchter im Falle ihrer Verehelichung eine Rente von zweihundertfünfzig Pfund ansprechen. Es ist also augenscheinlich, daß, falls beide Töchter sich verheiratet hätten, von der ganzen Herrlichkeit blutwenig übrig geblieben wäre, ja, daß sogar schon die Abfindung einer Tochter dem Doktor eine ganz empfindliche Einbuße verursacht hätte. Mein Vormittag war also gut angewendet; ich habe jetzt den Beweis in Händen, daß ihm alles daran gelegen sein mußte, die Heirat zu hindern. Wir wollen nun in dieser wichtigen Sache keine Zeit mehr verlieren, zumal der Alte Wind davon hat, daß wir uns mit seinen Angelegenheiten beschäftigen. Wenn du also bereit bist, wollen wir uns einen Wagen nach der Waterloostation bestellen. Bitte, stecke auch deinen Revolver ein. Damit kommt man gegenüber Herrschaften, die stählerne Schürhaken krumm biegen, am besten aus. Wenn wir dann noch Kamm und Zahnbürste mitnehmen, so denke ich, daß wir alles haben, was wir brauchen.«
+
+Am Bahnhof hatten wir das Glück, gerade einen Zug nach Leatherhead zu treffen; dort nahmen wir einen Wagen, mit dem wir vier oder fünf Meilen weit durch die freundlichen Gelände von Surrey fuhren. Es war ein herrlicher Tag, klarer Sonnenschein und kaum ein Wölkchen am Himmel. Die Bäume und Hecken am Wege erglänzten im ersten Grün, und die Luft war von dem erfrischenden Geruch des feuchten Erdreichs erfüllt. Lebhaft empfand wenigstens ich für meine Person den eigentümlichen Gegensatz zwischen dem lieblichen Frühlingsbilde und der unheimlichen Aufgabe, die unsrer wartete. Holmes saß, den Hut tief ins Gesicht gedrückt, mit untergeschlagenen Armen und gesenktem Haupte, in tiefes Nachdenken versunken da. Plötzlich fuhr er auf, klopfte mir auf die Schulter und deutete nach rechts. »Sieh dorthin!« rief er.
+
+Ein dichter Park zog sich jenseits der Wiesen einen sanften Abhang hinauf, der oben von einem Wäldchen bekränzt war; mitten aus dem Dickicht ragte der altersgraue Dachfirst eines Herrenhauses hoch hervor.
+
+»Stoke Moran?«, fragte er.
+
+»Jawohl, Herr, das ist Dr. Grimesby Roylotts Haus«, erwiderte der Fahrer.
+
+»Wo der Umbau gemacht wird? Das ist unser Ziel.«
+
+»Dort drüben liegt das Dorf«, fuhr der Mann fort, indem er auf die Dächer deutete, die in einiger Entfernung zur Linken sichtbar wurden; »aber wenn Sie zu Roylotts Hause wollen, so sind Sie früher dort, wenn Sie hier die Steige hinaufgehen und dann den Fußweg über die Felder einschlagen. Dort drüben, wo die Dame geht.«
+
+»Die Dame ist Fräulein Stoner, wie mir scheint«, sagte Holmes und hielt die Hand über die Augen. »Ja, ich glaube, es wird das Einfachste sein, wenn wir Ihrem Rat folgen.«
+
+Wir stiegen aus und bezahlten unser Fahrgeld. Der Wagen wendete und fuhr nach Leatherhead zurück.
+
+»Ich hielt es für zweckmäßig«, meinte Holmes, während wir die Steige hinaufgingen, »den Mann glauben zu lassen, wir seien wegen der Bauarbeit oder zu irgend einem andern geschäftlichen Zweck hergekommen. Das beugt vielleicht unnützem Gerede vor. – Guten Tag, Fräulein Stoner, Sie sehen, wir haben Wort gehalten.«
+
+Mit offener Herzlichkeit kam unsere Schutzbefohlene uns entgegengelaufen. »Ich habe Sie sehnlich erwartet!« rief sie und drückte uns warm die Hand. »Es hat sich alles geschickt gefügt. Der Vater ist nach London gegangen und wird schwerlich vor Abend zurückkommen.«
+
+»Wir haben unterdessen das Vergnügen gehabt, des Herrn Doktors Bekanntschaft zu machen«, entgegnete Holmes und gab ihr mit ein paar Worten eine flüchtige Schilderung unseres Erlebnisses.
+
+Sie wurde bei dieser Kunde weiß bis zu den Lippen. »Er ist mir also nachgegangen?« fragte sie fassungslos.
+
+»So scheint es.«
+
+»Er ist sehr schlau, man ist eigentlich nie sicher vor ihm. Ich habe so Angst, bis er jetzt nach Hause kommt.«
+
+»Seien Sie unbesorgt. Vielleicht sind wir noch schlauer als er. Auf jeden Fall müssen Sie sich heute nacht vor ihm einschließen. Wird er gewalttätig, so bringen wir Sie zu Ihrer Tante nach Harrow. Jetzt müssen wir aber unsere Zeit nach besten Kräften ausnützen, also führen Sie uns bitte gleich in die Zimmer, die wir zu besichtigen haben.«
+
+Das Gebäude mit seinen grauen, moosbewachsenen Quadersteinen bestand aus einem hohen Mittelbau, von dem an jedem Ende ein geschweifter Flügel auslief. An dem linken Flügel waren die zerbrochenen Fenster mit Brettern vernagelt, und das Dach teilweise eingestürzt – ein Bild des Verfalls. Der Mittelbau befand sich schon in etwas besserem Stand, und der rechte Flügel machte einen verhältnismäßig neuen Eindruck; die Vorhänge an den Fenstern und der blaue Rauch, der sich über den Schornsteinen kräuselte, zeigten an, daß hier die Familie wohnte. An der Außenwand war ein Gerüst aufgeschlagen und das Mauerwerk durchgebrochen; von einem Arbeiter war jedoch zur Zeit weit und breit nichts zu sehen. Holmes ging langsam auf dem schlecht gepflegten Rasenplatz auf und ab und untersuchte die Fenster aufs peinlichste von außen.
+
+»Dies hier gehört wohl zu Ihrem früheren Schlafzimmer, das mittlere zu dem Ihrer Schwester, und das letzte zunächst dem Mittelbau zu Dr. Roylotts Schlafzimmer?«
+
+»Ganz richtig. Aber gegenwärtig schlafe ich in dem mittleren.«
+
+»Während der baulichen Arbeiten vermutlich, übrigens kommt es mir nicht gerade vor, als ob hier an der Außenwand die Ausbesserung dringend nötig gewesen wäre.«
+
+»Ganz und gar nicht. Ich glaube, daß es lediglich ein Vorwand war, um mich aus meinem Zimmer zu vertreiben.«
+
+»Möglich. Und an der andern Seite des schmalen Flügels läuft wohl der Gang hin, auf den die drei Zimmer münden? Natürlich hat er auch Fenster.«
+
+»Aber nur ganz kleine, durch die ein Mensch nicht hereinkommen kann.«
+
+»Da Ihre Schwester und Sie Ihre Zimmer nachts ja abschlossen, so waren sie sowieso von dieser Seite her unzugänglich. Und jetzt schließen Sie bitte einmal die Läden in Ihrem Zimmer.«
+
+Nachdem die Läden vorgelegt waren, untersuchte sie Holmes sorgfältig von innen und außen, dann machte er auf jede mögliche Weise den Versuch, sie aufzubrechen, jedoch ohne Erfolg. Nirgends war der geringste Spalt, in dem sich hätte etwa ein Messer ansetzen lassen, um die Stange zu lockern. Dann untersuchte er auch die Angeln, allein sie waren aus starkem Eisen und saßen fest in dem massiven Mauerwerk. »Hm«, meinte er und rieb sich verlegen das Kinn, »meine Annahme stößt allerdings auf Schwierigkeiten. Hier konnte kein Mensch hereinkommen, wenn die Läden geschlossen waren. Nun, wir werden ja sehen, ob die innere Besichtigung vielleicht Licht in die Sache bringt.«
+
+Eine kleine Seitentüre führte in den weißgetünchten Gang, auf den die drei Schlafzimmer mündeten. Das äußerste wollte Holmes nicht sehen, deshalb begaben wir uns sogleich nach dem mittleren, worin Fräulein Stoner gegenwärtig schlief und in dem ihre Schwester gestorben war. Es war ein gemütlicher kleiner Raum mit niederer Decke und großem Kamin, wie man sie in alten Landsitzen oft trifft. Eine braune Kommode stand in der einen Ecke, ein schmales, weiß bezogenes Bett in einer anderen und ein Toilettentisch zur Linken des Fensters. Diese Möbel bildeten zusammen mit zwei geflochtenen Stühlen und einem Teppich in der Mitte die ganze Einrichtung. Das eichene Holzwerk des Bodens und der Wände war alt und wurmstichig, es mochte wohl noch aus der Zeit stammen, als das Haus erbaut wurde. Holmes schob sich einen Stuhl in eine Ecke, ließ von diesem Platz aus den Blick ringsumher laufen und musterte stumm den ganzen Raum mit größter Genauigkeit.
+
+»Wohin geht diese Klingel?« fragte er zuletzt und deutete dabei auf einen dicken Klingelzug, der neben dem Bett herabhing, so daß die Quaste auf dem Kissen ruhte.
+
+»In das Zimmer der Haushälterin.«
+
+»Sie scheint neuer zu sein als die übrige Einrichtung.«
+
+»Ja, sie wurde erst vor ein paar Jahren angebracht.«
+
+»Vermutlich auf Verlangen Ihrer Schwester?«
+
+»Nein, soviel ich weiß, hat Julia sie nie benützt. Wir waren gewohnt, uns alles, was wir brauchten, selbst zu holen.«
+
+»Nun, dann war es wahrhaftig recht überflüssig, einen so schönen Klingelzug anzubringen. Sie erlauben wohl, daß ich mich jetzt ein paar Minuten auf dem Boden umsehe.« Er legte sich mit der Lupe in der Hand nieder und kroch behende vor- und rückwärts, um jede Spalte zwischen den Dielen auf das genaueste zu untersuchen. Hierauf prüfte er die Holztäfelung des Zimmers ebenso sorgfältig. Zuletzt trat er an das Bett und betrachtete es längere Zeit, während er gleichzeitig den Blick an der Wand hinter demselben auf- und abgleiten ließ. Schließlich faßte er den Glockenzug und tat einen tüchtigen Ruck daran.
+
+»Das ist ja nur eine Scheinklingel!« sagte er.
+
+»Läutet sie nicht?«
+
+»Nein, es ist nicht einmal ein Draht daran befestigt. Das ist höchst interessant. Sehen Sie nur, sie ist gerade über dem kleinen Luftloch an einem Haken festgemacht.«
+
+»Wie seltsam! Das ist mir noch nie aufgefallen.«
+
+»Höchst wunderlich!« murmelte Holmes, indem er nochmals an der Klingel zog. »Einiges in diesem Zimmer ist wirklich ganz merkwürdig. Zum Beispiel muß ja der Baumeister ein vollkommener Narr gewesen sein, daß er ein Luftloch ins Nebenzimmer gemacht hat, während es gerade so gut ins Freie hinausgehen konnte.«
+
+»Es stammt ebenfalls erst aus neuerer Zeit«, bemerkte Fräulein Stoner.
+
+»Es wurde wohl zugleich mit dem Glockenzug angebracht?«
+
+»Ja, damals hat man verschiedene kleine Änderungen vorgenommen.«
+
+»Die recht interessanter Art sind – Scheinklingeln und Luftlöcher, die keine frische Luft zuführen. Mit Ihrer Erlaubnis, Fräulein Stoner, wollen wir jetzt unsere Besichtigung in Dr. Roylotts Zimmer fortsetzen.«
+
+Dieses war größer, aber ebenso einfach eingerichtet. Ein Feldbett, ein kleines Gestell mit Büchern, zumeist medizinischen Inhalts, ein Lehnstuhl neben dem Bett, ein einfacher Holzstuhl an der Wand, ein runder Tisch und ein großer eiserner Geldschrank fielen zunächst ins Auge. Holmes ging langsam durch das Zimmer und besichtigte ein Stück um das andere mit der schärfsten Aufmerksamkeit.
+
+»Was ist hier drinnen?« fragte er, an den Eisenschrank klopfend.
+
+»Meines Stiefvaters Geschäftspapiere.«
+
+»So! – Sie haben also schon hineingesehen?«
+
+»Nur ein einziges Mal, vor Jahren. Es war nichts darin als Papiere, soviel ich mich erinnere.«
+
+»Ist nicht vielleicht eine Katze drinnen?«
+
+»Eine Katze? Nein! Wie kommen Sie auf den sonderbaren Einfall?«
+
+»Sehen Sie mal hierher!« Er nahm eine kleine Untertasse voll Milch von dem Schrank herunter, die oben gestanden hatte.
+
+»Nein; wir halten keine Katze. Aber ein Leopard und ein Pavian sind im Hause.«
+
+»Ja – so! Nun, ein Leopard ist ja eben nichts als eine große Katze, allerdings dürfte eine Untertasse voll Milch für seine Bedürfnisse nicht weit reichen. Nun möchte ich nur noch eines ergründen.« Damit kniete er vor den Holzstuhl hin und prüfte den Sitz mit größter Aufmerksamkeit.
+
+»Danke. Das wäre also festgestellt«, sagte er, indem er aufstand und seine Lupe einsteckte. »Hallo! Da sehe ich noch etwas Interessantes!«
+
+Der Gegenstand, der seinen Blick auf sich gezogen hatte, war eine kleine Hundepeitsche, die an der einen Ecke des Bettes hing und deren Schnur so zusammengeknüpft war, daß sie eine runde Schleife bildete.
+
+»Was hältst du davon, Watson?«
+
+»Das ist eine ganz gewöhnliche Hundepeitsche. Nur kann ich mir nicht denken, wozu die Schleife daran dienen soll.«
+
+»Also ist sie doch nicht so ganz gewöhnlicher Art, nicht wahr? Ach ja, es ist eine schlechte Welt! Und am allerschlimmsten ist es, wenn ein fähiger Kopf seine Gaben zu verbrecherischen Gedanken gebraucht. – Ich glaube, ich habe jetzt genug gesehen, Fräulein Stoner; wir wollen jetzt wieder auf den Rasenplatz hinausgehen.«
+
+Noch nie hatte ich meinen Freund mit so grimmiger Miene und so finster zusammengezogenen Brauen gesehen, als nun, da wir den Schauplatz der Untersuchung verließen. Mehrmals gingen wir auf dem Rasen auf und ab, aber weder ich noch Fräulein Stoner mochten ihn durch eine Frage in seinen Gedanken stören, bis er selbst sich dem tiefen Nachsinnen entriß.
+
+»Es ist unbedingt nötig, Fräulein Stoner«, begann er endlich, »daß Sie meinem Rat in jeder Hinsicht strengstens Folge leisten.«
+
+»Sie können sich darauf verlassen.«
+
+»Der Fall ist zu ernst, um die geringste Unschlüssigkeit zu gestatten. Ihr Leben hängt möglicherweise von Ihrem unbedingten Gehorsam ab.«
+
+»Ich verspreche Ihnen, daß ich alle Ihre Anweisungen genau befolgen werde.«
+
+»Vor allem muß ich mit meinem Freund diese Nacht in Ihrem Zimmer verbringen.«
+
+Ganz verwundert starrten wir ihn beide an.
+
+»Jawohl, das muß sein. Sie sollen gleich das Nähere darüber hören. Das Haus dort drüben ist doch das Dorfwirtshaus?«
+
+»Jawohl, das ist die ›Krone‹.«
+
+»Sehr gut. Sieht man Ihre Fenster von dort aus?«
+
+»Ja.«
+
+»Wenn Ihr Stiefvater heimkommt, müssen Sie Kopfweh vorschützen und sich in Ihr Zimmer einschließen. Sobald Sie dann hören, daß er sich zur Ruhe begeben hat, öffnen Sie die Riegel am Fenster und den Laden, stellen ein Windlicht – so etwas werden Sie ja wohl im Hause haben – zum Zeichen für uns ans Fenster und ziehen sich dann in aller Stille nach Ihrem früheren Schlafzimmer zurück. Sie können sich doch sicher trotz der Bauarbeiten für eine Nacht darin einrichten.«
+
+»O ja, ganz gut.«
+
+»Das Weitere überlassen Sie uns.«
+
+»Was haben Sie vor?«
+
+»Wir werden die Nacht in Ihrem Zimmer verbringen, um dem Geräusch, das Sie so erschreckt hat, auf die Spur zu kommen.«
+
+»Ich habe das Gefühl, Herr Holmes, als hätten Sie schon einen bestimmten Verdacht, als wüßten Sie mehr, als Sie mir zugeben wollen«, sagte Fräulein Stoner und legte ihm die Hand auf den Arm.
+
+»Das kann wohl sein.«
+
+»Dann sagen Sie mir ums Himmels willen, was an dem Tod meiner Schwester schuld war.«
+
+»Ich möchte gern erst noch sichere Beweise haben.«
+
+»Könnte ich nicht wenigstens erfahren, ob meine Ansicht zutrifft, daß sie an einem plötzlichen Schrecken gestorben ist.«
+
+»Nein, das glaube ich nicht. Nach meiner Überzeugung lag wohl eine greifbare Ursache vor. Nun aber, Fräulein Stoner, müssen wir gehen; denn wenn Dr. Roylott zurückkäme und uns sähe, wäre unser ganzer Besuch umsonst gewesen. Leben Sie wohl und halten Sie sich tapfer; wenn Sie meinen Anweisungen pünktlich nachkommen, dürfen Sie versichert sein, daß wir Ihnen alle Gefahren bald aus dem Wege geräumt haben werden.«
+
+Drüben in der »Krone« verschafften wir uns im oberen Stockwerk zwei Zimmer, deren Fenster gerade nach dem Parktor und dem bewohnten Flügel des Herrenhauses hinüberschauten. In der Dämmerung kam Dr. Roylott angefahren; seine Riesengestalt ragte hoch empor neben dem schmächtigen Burschen, der den Wagen lenkte. Als dieser das Gittertor nicht ohne weiteres aufbrachte, hörten wir den Doktor mit seiner heiseren Stimme wütend auf ihn einschreien, am liebsten wäre er mit den geballten Fäusten auf ihn losgegangen. Einige Minuten später blitzte plötzlich aus einem der Wohnzimmer das Licht einer Lampe durch das Laubwerk herüber.
+
+»Weißt du, Watson«, sagte Holmes, als wir in der zunehmenden Dunkelheit beisammen saßen, »es ist mir wirklich nicht ganz wohl dabei, daß ich dich heute nacht mitnehmen soll. Die Sache ist durchaus nicht ohne ernstliche Gefahr.«
+
+»Aber du glaubst, daß ich dir dabei von Nutzen sein kann?«
+
+»Deine Gegenwart ist möglicherweise von ganz unbezahlbarem Werte.«
+
+»Dann werde ich selbstverständlich mitgehen.«
+
+»Das ist sehr freundlich von dir.«
+
+»Du sprichst von Gefahr. Offenbar hast du in den Zimmern mehr gesehen, als ich entdecken konnte.«
+
+»Nein, ich habe wahrscheinlich nur mehr Schlüsse daraus abgeleitet. Gesehen hast du wohl gerade so viel wie ich.«
+
+»Außer dem Klingelzug habe ich nichts Bemerkenswertes wahrgenommen. Zu welchem Zweck der aber dienen sollte, kann ich mir nicht vorstellen, das gestehe ich ehrlich.«
+
+»Hast du auch das Luftloch gesehen?«
+
+»Ja, aber ich meine, eine kleine Öffnung, die aus einem Zimmer ins andere führt, ist doch nichts so ganz Ungewöhnliches. Sie ist ja so klein, daß kaum eine Ratte durchschlüpfen kann.«
+
+»Ich wußte schon, ehe wir hierher kamen, daß wir ein solches Luftloch finden würden.«
+
+»Aber, bester Holmes – –!«
+
+»Du erinnerst dich gewiß, daß uns Fräulein Stoner berichtete, ihre Schwester habe Dr. Roylotts Zigarre gerochen. Nun, das brachte mich sogleich auf den Gedanken, daß zwischen den beiden Zimmern eine Verbindung bestehen muß; natürlich konnte sie nur klein sein, sonst wäre sie bei der gerichtlichen Untersuchung bemerkt worden; so kam ich zu dem Schluß, daß es sich um ein Luftloch handeln werde.«
+
+»Aber was kann denn dabei Schlimmes sein?«
+
+»Es ist doch zum mindesten ein merkwürdiges Zusammentreffen, daß das Mädchen, das in seinem Bett schläft, plötzlich stirbt, gerade nachdem man über demselben ein Luftloch angebracht und daneben einen Klingelzug befestigt hat. Kommt dir das nicht auch auffallend vor?«
+
+»Ich vermag noch immer nicht einzusehen, wie das alles zusammenhängen soll.«
+
+»Hast du vielleicht etwas Besonderes an dem Bett bemerkt?«
+
+»Nein.«
+
+»Es ist am Fußboden angenagelt. Ist dir das sonst schon jemals vorgekommen?«
+
+»Nein, das ist allerdings sonst nicht gerade üblich.«
+
+»Fräulein Stoner konnte also ihr Bett nicht von der Stelle rücken. Es muß gerade unter dem Luftloch und dem Seil stehen bleiben – ein Seil müssen wir es doch eigentlich nennen, da es auf einen Klingelzug offenbar überhaupt nicht abgesehen war.«
+
+»Holmes!« rief ich aus, »ich glaube, mir dämmert allmählich eine Ahnung auf, wohin deine Andeutungen zielen. Wir sind wohl gerade zur rechten Zeit gekommen, um ein raffiniert ausgedachtes Verbrechen zu verhindern.«
+
+»Jawohl, raffiniert ausgedacht! Wenn ein Arzt zum Verbrecher wird, so tut er es allen andern zuvor; denn er besitzt die nötigen Kenntnisse und hat starke Nerven. So war es zu allen Zeiten. Der Mensch, mit dem wir es zu tun haben, stellt zwar selbst berüchtigte Vorbilder in den Schatten, aber wir werden es trotzdem wagen, den Kampf mit ihm aufzunehmen. Es warten unsrer noch Aufregungen genug, bevor die Nacht um ist; deshalb laß uns jetzt in aller Ruhe und Gemütlichkeit eine Pfeife zusammen rauchen und ein paar Stunden an etwas Heiteres denken.«
+
+Etwa um neun Uhr erlosch der Lichtschein zwischen den Bäumen, und das Herrenhaus lag nun in tiefem Dunkel. Zwei Stunden waren langsam dahingeschlichen, als plötzlich, mit dem Schlag elf Uhr, ein einzelnes Licht gerade uns gegenüber aufblitzte.
+
+»Es ist das Zeichen für uns«, sagte Holmes aufspringend; »es kommt aus dem Mittelfenster.«
+
+Beim Verlassen des Hauses erklärten wir dem Wirt mit ein paar Worten, daß wir noch einen späten Besuch bei einem Bekannten machen wollten, wo wir möglicherweise auch die Nacht zubringen würden. Im nächsten Augenblick blies uns bereits der kalte Wind auf der finsteren Landstraße ins Gesicht, und der kleine Lichtschein vom Herrenhause war nun unser einziger Leitstern auf dem dunkeln, unheimlichen Pfade.
+
+In den Park hineinzukommen kostete uns wenig Mühe, denn in der alten Umfassungsmauer gähnten an mehreren Stellen weite Lücken. Wir hielten uns unter den Bäumen, bis wir auf dem Rasenplatz waren. Als wir ihn eben überschritten hatten und im Begriff waren, durch das Fenster einzusteigen, schoß aus dem dichten Lorbeergebüsch ein Wesen hervor, das einem häßlichen, mißgestalteten Kinde ähnlich sah. Zuerst ließ es sich unter allerlei Gliederverrenkungen ins Gras niederfallen, dann rannte es eilig über den Rasen davon und verschwand wieder in der Dunkelheit.
+
+Entsetzt waren wir beide stehengeblieben. Holmes war im ersten Augenblick nicht weniger erschrocken als ich selbst. In seiner Aufregung preßte er mir das Handgelenk zusammen, daß ich hätte aufschreien mögen. Dann aber brach er in ein unterdrücktes Lachen aus und legte seine Lippen an mein Ohr.
+
+»Diesmal haben wir uns schön anführen lassen«, flüsterte er, »das ist ja der Pavian.«
+
+Ich hatte die ausgefallenen Liebhabereien des Hausherrn ganz vergessen. Ein Leopard war überdies ja auch noch da und konnte uns jeden Augenblick auf den Schultern sitzen. Ich gestehe, daß ich mich erst etwas erleichtert fühlte, als ich mich im Innern des Schlafzimmers befand, nachdem ich zuvor, dem Beispiel meines Freundes folgend, die Schuhe ausgezogen hatte. Holmes schloß nun geräuschlos die Läden, stellte das Windlicht auf den Tisch und ließ dann seinen Blick im Zimmer umherschweifen. Es war noch alles genau so, wie wir es am Tage gesehen hatten. Durch die hohle Hand flüsterte mir Holmes so leise zu, daß ich ihn eben noch verstehen konnte:
+
+»Das geringste Geräusch kann uns alles verderben.«
+
+Ich nickte, zum Zeichen, daß ich verstanden habe.
+
+»Wir dürfen das Licht nicht brennen lassen. Er würde den Schein durch das Luftloch sofort bemerken.«
+
+Ich nickte wieder.
+
+»Schlafe nur nicht ein; es könnte dich das Leben kosten. Halte deine Pistole für den Notfall bereit; ich will mich auf das Bett setzen, und du nimmst den Stuhl dort.«
+
+Ich zog meinen Revolver aus der Tasche und legte ihn auf den Tischrand.
+
+Holmes hatte eine lange dünne Gerte mit hereingebracht, die er nun samt einer Taschenlampe neben sich auf das Bett legte. Dann löschte er den kleinen Docht zwischen den Fingern aus und wir saßen im Dunkeln.
+
+Niemals werde ich diese entsetzliche Wache je vergessen können. Kein Laut, nicht der leiseste Atemzug war vernehmbar, und doch wußte ich, daß mein Begleiter kaum ein paar Schritte von mir mit offenen Augen in derselben Erregung und Spannung aller Nerven dasaß, wie ich selbst. Die Läden ließen nicht die kleinste Nachthelle herein, und die Finsternis, die uns umgab, war undurchdringlich. Draußen ließ sich von Zeit zu Zeit der Schrei eines Nachtvogels und einmal auch, gerade vor unserem Fenster, ein langgezogenes katzenartiges Wimmern hören, das uns bewies, daß der Leopard wirklich frei umherlief. Aus weiter Ferne klangen die tiefen Töne der Kirchenuhr herüber, die alle Viertelstunden schlug. Wie lang wurden sie uns, diese Viertelstunden! Es schlug zwölf, eins, zwei, drei – und noch immer saßen wir da und harrten stumm der Dinge, die da kommen sollten.
+
+Plötzlich blitzte an dem Luftloch ein flüchtiger Lichtschein auf, der sofort wieder verschwand, während sich nun ein starker Geruch von brennendem Öl und erhitztem Metall bemerkbar machte. Im Nebenzimmer war eine Blendlaterne angezündet worden. Ich hörte, daß sich etwas leise bewegte. Dann war wieder alles still, während der Geruch sich immer mehr ausbreitete. Eine halbe Stunde saßen wir so und lauschten mit allen Sinnen. Nun ließ sich mit einemmal ein anderer Laut vernehmen – ein ganz leises, sanftes Zischen, wie wenn ein dünner Dampfstrahl längere Zeit aus einem Kessel ausströmt. Augenblicklich sprang Holmes vom Bette auf, knipste seine Taschenlampe an und hieb mit seiner Gerte wütend auf den Klingelzug los.
+
+»Du siehst es doch, Watson?« rief er, »siehst du es?«
+
+Aber ich sah nichts. In dem Augenblick, als Holmes Licht machte, vernahm ich zwar ein sanftes helles Pfeifen, aber bei der plötzlichen Helle, die meine müden Augen traf, war ich nicht imstande, zu unterscheiden, auf was mein Freund so grimmig hineinschlug. Doch bemerkte ich wohl, daß er totenblaß war, und daß sich Entsetzen und Abscheu in seinen Zügen malten.
+
+Jetzt hatte er aufgehört zu schlagen und blickte noch zu dem Luftloch empor, als plötzlich aus der nächtlichen Stille der schauerlichste Schrei hervordrang, den ich je vernommen habe. Er schwoll immer lauter und lauter an; Schmerz, Angst und Wut – das alles klang vereint aus diesem gräßlichen, unbeschreiblichen Laut an unser Ohr. Später erfuhren wir, daß drunten im Dorf, ja sogar in dem entlegenen Pfarrhause bei diesem Schrei die Schläfer aufgefahren waren. Uns stockte vor Entsetzen der Atem, und starr blickten wir einer den andern an, bis auch der letzte Widerhall in der tiefen Stille erstorben war.
+
+»Was mag das bedeuten?« brachte ich mühsam hervor.
+
+»Das bedeutet, daß alles vorüber ist«, gab Holmes zur Antwort, »und vielleicht ist es schließlich am besten so. Nimm deine Pistole zur Hand, dann wollen wir in Dr. Roylotts Zimmer hinübergehen.«
+
+Mit leichenblassem Gesicht schritt er voran auf den Gang hinaus. Zweimal klopfte er an des Doktors Zimmertür, ohne daß von drinnen eine Antwort kam. Nun drückte er die Klinke auf und trat ein, ich mit gespannter Pistole dicht hinter ihm.
+
+Ein eigentümlicher Anblick bot sich unseren Augen. Auf dem Tische stand eine Blendlaterne, aus deren halbgeöffnetem Türchen ein greller Lichtstrahl auf den Eisenschrank fiel, dessen Türe weit offen stand. Neben dem Tisch auf dem Holzstuhl saß Dr. Roylott in einem langen grauen Schlafrock, aus dem unten seine bloßen Knöchel hervorschauten, während seine Füße in roten türkischen Pantoffeln steckten. Auf seinem Schoße lag die Hundepeitsche mit der langen Schleife, die uns am Tage zuvor in die Augen gefallen war. Sein Kinn war aufwärts gezogen, und seine glasigen Augen starrten schauerlich nach einer Ecke der Stubendecke empor. Um die Stirne hatte er ein eigentümliches gelbes Band mit bräunlichen Tupfen, das anscheinend fest um seinen Kopf gewunden war. Bei unserem Eintreten gab er keinen Laut von sich und rührte sich nicht.
+
+»Das Band! Das getupfte Band!« flüsterte Holmes.
+
+Ich machte einen Schritt vorwärts. Auf einmal begann der eigentümliche Kopfschmuck sich zu bewegen, und mitten aus den Haaren des Dasitzenden erhob sich der platte, spitzige Kopf und der aufgeblasene Hals einer Schlange.
+
+»Es ist eine Sumpfotter!« rief Holmes aus, »die giftigste aller indischen Schlangen. Zehn Sekunden nach ihrem Biß lebte er schon nicht mehr. Hier ist in Wahrheit das Böse auf seinen Urheber zurückgefallen, und der Verbrecher stürzte selbst in die Grube, die er andern gegraben. Wir wollen das Tier vor allem wieder in seinen Behälter befördern; dann können wir Fräulein Stoner wegbringen und die Behörde von dem Vorgefallenen in Kenntnis setzen.«
+
+Bei diesen Worten nahm er dem Toten rasch die Peitsche vom Schoß, warf die Schleife um den Hals der Schlange und zog sie von ihrem struppigen Lager weg. Dann trug er sie auf Armeslänge vor sich her nach dem Schrank, legte sie hinein und verschloß ihn wieder.
+
+Dies ist der wahre Hergang beim Tode des Dr. Grimesby Roylott von Stoke Moran. Meine Erzählung ist bereits sehr lang geworden; ich will es mir deshalb ersparen, noch ausführlich zu berichten, wie wir die traurige Kunde Fräulein Stoner mitteilten, als wir sie mit dem Frühzug in die Obhut ihrer Tante nach Harrow brachten, und wie die Behörde auf dem Wege ihres langsamen Verfahrens endlich zu dem Schlusse gelangte, daß der Doktor sein plötzliches Lebensende durch unvorsichtiges Spielen mit einem gefährlichen Lieblingstier verschuldet habe. Das wenige, was ich über den Fall noch weiter erfuhr, teilte mir Holmes unterwegs auf der Heimfahrt am nächsten Tage mit.
+
+»Ich war«, erklärte er mir, »zu einer gänzlich irrigen Schlußfolgerung gelangt, woraus du siehst, mein lieber Watson, wie gefährlich es stets ist, seine Schlüsse auf ungenügender Grundlage aufzubauen. Die Anwesenheit der Zigeuner und die doppelsinnige Äußerung der unglücklichen Julia, durch die sie zweifellos den Eindruck bezeichnen wollte, den die Gestalt der Schlange im Scheine des Zündhölzchens auf sie gemacht hatte, genügten, um mich auf eine völlig falsche Spur zu bringen. Ich kann nur das Verdienst für mich in Anspruch nehmen, daß ich augenblicklich davon abging, als es mir klar wurde, daß jede Gefahr, welcher Art sie auch sei, die der Bewohnerin des Zimmers drohte, weder durch die Tür noch durch das Fenster nahen könne. Sofort fiel mir nun das Luftloch auf mit dem Klingelzug daneben, der auf das Bett herabhing. Als ich dann entdeckte, daß es gar keine Klingel war, und ich überdies das Bett am Boden befestigt fand, erwachte in mir augenblicklich der Verdacht, daß das Seil nur dazu diene, um irgend etwas an ihm durch das Luftloch auf das Bett herunterzulassen. Sofort dachte ich an eine Schlange; hielt ich mir dazu weiter vor Augen, daß der Doktor sich beständig Tiere aus Indien schicken ließ, so glaubte ich wirklich annehmen zu dürfen, daß ich mich nun auf der richtigen Spur befinde. Der Gedanke, sich einer Art von Gift zu bedienen, das sich durch keinerlei chemische Untersuchung nachweisen ließ, war einem Menschen mit den Kenntnissen und der Gewissenlosigkeit des Doktors, der lange im Orient gelebt hatte, ganz besonders zuzutrauen. Die rasche Wirkung eines solchen Giftes mußte ihm von seinem Standpunkt aus ebenfalls sehr erwünscht sein. Der Leichenbeschauer hätte wirklich ein scharfes Auge haben müssen, um die zwei winzigen dunklen Pünktchen wahrzunehmen, die einzige Spur, die der Biß der Giftzähne hinterließ. Dann dachte ich über das Pfeifen nach. Er mußte natürlich die Schlange wieder zurückrufen, ehe es hell wurde, damit das Opfer sie nicht erblicken konnte. Deshalb hatte er sie, wahrscheinlich mittels der Milch, die wir bei ihm vorfanden, so abgerichtet, daß sie auf seinen Pfiff zu ihm kam. Zur geeigneten Zeit ließ er sie allemal durch das Luftloch hinüberschlüpfen; er konnte sich darauf verlassen, daß sie an dem Klingelzug auf das Bett hinunterkroch. Ob sie die Schlafende sofort beißen würde, war allerdings nicht sicher; möglich, daß diese eine ganze Woche lang der Gefahr Nacht für Nacht entging; aber früher oder später mußte sie doch zum Opfer fallen.
+
+Zu diesen Schlußfolgerungen war ich bereits gelangt, ehe ich überhaupt des Doktors Zimmer betreten hatte. An seinem Stuhl sah ich dann, daß er sich regelmäßig darauf zu stellen pflegte; natürlich, denn er hätte ja sonst nicht zu dem Luftloch hinaufzureichen vermocht. Der Anblick des eisernen Schrankes, der Untertasse mit Milch und der Schlinge an der Peitschenschnur genügten dann vollends, um jeden Zweifel bei mir zu verscheuchen. Der metallene Klang, den Fräulein Stoner hörte, rührte offenbar von der Tür des Schrankes her, den ihr Vater hinter seiner grausigen Bewohnerin hastig zuschlug. Welche Schritte ich dann tat, und wie sehr sich die Richtigkeit meiner Auffassung bestätigt hat, ist dir ja bekannt. Sobald ich die Schlange zischen hörte, was du ohne Zweifel gleichfalls gehört hast, machte ich augenblicklich Licht und ging auf sie los ...«
+
+»Was zur Folge hatte, daß sie sich schleunigst durch das Luftloch davon machte.«
+
+»Und zur weiteren Folge, daß sie sich drüben auf ihren Herrn stürzte. Ein paar von den Hieben mit meiner Gerte saßen ganz gehörig; dadurch erwachte bei der Schlange ihre natürliche Bösartigkeit, so daß sie auf den nächsten besten losging. In dieser Beziehung trage ich zweifellos mittelbar die Schuld an des Doktors Tode, aber ich glaube kaum, daß sie mein Gewissen sonderlich schwer bedrücken wird.«
+
+> Als der einsame Leser in dem stillen Raum bis hierher gekommen war, sagte er plötzlich laut mitten ins Zimmer hinein:
+
+> »Nein, an dieser Schuld hab ich wahrhaftig noch nie schwer getragen.« Seine Hand ließ das Blatt sinken und sein Blick ging weit in die Ferne. Das altersgraue, verwahrloste Gemäuer von Stoke Moran wuchs noch einmal für eine Weile vor ihm auf mit allen Einzelheiten jener Schreckensnacht. Dann zerflatterte es wieder wie ein Nebelgebilde und nichts blieb zurück als die innere Gewißheit, daß er die Verantwortung für diesen Ausgang der Tragödie auf Stoke Moran mit gutem Gewissen tragen konnte.
+
+> Mit ruhiger Miene griff Holmes nach der nächsten Nummer des »Telegraph«. »Sieh da«, sagte er vor sich hin, »das ist ja diese merkwürdige Geschichte mit der hydraulischen Presse:

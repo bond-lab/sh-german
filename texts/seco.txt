@@ -1,0 +1,541 @@
+# Der zweite Blutflecken
+
+Ich hatte die Absicht, mit dem »Mord in Abbey Grange« meine Veröffentlichung der Taten meines Freundes Sherlock Holmes endgültig zu beschließen. Dieser Entschluß entsprang nicht etwa dem Mangel an Stoff, denn ich habe noch Hunderte von Fällen in meinem Tagebuch aufnotiert, die ich noch nicht benutzt habe. Auch das Schwinden des Interesses auf seiten meiner Leser hat mich nicht dazu veranlaßt, denn die eigenartige Persönlichkeit und die einzigartigen Methoden dieses merkwürdigen Mannes üben immer wieder neuen Reiz auf den Leser aus. Der wirkliche Grund war das Aergernis, das Holmes selbst an dieser fortgesetzten Veröffentlichung nahm. So lange er seinen Beruf noch praktisch ausübte, war ihm die Bekanntgebung seiner Erfolge noch einigermaßen wertvoll; seitdem er sich aber definitiv von London zurückgezogen und sich in den freundlichen Niederungen von Sussex dem Studium und der Bienenzucht gewidmet hat, ist es ihm widerwärtig, noch bekannter zu werden, und er hat mich streng gebeten, seinen diesbezüglichen Wünschen ein für allemal entgegenzukommen. Erst auf meine dringende Vorstellung, daß ich einem mir bekannten Vertreter einer europäischen Großmacht das Versprechen gegeben hätte, die Geschichte von dem zweiten Blutflecken zu veröffentlichen, wann die Umstände es erlaubten, und auf meinen Hinweis, daß die lange Reihe von Erzählungen in diesem wichtigsten internationalen Fall, der ihm je übertragen sei, ihren Gipfelpunkt finden müsse, gelang es mir endlich, seine Einwilligung zu erhalten, daß ich zum Schluß diesen sehr sorgfältig durchgesehenen Aufsatz dem Publikum vorlegen darf. Wenn jemand hie und da einzelne Angaben zu unbestimmt finden sollte, so möge er dabei bedenken, daß ich zu meiner Zurückhaltung gewichtige Gründe habe.
+
+Es war also in einem gewissen Jahre und in einem gewissen Jahrzehnt, als sich eines Dienstagmorgens zwei Besucher von europäischem Ruf in unserem bescheidenen Heim in der Bakerstraße einfanden. Der eine, ein stolzer Mann mit vorstehender, gebogener Nase und Adleraugen, war kein anderer als der berühmte Lord Bellinger, der Premierminister von Großbritannien. Der andere, ein eleganter, dunkeler Herr in kaum mittleren Jahren, war der Staatssekretär des Auswärtigen Amtes, Trelawney Hope, ein aufgehender Stern am politischen Himmel Europas. Sie saßen nebeneinander auf unserem Sofa, und man konnte ihnen von ihren erregten und bekümmerten Gesichtern ablesen, daß sie ein sehr dringendes Geschäft zu uns führte. Der Premier hatte seine dünnen, blaugeäderten Hände auf den Elfenbeingriff seines Regenschirms gelegt, und sein mageres, asketisches Gesicht blickte düster bald auf Holmes, bald auf mich. Der Sekretär drehte nervös an seinem Schnurrbart und spielte mit der anderen Hand aufgeregt an dem Behang seiner Uhrkette.
+
+»Als ich heute morgen meinen Verlust entdeckte, Herr Holmes, – es war um acht Uhr, – setzte ich sofort den Premierminister davon in Kenntnis. Auf sein Anraten sind wir beide zu Ihnen gekommen.«
+
+»Haben Sie die Polizei benachrichtigt?«
+
+»Nein,« antwortete der Premierminister in seiner raschen, entschiedenen Weise. »Das haben wir nicht getan und können es auch unmöglich tun. Die Polizei benachrichtigen, läuft am Ende darauf hinaus, das Publikum zu benachrichtigen. Und das wollten wir in erster Linie gerade vermeiden.«
+
+»Und warum?«
+
+»Weil das fragliche Schriftstück von so ungeheuerer Bedeutung ist, daß sein Bekanntwerden sehr leicht – ich möchte fast sagen, sehr wahrscheinlich – die schwierigsten europäischen Verwickelungen zur Folge haben könnte. Es ist nicht zu viel gesagt, daß Krieg oder Frieden von dem Ausgang der Angelegenheit abhängen. Wenn seine Wiederbeschaffung nicht vollkommen geheim geschehen kann, braucht es ebensogut überhaupt nicht wiedergefunden zu werden, denn die Diebe verfolgen auch nur den Zweck, seinen Inhalt in die große Öffentlichkeit zu bringen.«
+
+»Ich verstehe. Nun, Herr Staatssekretär, ich würde Ihnen sehr verbunden sein, wenn Sie mir genau angeben wollten, unter welchen Umständen dieses Dokument verschwunden ist.«
+
+»Das kann ich Ihnen in wenigen Worten mitteilen, Herr Holmes. Der Brief – es war nämlich ein Brief von einem fremden Potentaten – traf vor sechs Tagen bei uns ein. Er war von derartiger Bedeutung, daß ich ihn nie in meinem Bureauschrank liegen ließ, sondern allabendlich in meine Privatwohnung in Whitehall Terrace mitnahm und ihn in meinem Schlafzimmer in meinem verschließbaren Briefbehälter aufbewahrte. Er war auch vergangene Nacht darin. Das weiß ich bestimmt. Ich schloß erst, während ich mich zum Essen umkleidete, das Kästchen auf und sah das Schriftstück noch d'rin. Heute morgen war es fort. Das Kästchen hatte die ganze Nacht auf meinem Toilettetisch gestanden. Ich schlafe sehr leicht und meine Frau gleichfalls. Wir können beide beschwören, daß während der Nacht kein Mensch ins Zimmer gekommen sein kann. Und doch fehlt der Brief.«
+
+»Um wieviel Uhr speisten Sie?«
+
+»Um halb acht Uhr.«
+
+»Wann gingen Sie zu Bett?«
+
+»Meine Frau war im Theater. Ich wartete auf sie. Es war halb zwölf, als wir uns ins Schlafzimmer zurückzogen.«
+
+»Dann hatte der Kasten mit dem Brief also vier Stunden unbewacht dort gestanden?«
+
+»Es ist aber keinem Menschen gestattet, dieses Zimmer zu betreten, außer des Morgens dem Zimmermädchen und meinem Diener und der Zofe meiner Frau. Es sind lauter zuverlässige Leute, die schon lange im Hause sind. Außerdem konnte keines von ihnen wissen, daß sich etwas Wertvolleres als die gewöhnlichen geschäftlichen Schreiben in dem Kästchen befand.«
+
+»Wer kannte das Vorhandensein dieses Briefes?«
+
+»Niemand im Hause.«
+
+»Ihre Gattin wußte es doch wohl?«
+
+»Auch nicht; ich hatte meiner Frau nichts davon gesagt, erst heute früh habe ich ihr den Verlust mitgeteilt.«
+
+Der Premier nickte zustimmend mit dem Kopf.
+
+»Ich habe stets gewußt, wie hoch Sie Ihre amtlichen Pflichten einschätzen,« sagte er. »Ich bin überzeugt, daß sie Ihnen, wenn es sich um ein geheimes Aktenstück von solcher Wichtigkeit handelt, über Ihre Familienbande gehen.«
+
+Der Sekretär verneigte sich tief.
+
+»Sie lassen mir Gerechtigkeit widerfahren. Bis heute morgen habe ich meiner Frau keine Silbe davon gesagt.«
+
+»Könnte Sie's vermutet haben?«
+
+»Nein, Herr Holmes, das konnte sie ebensowenig wie sonst jemand.«
+
+»Sind Ihnen früher schon Dokumente abhanden gekommen?«
+
+»Nein.«
+
+»Wer in ganz England hat Kenntnis von der Existenz dieses Schriftstücks gehabt?«
+
+»Sämtliche Kabinettsmitglieder sind gestern davon verständigt worden; aber das Gelöbnis der Verschwiegenheit, welches jeder Sitzung folgt, wurde durch eine besondere Warnung des Ministerpräsidenten in diesem Falle noch verschärft. Heiliger Himmel, wie hätte ich damals denken können, daß ich nach ein paar Stunden den ganzen Brief verlieren würde!« Aus seinen schönen Zügen sprach die Verzweiflung, er wollte sich das Haar ausraufen. Einen Augenblick zeigte sich die wahre Natur dieses Mannes, impulsiv, lebhaft, erregbar. Im nächsten Moment aber hatte er die aristokratische Maske wieder vor und die sanfte, glatte Sprache wiedergefunden. »Außer den Mitgliedern des Kabinetts sind es nur noch zwei oder drei Beamte meines Departements, die von dem Briefe wissen. Sonst niemand in ganz England, Herr Holmes, ich versichere Sie dessen.«
+
+»Aber außerhalb Englands?«
+
+»Ich glaube, daß ihn außer dem Manne, der ihn geschrieben, kein Mensch zu Gesicht bekommen hat. Ich bin fest überzeugt, daß die Minister und die üblichen Instanzen umgangen worden sind.«
+
+Holmes dachte eine Zeitlang nach.
+
+»Nun, mein Herr, muß ich Sie um eingehendere Auskunft bitten. Was war es für ein Schreiben, und warum soll sein Verschwinden von so unermeßlichen Folgen begleitet sein?«
+
+Die beiden Staatsmänner tauschten rasch einen Blick miteinander aus und der Minister zog die finstere Stirn in schwere Falten.
+
+»Herr Holmes, der Umschlag ist lang und schmal und von hellblauer Farbe. Er trägt ein rotes Siegel mit einem lauernden Löwen. Die Adresse ist in großen, markigen Zügen geschrieben und –«
+
+»Ich fürchte,« warf Holmes hier ein, »so interessant und auch wesentlich diese Angaben sind, daß ich doch mit meinen Fragen der Sache auf den Grund gehen muß. Was stand in dem Brief?«
+
+»Das ist ein Staatsgeheimnis von höchster Bedeutung, welches ich Ihnen nicht sagen kann, und ich sehe auch nicht ein, daß es notwendig ist. Wenn Sie mit Hilfe der großen Fähigkeiten, die man Ihnen nachsagt, einen Umschlag, wie ich ihn Ihnen eben beschrieben habe, mit seinem Inhalt auffinden, haben Sie sich um Ihr Vaterland sehr verdient gemacht und werden einen Lohn erhalten, so hoch wir ihn nur bemessen können.«
+
+Sherlock Holmes stand lächelnd vom Stuhl auf.
+
+»Sie sind zwei der vielbeschäftigsten Männer im ganzen Lande,« sagte er, »und ich habe in meiner bescheidenen Weise auch viel zu tun. Ich bedauere außerordentlich, Ihnen in dieser Angelegenheit nicht weiter dienen zu können, und jede Fortsetzung dieser Verhandlung würde also bloßer Zeitverlust sein.«
+
+Der Premier sprang in die Höhe und warf meinem Freunde jene scharfen grimmen Blicke aus den tiefliegenden Augen zu, vor denen ein ganzes Kabinett erzitterte. »Ich bin nicht gewöhnt, mein Herr –«, begann er, aber er mäßigte seinen Zorn und setzte sich wieder nieder. Eine Minute herrschte vollkommenes Schweigen, dann zuckte der alte Politiker die Achseln.
+
+»Wir müssen Ihre Bedingungen annehmen, Herr Holmes, und es ist ja auch unvernünftig von uns, zu erwarten, daß Sie für uns tätig sein sollen, ohne daß wir Ihnen unser volles Vertrauen schenken.«
+
+»Ich stimme mit Ihrer Ansicht überein,« fügte der Sekretär hinzu.
+
+»Dann will ich's Ihnen, indem ich auf Ihre und Ihres Kollegen Dr. Watson Ehre rechne, also sagen. Ich appelliere auch noch an Ihre Vaterlandsliebe, denn ich vermag mir kein größeres Unheil für das Land vorzustellen, als wenn diese Sache an die Oeffentlichkeit käme.«
+
+»Sie dürfen uns ruhig vertrauen.«
+
+»Der Brief stammt von einem fremden Herrscher, der durch einige neuerliche koloniale Verwickelungen aus der Fassung gebracht worden ist. Das Schreiben ist in großer Eile abgefaßt und ein rein persönlicher Akt des Fürsten. Nachforschungen haben ergeben, daß die Minister keine Ahnung davon haben. Gleichzeitig ist es so unglücklich gehalten, und gewisse Sätze darin sind so verletzend, daß ihre Veröffentlichung die Bewohner dieses Landes in eine große Erregung versetzen und eine derartige Gärung zur Folge haben würde, daß ich mit gutem Grunde glauben muß, jener Staat würde sich acht Tage nach dem Bekanntwerden dieses Schreibens im Kriegszustand befinden.«
+
+Holmes schrieb auf einen Zettel einen Namen und reichte ihn dem Premier.
+
+»Jawohl. Dieser war's. Und dessen Brief – – der Brief, der eine Ausgabe von tausend Millionen und das Leben von hunderttausend Mann in sich schließt – ist auf eine so rätselhafte Art verloren gegangen.«
+
+»Haben Sie den Absender davon unterrichtet?«
+
+»Ja, wir haben ihm ein geheimes Telegramm geschickt.«
+
+»Vielleicht wünscht er die Veröffentlichung des Briefes?«
+
+»Nein, Herr Holmes; wir haben triftige Gründe, anzunehmen, daß er bereits einsieht, wie indiskret und voreilig er gehandelt hat. Für ihn und sein Volk würde es ein schwererer Schlag sein, wenn die Sache herauskäme, als für uns.«
+
+»Wenn sich's so verhält, wer hat dann an der Bekanntgabe überhaupt ein Interesse? Warum sollte ihn denn jemand zu entwenden oder zu veröffentlichen suchen?«
+
+»Mit dieser Frage bringen Sie mich auf das Gebiet der höheren internationalen Politik, Herr Holmes. Wenn Sie die allgemeine Lage Europas betrachten, werden Sie jedoch den Beweggrund ohne Schwierigkeiten einsehen. Ganz Europa ist ein einziges Kriegslager. Zwei große Bünde halten sich in militärischer Beziehung das Gleichgewicht. Großbritannien bildet das Zünglein der Wage. Wenn nun England zum Krieg mit dem einen Bund getrieben würde, so würde sich der andere das Uebergewicht sichern, ob er sich einmischte oder nicht. Folgen Sie meinen Ausführungen?«
+
+»Sehr wohl. Dann haben eben die Feinde dieses Bundes ein Interesse an dem Brief und seiner Veröffentlichung, um zwischen ihm und uns einen Bruch herbeizuführen?«
+
+»Ganz recht.«
+
+»Und an wen würde dieses Dokument gesandt werden, wenn es in die Hände der Feinde fiele?«
+
+»An eine der großen europäischen Kanzleien. Wahrscheinlich eilt er im gegenwärtigen Augenblick schon mit der ganzen Geschwindigkeit, welche die Dampfkraft gewähren kann, seinem Bestimmungsort entgegen.«
+
+Herr Trelawney Hope ließ den Kopf auf die Brust sinken und stieß einen tiefen Seufzer aus. Der Minister legte ihm beruhigend die Hand auf die Schulter.
+
+»Es ist ein unglücklicher Zufall, mein Lieber. Niemand kann Ihnen deshalb einen Vorwurf machen. Sie haben keine Vorsichtsmaßregel außer acht gelassen. Nun, Herr Holmes, Sie haben den vollen Tatbestand gehört. Was empfehlen Sie zu tun?«
+
+Holmes schüttelte traurig den Kopf.
+
+»Sie meinen, daß, falls das Schriftstück nicht wieder beigeschafft wird, Krieg ausbrechen wird?«
+
+»Ich halte es für sehr wahrscheinlich.«
+
+»Dann rüsten Sie zum Krieg.«
+
+»Das ist ein schlechter Trost, Herr Holmes.«
+
+»Vergegenwärtigen Sie sich die Sachlage, Exzellenz. Daß der Brief nach halb zwölf Uhr weggekommen ist, scheint mir sehr fraglich, denn, soviel ich verstanden habe, hat Herr Hope und seine Gemahlin von dieser Zeit an bis zum Morgen, wo er vermißt wurde, das Zimmer nicht verlassen. Er muß also gestern abend zwischen halb acht und halb zwölf fortgekommen sein, wahrscheinlich näher an dem früheren Zeitpunkt, weil, wer ihn auch entwendet haben mag, offenbar gewußt hat, daß er dort steckte und sich ihn möglichst bald anzueignen versucht hat. Wenn nun ein Dokument von solcher Wichtigkeit um diese Stunde gestohlen worden ist, wo mag es da jetzt schon sein? Niemand wird es behalten haben, sondern es wird möglichst rasch denen übermittelt worden sein, die es gebrauchen können. Welche Aussichten bestehen unter diesen Umständen für uns, es zu überholen oder überhaupt aufzuspüren? Es liegt außerhalb des Bereichs der Möglichkeit.«
+
+Der Premierminister stand von seinem Sitz auf.
+
+»Was Sie sagen, ist vollkommen logisch gedacht, Herr Holmes. Ich sehe ein, daß uns die Sache in der Tat aus der Hand genommen ist.«
+
+»Wir wollen einmal, um nichts unversucht zu lassen, den Fall annehmen, daß ihn das Mädchen oder der Diener genommen hatte –«
+
+»Es sind beide alte, erprobte Leute.«
+
+»Ihr Schlafgemach liegt, wie Sie gesagt haben, im zweiten Stock, hat keinen Eingang von außen und von innen kann niemand hineingehen, ohne bemerkt zu werden. Es muß also jemand aus dem Hause gewesen sein. Wem würde es der Dieb überbringen? Einem der verschiedenen internationalen Spione und Geheimagenten, deren Namen ich so ziemlich kenne. Drei können als die Meister ihrer Zunft gelten. Ich werde meine Nachforschungen damit beginnen, dieselben aufzusuchen und nachzusehen, ob sie zu Hause sind. Ist einer fort – besonders seit der letzten Nacht – so werden wir einen Anhaltspunkt dafür haben, wo der Brief hingekommen ist.«
+
+»Warum sollte er weg sein?« fragte der Staatssekretär. »Er könnte das Schriftstück doch ebensogut einer Gesandtschaft in London übergeben.«
+
+»Das glaube ich nicht. Diese Agenten handeln unabhängig, und ihre Beziehungen zu den Botschaften sind oft gespannt.«
+
+Der Minister nickte zustimmend.
+
+»Ich glaube, Sie haben recht, Herr Holmes. Ein so wertvolles Stück würden sie persönlich und der betreffenden Regierung selbst überbringen. Ich bin der Ansicht, daß Sie in dieser Weise sehr geschickt vorgehen. Uebrigens können wir nicht alle unsere übrigen Pflichten vernachlässigen, Herr Hope; dieses Mißgeschick können wir doch nicht mehr ändern. Sollten im Laufe des Tages irgendwelche Wendungen eintreten, so werden wir Sie's wissen lassen, Herr Holmes, und Sie werden uns umgekehrt auch die Ergebnisse Ihrer Untersuchungen mitteilen.«
+
+Die beiden Staatsmänner verbeugten sich und gingen ernst zur Tür hinaus.
+
+Als sie weg waren, zündete Holmes schweigend seine Pfeife an und saß längere Zeit tief in Gedanken versunken auf seinem Stuhl. Ich hatte die Morgenzeitung zur Hand genommen und las mit großem Interesse einen Artikel über ein sensationelles Verbrechen, das während der Nacht in London passiert war, als mein Freund plötzlich aufstand und die Pfeife beiseite legte.
+
+»Jawohl,« sagte er dann, »es gibt keinen anderen Weg, um einen Ausgangspunkt zu finden. Die Situation ist verzweifelt, aber nicht hoffnungslos. Wenn wir jetzt sicher feststellen könnten, welcher derselben es im Besitz hat, wäre es gerade noch möglich, die Weitergabe zu verhindern. Jedenfalls ist es bei diesen Gaunern nur eine Geldfrage, und ich habe die Staatskasse zur Verfügung. Wenn das Schriftstück noch auf dem Markt ist, werde ich's kaufen, es mag kosten was es will. Es ist anzunehmen, daß es der Kerl zurückhält, um zu sehn, was für Angebote ihm von dieser Seite gemacht werden, bevor er sein Glück anderswo versucht. Nur die drei sind imstande, ein so gewagtes Spiel zu spielen, Oberstein, La Rothiere und Eduardo Lucas. Ich will jeden aufsuchen.«
+
+Ich guckte auf mein Zeitungsblatt.
+
+»Ist das der Eduardo Lucas aus der Godolphinstraße?«
+
+»Jawohl.«
+
+»Den wirst du nicht treffen.«
+
+»Warum nicht?«
+
+»Er ist die vorige Nacht in seiner Wohnung ermordet worden.«
+
+Mein Freund hatte mich im Verlauf unserer Abenteuer so häufig in Erstaunen gesetzt, daß ich mit einer gewissen Genugtuung bemerkte, wie gewaltig ich ihn überrascht hatte. Er starrte mich verwundert an und riß mir dann die Zeitung aus der Hand. Der Bericht, in den ich vertieft gewesen war, als er vom Stuhl aufstand, lautete folgendermaßen:
+
+Mord in Westminster.
+
+Ein geheimnisvolles Verbrechen ist in der vergangenen Nacht in der Godolphinstrahe 16 verübt worden, deren altmodische Häuserreihen zwischen der Themse und der Abtei liegen, fast unmittelbar hinter dem Parlamentsgebäude. Das kleine, aber vornehme Haus ist seit einigen Jahren von dem Herrn Eduardo Lucas bewohnt worden, einem wegen seiner reizenden Persönlichkeit und seiner musikalischen Begabung in den Kreisen der besseren Gesellschaft allgemein bekannten Herrn. Er ist unverheiratet, vierunddreißig Jahre alt, und sein Haushalt besteht aus einer älteren Wirtschafterin, Frau Pringle, und seinem Diener Mitton. Jene geht früh zu Bett und schläft im obersten Stockwerk. Der Diener war am Abend bei einem Freund in Hammersmith zu Besuch. Von zehn Uhr an war Herr Lucas allein zu Hause. Was sich dann ereignet hat, ist noch nicht ermittelt, aber um dreiviertel zwölf bemerkte der Schutzmann Barrett, als er durch die Godolphinstraße ging, daß in Nr. 16 die Haustür offen stand. Er klopfte, erhielt aber keine Antwort. Da er im Vorderzimmer Licht sah, ging er in den Hausflur und klopfte wieder, bekam aber wieder keine Antwort. Darauf öffnete er die Türe zu diesem Zimmer und trat ein. Hier herrschte eine wüste Unordnung, die sämtlichen Möbel waren auf eine Seite gerückt und ein Stuhl lag mitten auf dem Boden. Neben diesem Stuhl, ihn noch an einem Bein festhaltend, lag die Leiche des unglücklichen Hausherrn. Er war ins Herz gestochen und mußte auf der Stelle tot gewesen sein. Das Messer, womit das Verbrechen ausgeführt worden, war ein krummer indischer Dolch, der aus einer Anzahl orientalischer Waffen, die als Wandschmuck dienten, genommen worden war. Raub scheint nicht das Motiv zur Tat gewesen zu sein, denn von den Wertgegenständen im Zimmer fehlte nichts. Herr Eduardo Lucas war sehr bekannt und überall beliebt, daß sein jähes und geheimnisvolles Ende in den Kreisen seiner zahlreichen Freunde großes Aufsehen und tiefes Mitleid erregen wird.
+
+»Nun, Watson, was sagst du dazu?« fragte Holmes nach einer langen Pause.
+
+»Es ist ein wunderbares Zusammentreffen.«
+
+»Ein Zusammentreffen! Denke 'mal an, Watson, einer der drei Männer, die wir als mögliche Täter bezeichnet hatten, wird gerade um dieselbe Zeit, während der das Dokument gestohlen worden sein muß, auf gewaltsame Weise ermordet. Das spricht ganz entschieden gegen die Annahme eines blinden Zufalls. Nein, mein Lieber, die beiden Ereignisse stehen in Zusammenhang – müssen in Zusammenhang stehen. Und wir müssen den Zusammenhang herstellen.«
+
+»Aber nun muß die offizielle Polizei alles erfahren.«
+
+»Durchaus nicht. Sie erfährt nur das, was sie in der Godolphinstraße vor Augen sieht. Von Whitehall Terrace erfährt sie nichts – und soll nichts erfahren. Nur wir kennen beide Vorfälle und sind imstande, eine Verbindung zwischen ihnen aufzuspüren. Ein naheliegender Punkt würde meinen Verdacht sowieso auf Lucas gelenkt haben. Von der Godolphinstraße sind es nämlich nur wenige Minuten nach der Whitehall Terrace. Die anderen Geheimagenten, die ich genannt habe, wohnen weit draußen in Westend. Es war also für Lucas am leichtesten, mit der Haushaltung des Staatssekretärs Hope in Beziehung zu treten und Nachrichten von dort zu erlangen – ein geringfügiger Umstand zwar, der aber doch in diesem Falle, wo sich die beiden Ereignisse in ein paar Stunden abgespielt haben, sich als wesentlich erweisen kann. Na nun! was bedeutet das?«
+
+Frau Hudson hatte die Visitenkarte einer Dame gebracht. Holmes warf einen Blick darauf, zog die Augenbrauen in die Höhe und reichte sie mir herüber.
+
+»Bitten Sie Frau Hilda Trelawney Hope, gütigst näherzutreten,« sagte Holmes.
+
+Im nächsten Augenblick erschien in unserem bescheidenen Arbeitszimmer, das heute früh schon so hohen Besuch gehabt hatte, die schönste Frau in London. Ich hatte schon oft von der Schönheit der jüngsten Tochter des Herzogs von Belminster gehört, aber keine Beschreibung und keine Photographie war auch nur annähernd imstande gewesen, die feinen, zarten Reize und die prächtige Farbe dieses vornehmen Gesichtes wiederzugeben. Und trotzdem fiel an diesem Herbstmorgen dem aufmerksamen Beobachter nicht in erster Linie die Schönheit dieses Gesichtes auf. Die Wangen waren wohl lieblich, aber bleich vor Erregung; die Augen glänzten zwar hell, aber es war der Glanz des Fiebers; der reizende Mund war wohl geschlossen und ruhig, aber man merkte die Selbstbeherrschung, die es kostete. Der Schrecken auf ihren Zügen – nicht die Schönheit – sprang einem in die Augen, als unsere Besucherin einen Moment in der offenen Türe stand.
+
+»Ist mein Gatte hier gewesen, Herr Holmes?«
+
+»Jawohl, gnädige Frau, er ist hier gewesen.«
+
+»Ich bitte Sie, Herr Holmes, sagen Sie ihm nicht, daß ich auch hier war.« Holmes verbeugte sich kühl und lud die Dame ein, Platz zu nehmen.
+
+»Gnädige Frau bringen mich in eine sehr peinliche Lage. Ich bitte Sie, sich zu setzen und mir zu sagen, was Sie wünschen; freilich fürchte ich, Ihnen irgend ein bindendes Versprechen nicht geben zu können.«
+
+Sie schwebte durch das Zimmer und setzte sich dann mit dem Rücken gegen das Fenster. Sie war eine königliche Gestalt – hoch, anmutig und echt weiblich.
+
+»Herr Holmes,« sagte sie, während sie die weißbehandschuhten Hände öffnete und schloß, »ich will offen zu Ihnen reden und hoffe, daß Sie dann auch frei zu mir sprechen. Zwischen meinem Gemahl und mir besteht volles Vertrauen in allen Dingen, außer einem. Dieses ist die Politik. Darüber äußert er mir gegenüber kein Wort. Nun hat sich vergangene Nacht ein höchst bedauernswerter Vorfall zugetragen. Wie er mir gesagt hat, ist ein Schriftstück aus unserem Hause verschwunden. Da es sich jedoch um eine politische Sache handelt, weigert er sich, mich ganz ins Vertrauen zu ziehen. Trotzdem ist es wesentlich – ich wiederhole es, wesentlich – daß ich voll und ganz Bescheid weiß. Sie sind nun, außer diesen Politikern, der einzige Mann, der den Tatbestand genau kennt. Ich bitte Sie daher, Herr Holmes, mir wahrheitsgetreu mitzuteilen, was passiert ist und wozu es führen wird. Verschweigen Sie mir nichts, Herr Holmes. Nehmen Sie keinerlei Rücksichten auf das Interesse Ihrer Klienten, denn ich versichere Ihnen, daß, wenn er's nur einsehen wollte, seinen Interessen am besten gedient sein würde, wenn er mir volles Vertrauen schenkte. Was enthielt dieses gestohlene Papier?«
+
+»Gnädige Frau, ich kann Ihre Bitte wirklich nicht erfüllen.«
+
+Sie seufzte und bedeckte das Gesicht mit ihren Händen.
+
+»Sie müssen sich selbst sagen, daß ich nicht anders kann, gnädige Frau. Wenn Ihr Gemahl es nicht für gut hält, Sie in die Sache einzuweihen, wie soll ich's dann tun können, dem die Angelegenheit nur als Berufsgeheimnis unterbreitet ist? Es ist nicht vornehm, mich darnach zu fragen. An ihn müssen Sie sich wenden.«
+
+»Das habe ich getan. Ich komme zu Ihnen als letzte Zufluchtsstätte. Aber auch ohne mir etwas Bestimmtes zu sagen, könnten Sie mir einen großen Dienst erweisen, wenn Sie mich über einen Punkt aufklären wollten.«
+
+»Der ist, gnädige Frau?«
+
+»Ist es wahrscheinlich, daß meines Gatten politische Laufbahn durch diesen Vorfall beeinträchtigt wird?«
+
+»Ja, gnädige Frau, wenn die Sache nicht wieder in Ordnung gebracht wird, wird sie wohl sicher einen sehr ungünstigen Einfluß darauf ausüben.«
+
+»Ah!« Sie atmete auf, wie jemand, dessen Zweifel gelöst sind.
+
+»Noch eine Frage, Herr Holmes. Aus einer Aeußerung, die mein Mann im ersten Schrecken über dieses Unglück fallen ließ, habe ich entnommen, daß der Verlust dieses Schriftstücks furchtbare Folgen für die Allgemeinheit haben könnte«
+
+»Wenn er das gesagt hat, kann ich es sicherlich nicht in Abrede stellen.«
+
+»Welcher Natur sind sie?«
+
+»Da fragen Sie mich wieder mehr, gnädige Frau, als ich Ihnen beantworten kann.«
+
+»Dann will ich Ihre Zeit nicht länger in Anspruch nehmen. Ich kann Ihnen keinen Vorwurf daraus machen, Herr Holmes, daß Sie sich nicht deutlicher ausgesprochen haben, und Sie Ihrerseits werden gewiß nicht geringer von mir denken, weil ich, selbst gegen seinen Willen, an den Bekümmernissen meines Gatten teilzunehmen wünsche. Ich ersuche Sie nochmals, ihm nichts von meinem Besuch zu sagen.« Sie warf uns von der Türe noch einen letzten Blick zu, und ich sah noch einmal das schöne, abgehärmte Gesicht, die geängstigten Augen und die zuckenden Lippen. Dann war sie verschwunden.
+
+»Nun, Watson, das schöne Geschlecht ist deine Spezialität,« sagte Holmes lächelnd, als sich die Türe hinter den rauschenden seidenen Kleidern geschlossen hatte. »Welche Rolle mag sie in der Sache spielen? Was wollte sie eigentlich?«
+
+»Ihre Angaben waren ganz klar und ihre Besorgnis ist sehr natürlich.«
+
+»Hm! Bedenke ihr Auftreten, Watson – ihr Wesen, ihre unterdrückte Erregung, ihre Unruhe, ihre Hartnäckigkeit, mit der sie immer wieder Fragen stellte. Bedenke, daß sie einer Gesellschaftsklasse angehört, die nicht leicht Erregung verrät.«
+
+»Sie war sicherlich sehr aufgeregt.«
+
+»Bedenke auch den auffallenden Ernst, mit dem sie versicherte, daß es für ihren Mann am besten sei, wenn sie vollständig unterrichtet würde. Was meinte sie damit? Außerdem mußt du auch bemerkt haben, Watson, wie sie sich bemühte, das Licht im Rücken zu haben. Sie wollte nicht, daß wir ihren Gesichtsausdruck sähen.«
+
+»Jawohl; sie suchte sich den einzigen Stuhl aus, der so stand.«
+
+»Und doch sind die Motive bei Frauen so unergründlich. Du wirst dich des Weibes in Margate entsinnen, die mir aus derselben Veranlassung verdächtig erschien. Daß sie nicht gepudert war, stellte sich schließlich als die wirkliche Ursache heraus. Was kann man aus einem solchen Nebenumstand für Schlüsse ziehen? Die kleinste Handlung kann ganze Bände bedeuten, wie auch das ausfallendste Benehmen auf eine Haarnadel oder Lockenschere zurückzuführen sein kann. Guten Morgen, Watson.«
+
+»Du gehst weg?«
+
+»Ja; ich will den Vormittag mit unseren Kollegen von der offiziellen Polizei in der Godolphinstraße verbringen. Bei Eduardo Lucas liegt die Lösung unseres Problems; freilich muß ich gestehen, daß ich noch keine blasse Ahnung habe, wie sie sich gestalten wird. Es ist ein Hauptfehler, mit seinen theoretischen Ueberlegungen den Tatsachen vorauszueilen. Bleibe du hier auf Wache, mein lieber Watson, um etwaige neue Besucher zu empfangen. Ich werde zum Mittagessen wieder hier sein, wenn's möglich ist.«
+
+Während dieses Tages und während des nächsten und auch noch am übernächsten war Holmes in einer Laune, die seine Freunde schweigsam und andere Leute mürrisch zu nennen pflegen. Er lief aus und ein, rauchte unaufhörlich, ergriff die Geige, versank in Träumereien, verschlang zu ungewohnten Stunden belegte Brötchen und gab auf meine gelegentlichen Fragen kaum eine Antwort. Es war mir klar, daß ihm die Sache nicht nach Wunsch ging, Er sagte mir kein Wort über den Verlauf des Falles, und ich erfuhr nur aus den Zeitungen Näheres über die Untersuchung und die Verhaftung John Mittons, des Dieners des Ermordeten, und die darauf erfolgte Freilassung desselben. Die gerichtliche Leichenschau und Vorverhandlung stellte vorsätzlichen ›Mord‹ fest, aber die Täter konnten nicht ermittelt werden. Auch kein Beweggrund war zu finden. Im Zimmer befanden sich eine Menge Wertgegenstände, aber es war keiner mitgenommen worden. Die Briefschaften des Verstorbenen waren nicht angerührt worden. Sie wurden sorgfältig geprüft und zeigten, daß er die internationalen politischen Beziehungen genau verfolgt hatte, daß er ein ausgezeichneter Sprachkenner und ein unermüdlicher Briefschreiber gewesen war. Mit den führenden Politikern mehrerer Staaten hatte er auf vertrautem Fuße gestanden. Aber Aufsehenerregendes wurde unter den Stößen von Briefschaften nicht gefunden. Mit Frauen schien er zahlreiche, aber nur oberflächliche Verhältnisse unterhalten zu haben. Er hatte viele Bekannte, aber wenige Freundinnen und keine Geliebte. Er hatte regelmäßig gelebt und niemandem ein Leid zugefügt. Sein gewaltsames Ende war ein vollkommenes Geheimnis und würde wohl auch eins bleiben.
+
+Die Festnahme des Dieners Mitton war nur ein Schritt der Verzweiflung, weil sonst jede Verdachtsspur fehlte und doch etwas geschehen sollte. Es konnte nichts gegen ihn vorgebracht werden. Er hatte in Hammersmith an jenem Abend Freunde besucht. Sein Alibi war nicht anzuzweifeln. Er war zwar so frühzeitig dort aufgebrochen, daß er eher in Westminster hätte eintreffen können, als das Verbrechen entdeckt war, aber seine eigene Erklärung, daß er einen Teil des Weges zu Fuß zurückgelegt habe, erschien schon in Anbetracht des prächtigen Wetters in jener Nacht ziemlich glaubwürdig. Er war tatsächlich denn auch erst um zwölf Uhr heimgekehrt und durch das unvorhergesehene Unglück ganz erschüttert. Er hatte sich mit seinem Herrn stets sehr gut gestanden. Verschiedene Kleinigkeiten, die in den Koffern des Dieners gefunden wurden – besonders ein Besteck mit Rasiermessern – stellten sich nach seiner eigenen und der Haushälterin Aussagen als Geschenke des Ermordeten heraus. Mitton hatte drei Jahre in den Diensten des Herrn Lucas gestanden. Auf Reisen hatte Mitton seinen Herrn nicht begleitet. Während verschiedener monatelanger Reisen, die Lucas nach Paris gemacht hatte, war Mitton mit der Aufsicht über die Wohnung in der Godolphinstraße betraut worden. Die Wirtschafterin hatte in der Nacht nichts von dem Verbrechen gehört. Wenn ihr Herr Besuch gehabt habe, so müsse er ihn selbst eingelassen haben.
+
+Soweit ich aus den Zeitungen ersehen konnte, machten die polizeilichen Nachforschungen tagelang keine Fortschritte. Wenn Holmes mehr wußte, so behielt er's für sich. Als er mir mitteilte, daß ihn Inspektor Lestrade zurate gezogen hätte, wußte ich, daß er in enger Fühlung mit der Polizei stände und von jeder weiteren Entwickelung der Sache unterrichtet werden würde. Am vierten Tage kam ein längeres Telegramm aus Paris, welches die ganze Frage zu lösen schien:
+
+»Die Pariser Polizei hat soeben eine Entdeckung gemacht,« hieß es im »Daily Telegraph«, »welche den Schleier lüftet, der über dem tragischen Geschick des Herrn Eduardo Lucas lag, der in der letzten Montagnacht in der Godolphinstraße in Westminster einen gewaltsamen Tod gefunden hat. Unsere Leser werden sich erinnern, daß dieser Herr in seinem Zimmer erdolcht aufgefunden wurde. Die Verhaftung seines Dieners, auf den sich der Verdacht gelenkt hatte, mußte auf Grund seines Alibi wieder aufgehoben werden. Gestern wurde nun eine Dame, die als Frau Henri Fournaye bekannt ist und eine kleine Villa in der Austerlitzstraße in Paris bewohnt, den Behörden als geistesgestört gemeldet. Die Untersuchung ergab, daß sie wirklich an gefährlichen und anhaltenden Wahnvorstellungen litt. Die Polizei hat festgestellt, daß diese Frau Henri Fournaye vergangenen Dienstag von einer Reise aus London zurückgekehrt ist und offenbar zu dem Verbrechen in Westminster in Beziehung steht. Aus einem Vergleich der Photographien geht bestimmt hervor, daß Herr Henri Fournaye und Eduardo Lucas in Wirklichkeit ein- und dieselbe Person sind, und daß der Verstorbene aus irgendwelchen Gründen in Paris und in London einen anderen Namen geführt hat. Frau Fournaye, eine Kreolin von Geburt, ist eine äußerst reizbare Natur und hat schon lange Eifersuchtsanfälle gehabt, die sich nun zum Wahnsinn gesteigert haben. Es liegt daher die Vermutung nahe, daß sie in diesem Zustand das schreckliche Verbrechen beging, das in London so furchtbares Aufsehen erregt hat. Ihrem Aufenthalt in der Montagnacht ist noch nicht nachgespürt worden, aber es ist nicht zu bezweifeln, daß die Beschreibung eines Weibes auf sie paßt, das durch sein wildes Aussehen und seine fürchterlichen Gebärden am Dienstagmorgen auf der Station Sharing Croß die allgemeine Aufmerksamkeit auf sich lenkte. Wahrscheinlich hat sie also den Mord im Wahnsinn begangen, oder die Geistesstörung ist die unmittelbare Folge ihrer Tat. Gegenwärtig ist sie nicht imstande, einen zusammenhängenden Bericht über ihre letzte Vergangenheit zu geben, und die Aerzte hegen keine große Hoffnung, daß sie geheilt werden wird. Zeugen bekunden, daß sich in der Montagnacht ein Weib mehrere Stunden vor dem Haus des Herrn Lucas in der Godolphinstraße aufgehalten habe, welches sehr gut diese Frau Fournaye gewesen sein könne.«
+
+»Was sagst du dazu, Holmes?« Ich hatte ihm den Artikel laut vorgelesen, während er frühstückte.
+
+»Lieber Watson,« erwiderte er, als er vom Tische aufstand und im Zimmer auf- und abschritt, »du bist ein sehr langmütiger Mensch, aber wenn ich dir in den letzten drei Tagen nichts erzählt habe, so hat es seinen Grund einzig und allein darin, daß ich nichts zu erzählen habe. Selbst diese Nachricht aus Paris wird uns nicht viel helfen.«
+
+»Sie klärt wenigstens den Tod des Mannes endlich auf.«
+
+»Der Tod des Mannes ist ein bloßer Nebenumstand – eine ganz gleichgültige Sache – im Vergleich mit unserer wirklichen Aufgabe, die darin besteht, diesem Dokument auf die Spur zu kommen und Europa vor einer Katastrophe zu bewahren. In den letzten drei Tagen ist nur ein wichtiges Ereignis zu verzeichnen, das ist das, daß sich nichts ereignet hat. Ich erhalte fast stündlich Nachricht von der Regierung, Und soviel ist sicher, daß nirgends Anzeichen von Beunruhigung vorliegen. Wenn nun dieser Brief abgesandt wäre – nein, er kann nicht abgesandt sein! – aber, wenn er nicht abgesandt ist, wo mag er sein? Wer hat ihn? Warum wurde er zurückbehalten? Diese Fragen hämmern in meinem Gehirn. War es wirklich ein bloßer Zufall, daß Lucas in derselben Nacht vom Tode ereilt wurde, in welcher der Brief weggekommen ist? Hat ihn der Brief noch erreicht? Wenn es der Fall ist, warum befindet er sich dann nicht unter den anderen Papieren? Hat ihn dieses wahnsinnige Weib, seine Frau, mitgenommen? Wenn ja, liegt er in ihrer Wohnung in Paris? Wie könnte ich darnach suchen, ohne die französische Polizei argwöhnisch zu machen? Es ist ein Fall, mein lieber Watson, wo die Gesetze uns so gefährlich sind wie die Verbrecher. Es ist alles gegen uns, und doch stehen kolossale Interessen auf dem Spiel. Sollte ich ihn zu einem glücklichen Ende bringen, so wird er sicher den Gipfelpunkt meiner Laufbahn bilden. Ah, jetzt kommt meine letzte Rettung!« Er warf einen flüchtigen Blick auf einen Zettel, der hereingebracht wurde. »Hallo! Lestrade scheint eine interessante Entdeckung gemacht zu haben. Setz' den Hut auf, Watson, wir wollen zusammen nach Westminster hinunterwandern.«
+
+Für mich war es der erste Besuch des Schauplatzes des Verbrechens – es war ein hohes, dunkelgraues, schmales Gebäude im Stil des sechzehnten Jahrhunderts. Im vorderen Fenster hielt Lestrade Umschau nach uns und begrüßte uns herzlich, als uns ein dicker Polizist die Tür geöffnet und hineingeführt hatte. Es war das Zimmer, in dem das Verbrechen begangen worden war, aber jetzt war außer einem häßlichen, unregelmäßigen Blutflecken auf dem Teppich keine Spur mehr davon zu sehen. Es war ein kleiner quadratischer Droguetteppich, der mitten im Zimmer lag, an den vier Seiten war überall der blanke, schöne, altmodische Holzfußboden zu sehen. Ueber dem Kamin befand sich eine stattliche Sammlung von Waffen, von denen eine in jener verhängnisvollen Nacht gebraucht worden war. Vor dem Fenster stand ein kostbarer Schreibtisch, und das ganze Mobiliar, die Gemälde, die Decken, die Vorhänge, alles zeigte auf einen fast weiblichen Hang zum Luxus hin.
+
+»Haben Sie die Neuigkeit aus Paris gelesen?« fragte Lestrade.
+
+Holmes nickte.
+
+»Unsere französischen Kollegen scheinen diesmal den Nagel auf den Kopf getroffen zu haben. Es ist zweifelsohne, wie sie sagen. Sie klopfte an die Tür – ein überraschender Besuch, das geb' ich zu, denn Lucas hing sehr am Leben. Er machte ihr auf – konnte er sie doch nicht auf der Straße stehen lassen. Sie sagte ihm, wie sie ihn endlich aufgespürt habe, machte ihm Vorwürfe, ein Wort gab das andere, und dann versetzte sie ihm mit dem Dolch, der ihr gerade zur Hand war, den Todesstoß. Es geschah nicht alles in wenigen Augenblicken, natürlich, denn diese Stühle waren alle auf eine Seite gestellt, und einen hielt er noch fest in der Hand, als ob er sie damit abhalten wollte. Uns ist der ganze Vorgang so klar, als ob wir dabei gewesen wären.«
+
+Holmes zog die Augenbrauen hoch.
+
+»Und trotzdem haben Sie nach mir geschickt?«
+
+»Ach so, da ist noch 'ne Sache – ein unwesentlicher Nebenumstand nur, aber von der Sorte, für die Sie eine besondere Vorliebe haben – seltsam, wissen Sie, man könnte fast sagen, wunderbar. Er hat nichts mit der eigentlichen Tatsache zu tun – kann nichts damit zu tun haben.«
+
+»Und was ist es?«
+
+»Nun, wissen Sie, bei einem derartigen Verbrechen sorgen wir dafür, daß jedes Ding an seiner ursprünglichen Stelle liegen bleibt. Es ist nichts angerührt worden. Ein uniformierter Beamter war Tag und Nacht hier auf Wache. Heute morgen, nachdem die Leiche beerdigt und die Untersuchung beendigt war – wenigstens soweit sie sich auf das Zimmer erstreckt – dachten wir, wir könnten etwas aufräumen. Dieser Teppich ist, wie Sie sehen, nicht besonders festgemacht, nur so hingelegt. Als wir ihn aufhoben, fanden wir –«
+
+»Nun? was denn?«
+
+Holmes war ganz gespannt vor Neugierde und Besorgnis.
+
+»Nun, Sie würden's in hundert Jahren nicht erraten, glaube ich, was wir fanden. Sehen Sie diesen Flecken auf dem Teppich? Gut, es muß viel eingedrungen sein, nicht wahr?«
+
+»Zweifellos.«
+
+»Nun, Sie werden erstaunt sein, zu hören, daß auf dem weißen Holzfußboden darunter kein entsprechender Flecken ist.«
+
+»Kein Flecken! Aber der muß da sein –«
+
+»Ja, so sagen Sie. Aber tatsächlich ist doch keiner da.«
+
+Er hob den Teppich an der Ecke auf, legte ihn um und zeigte uns, daß es wirklich so war, wie er gesagt hatte.
+
+»Aber die untere Seite ist ebenso von Blut durchtränkt, wie die obere; sie muß einen Abdruck zurückgelassen haben.«
+
+Lestrade freute sich unbändig, den berühmten Sachverständigen in Verlegenheit gebracht zu haben.
+
+»Nun will ich Ihnen auch die Erklärung zeigen. Es ist ein zweiter Flecken da, aber nicht an der entsprechenden Stelle. Sehen Sie selbst her.« Während er das sagte, nahm er einen anderen Teil des Teppichs auf, und da befand sich in der Tat ein großer roter Flecken darunter, der sich von dem weißen altmodischen Holzboden deutlich abhob. »Wie erklären Sie das, Herr Holmes?«
+
+»Ei, das ist ziemlich einfach. Die beiden Flecken entsprachen einander, aber der Teppich, ist herumgedreht worden. Da er quadratisch und nicht festgemacht ist, war das sehr leicht.«
+
+»Die Polizei braucht Sie nicht, Herr Holmes, um zu wissen, daß der Teppich 'rumgedreht worden sein muß. Das wissen wir allein, denn die Flecken passen aufeinander – wenn Sie den Teppich so legen. Was ich gerne wissen möchte, ist, wer den Teppich anders 'rumgelegt hat, und wozu?«
+
+Ich konnte Holmes an seinem strengen Gesicht absehen, daß er vor innerer Aufregung zitterte.
+
+»Hören Sie, Herr Lestrade, ist dieser Schutzmann draußen während der ganzen Zeit hier in Dienst gewesen?«
+
+»Jawohl.«
+
+»Nun, dann befolgen Sie meinen Rat. Vernehmen Sie ihn vorsichtig und eindringlich. Tun Sie's aber nicht in unserer Gegenwart. Wir wollen hier warten. Gehen Sie mit ihm in das hintere Zimmer. Er wird dann eher ein Geständnis ablegen, wenn Sie allein sind. Fragen Sie ihn, wie er sich hätte unterstehen können, Leuten den Zutritt zu gestatten und sie allein im Zimmer zu lassen. Fragen Sie ihn nicht, ob er es getan hat Sagen Sie's ihm auf den Kopf zu. Sagen Sie ihm, Sie wissen, daß jemand hier gewesen ist. Drücken Sie gehörig auf. Sagen Sie ihm, daß ihn nur ein volles Geständnis vor Strafe schützen kann. Machen Sie's genau so, wie ich Ihnen angebe!«
+
+»Bei Gott, wenn er's weiß, will ich's schon aus ihm 'raus kriegen!« rief Lestrade. Er stürzte hinaus auf den Flur, und ein paar Sekunden später hörten wir ihn im Hinterzimmer schreien.
+
+»Jetzt, Watson, jetzt!« rief Holmes in größter Aufregung. Die ganze dämonische Kraft des Mannes, die er hinter jener augenscheinlichen Gleichgültigkeit verborgen hatte, kam jetzt zum Ausdruck. Er riß den Teppich in die Höhe, und in einem Moment lag er auf den Knien, kratzte mit den Nägeln auf dem Boden herum und untersuchte die einzelnen Bodenbretter. Eines ließ sich am Rande fassen und in die Höhe klappen, wenn man einen besonderen Handgriff anwandte. Darunter befand sich eine kleine schwarze Vertiefung. Holmes tat einen raschen Griff hinein, zog aber die Hand wieder zurück, indem er ärgerlich und enttäuscht ein paar bittere Worte murmelte. Es war nichts drin.
+
+»Rasch, Watson, rasch!« Eiligst wurde alles wieder in Ordnung gebracht, und der Teppich war kaum zurecht gelegt, als wir im Gang Lestrade zurückkommen hörten. Als er eintrat, stand Holmes nachlässig am Ofen, gleichgültig und gelangweilt, er bemühte sich, das Gähnen zu unterdrücken.
+
+»Es tut mir leid, daß ich Sie so lange habe warten lassen müssen, Herr Holmes. Ich sehe Ihnen an, daß Ihnen die ganze Sache wenig Spaß macht. Nun, er hat's eingestanden. Kommen Sie hier 'rein, Pherson. Erzählen Sie diesen Herren Ihr ganz unentschuldbares Benehmen.«
+
+Der dicke Schutzmann kam mit rotem Kopf und zerknirschtem Gesicht ins Zimmer gewackelt.
+
+»Ich ahnte nichts Böses, meine Herrn, sicher nicht. Die junge Dame kam gestern abend hier an die Tür – sie irrte sich im Haus, wirklich. Wir kamen ins Gespräch. Es ist einsam, den ganzen Tag hier Wache zu stehen.«
+
+»Was geschah dann also?«
+
+»Sie wollte sehen, wo das Verbrechen verübt worden war – sie hatte 's in der Zeitung gelesen, sagte sie. Sie war ein sehr anständiges, wohlerzogenes Weib, meine Herrn, sodaß ich kein Bedenken trug, sie einen Blick ins Zimmer tun zu lassen. Als sie aber den Blutflecken sah, fiel sie um und lag wie tot am Fußboden. Ich lief hinaus und ließ mir etwas heißes Wasser geben, konnte sie damit aber nicht wieder zu sich bringen. Dann holte ich rasch im »Grünen Baum«, um die Ecke 'rum, ein bißchen Branntwein, aber als ich damit zurückkam, hatte sich die junge Dame bereits erholt und war wieder auf – sie schämte sich vor sich selbst, kann ich wohl sagen, und wagte nicht, mir ins Gesicht zu schauen.«
+
+»Wie war das aber mit dem Teppich?«
+
+»Nun, mein Herr, er hatte 'n paar Falten, jawohl, als ich zurückkehrte. Seh'n Sie, sie ist drauf gefallen, und er liegt nur so lose, er ist nicht festgemacht. Ich breitete ihn nachher wieder ordentlich aus.«
+
+»Es ist eine Lehre für Sie, Pherson, Sie sehen, daß Sie mir nichts vormachen können,« sagte Lestrade mit großer Würde. »Sie glaubten sicher, daß Ihre Pflichtverletzung nie ans Licht kommen würde, und doch genügte für mich ein einziger Blick auf den Teppich, um zu wissen, daß Sie jemanden ins Zimmer gelassen hatten. Es ist ein Glück für Sie, lieber Mann, daß nichts fort ist, sonst würden Sie selbst ins Gefängnis marschieren. Es tut mir leid, Herr Holmes, daß ich Sie wegen einer solchen Lappalie hier herunter bemüht habe, aber ich dachte, der Umstand, daß der zweite Flecken nicht unter dem ersten war, würde Sie interessieren.«
+
+»Allerdings, es war mir auch sehr interessant. Ist die Frau nur einmal hier gewesen, Schutzmann?«
+
+»Jawohl, Herr.«
+
+»Wer war sie?«
+
+»Wie sie heißt, weiß ich nicht. Sie wollte auf ein Inserat wegen Schreibmaschinenschreiben anfragen, und hatte die Hausnummer verwechselt – sehr nett, 'n niedliches, junges Weib, Herr.«
+
+»Groß? Hübsch?«
+
+»Ja, Herr; 'n schön gewachsenes Weib. Ich glaube, Sie würden sie als hübsch bezeichnen. Mancher würde sie sogar sehr hübsch finden. ›Oh, Schutzmann, lassen Sie mich doch 'mal 'neingucken!‹ sagte sie. Sie hatte 'ne angenehme, einschmeichelnde Art, und ich glaubte, es hätte keine Gefahr, sie den Kopf durch die Tür stecken zu lassen.«
+
+»Wie war sie gekleidet?«
+
+»Sehr einfach, Herr, sie hatte einen langen bis auf die Füße hängenden Mantel an.«
+
+»Um welche Zeit war's?«
+
+»Es war im Dunkelwerden, die Laternen wurden gerade angezündet, als ich mit dem Branntwein zurückkam.«
+
+»Das genügt mir,« sagte Holmes. »Komm', Watson, ich glaube, wir haben anderswo Wichtigeres zu tun.«
+
+Als wir hinausgingen, blieb Lestrade im Zimmer. Der reumütige Schutzmann begleitete uns an die Haustüre und ließ uns hinaus. Auf der Treppe drehte sich Holmes um und hielt uns etwas hin. Der Polizist starrte ihn erstaunt an.
+
+»Heiliger Herr!« rief er. Holmes legte den Finger auf die Lippen, steckte das Ding wieder in die Brusttasche und fing laut zu lachen an, als wir die Straße hinunter schritten. »Großartig!« sagte er dann. »Komm', lieber Freund, der Vorhang hebt sich vor'm letzten Akt. Du wirst erleichtert aufatmen, wenn ich dir sage, daß es keinen Krieg geben, daß der Staatssekretär Trelawney Hope nicht in seiner Karriere behindert werden, daß jener impulsive indiskrete Monarch für seine Indiskretion nicht bestraft werden, daß der Premierminister keine europäische Komplikation zu zerstreuen haben wird, und daß bei etwas Takt und Geschicklichkeit auf unserer Seite niemand durch diese häßliche Geschichte zu leiden hat.«
+
+Ich empfand von neuem eine große Bewunderung für diesen außerordentlichen Mann.
+
+»Du hast das Rätsel also gelöst!« rief ich aus.
+
+»Was will ich noch nicht sagen, Watson. Einige Punkte sind noch so dunkel wie vorher. Aber wir haben soviel 'raus, daß es unsere eigene Schuld wäre, wenn wir das übrige nicht auch noch fänden. Wir wollen direkt nach der Whitehall Terrace gehen und die Sache zur Entscheidung bringen.«
+
+Als wir im Hause des Staatssekretärs des Auswärtigen anlangten, fragte Holmes nach der Dame des Hauses. Wir wurden darauf in ihr Empfangszimmer geführt.
+
+»Herr Holmes!« sagte sie entrüstet, »das ist sicher nicht schön und kavaliermäßig von Ihnen gehandelt. Ich bat Sie, wie Sie wissen, meinen Besuch bei Ihnen geheim zu halten, damit mein Gemahl nicht glauben sollte, daß ich mich in seine Angelegenheiten mischte. Und nun kommen Sie doch hierher und stellen mich bloß, zeigen, daß geschäftliche Verbindungen zwischen uns bestehen.«
+
+»Leider hatte ich keine andere Wahl, gnädige Frau. Ich habe den Auftrag, dieses ungeheuer wichtige Schriftstück wieder zu beschaffen. Ich muß Sie daher ersuchen, gnädige Frau, mir es gütigst einzuhändigen.«
+
+Die Dame sprang auf, jeder Blutstropfen war aus ihrem schönen Gesicht gewichen. Ihre Augen waren starr – sie wankte – ich glaubte, sie fiele in Ohnmacht. Dann gelang es ihr durch eine gewaltige Willensanstrengung, sich zu bemeistern, nur höchstes Erstaunen und höchste Entrüstung standen noch, auf ihren Zügen.
+
+»Sie – Sie beleidigen mich, Herr Holmes.«
+
+»Machen Sie, machen Sie! gnädige Frau, es ist zwecklos. Geben Sie den Brief heraus!«
+
+Sie stürzte an die Klingel.
+
+»Der Hausdiener soll Sie hinausweisen.«
+
+»Läuten Sie nicht, gnädige Frau. Wenn Sie's tun, werden alle meine ernstlichen Bemühungen, einen Skandal zu vermeiden, vergeblich sein. Wenn Sie sich aber mit mir verständigen, so kann ich noch alles zum Guten wenden. Arbeiten Sie mir jedoch entgegen, so muß ich Sie kompromittieren. Geben Sie also den Brief her, und alles wird geregelt werden.«
+
+Trotz bietend stand sie da, eine fürstliche Erscheinung, ihre Augen auf seine gerichtet, als ob sie ihm ins Herz sehen wollte. Die Hand hatte sie auf dem Knopf, aber sie hatte noch nicht gedrückt.
+
+»Sie wollen mich ins Bockshorn jagen. Es ist eines Mannes nicht sehr würdig, Herr Holmes, hierher zu kommen und eine Frau einzuschüchtern. Sie behaupten, etwas zu wissen. Was wissen Sie?«
+
+»Bitte, setzen Sie sich, gnädige Frau. Sie verletzen sich sonst, wenn Sie umsinken. Ich will nicht eher reden, bis Sie sitzen. Danke Ihnen.«
+
+»Ich gebe Ihnen noch fünf Minuten, Herr Holmes.«
+
+»Es genügt eine einzige, gnädige Frau. Ich weiß von Ihrem Besuch bei Eduardo Lucas, weiß, daß Sie ihm das Schriftstück gegeben haben, weiß, daß Sie gestern abend wieder dort waren, und weiß, auf welche Weise Sie den Brief wieder von dem verborgenen Plätzchen unter dem Teppich hervorgeholt haben.«
+
+Sie starrte meinen Freund entsetzt an, sie war aschfahl geworden, sie mußte erst nach Worten ringen.
+
+»Sie sind verrückt, Herr Holmes – Sie sind wahnsinnig!« rief sie endlich.
+
+Er zog ein kleines Stückchen Karton aus der Tasche. Es enthielt das Bild eines Weibes, das aus einer Photographie herausgeschnitten war.
+
+»Ich habe dies mitgebracht, weil ich glaubte, es könnte vielleicht von Nutzen sein,« sagte er. »Der Schutzmann hat es erkannt.«
+
+Sie stieß einen tiefen Seufzer aus und ließ den Kopf in ihren Stuhl zurücksinken.
+
+»Machen Sie rasch, gnädige Frau! Sie haben den Brief. Die Sache läßt sich noch in Ordnung bringen. Ich wünsche durchaus nicht, Ihnen Unannehmlichkeiten zu bereiten. Ich habe meine Pflicht erfüllt, sobald ich Ihrem Gemahl das vermißte Schreiben eingehändigt habe. Befolgen Sie meinen Rat und seien Sie offen gegen mich; es ist Ihre einzige Chance.«
+
+Sie besaß einen bewundernswerten Mut. Selbst jetzt wollte sie sich noch nicht ergeben.
+
+»Ich kann Ihnen nur erwidern, Herr Holmes, daß Sie in einem merkwürdigen Irrtum befangen sind.«
+
+Holmes stand vom Stuhle auf.
+
+»Es tut mir leid, gnädige Frau. Ich habe es gut mit Ihnen gemeint, ich sehe aber, daß alles nutzlos ist.«
+
+Er klingelte. Ein Diener trat ein.
+
+»Ist Herr Trelawney Hope zu sprechen?«
+
+»Er will um dreiviertel eins wieder hier sein.«
+
+Holmes sah nach der Uhr.
+
+»Noch eine Viertelstunde,« sagte er. »Es ist gut, ich werde so lange warten.«
+
+Wer Diener hatte kaum die Türe hinter sich zugemacht, als Frau Hilda Trelawney Hope meinem Freund zu Füßen lag. Sie hob die Hände empor und blickte ihn mit Tränen in den Augen flehentlich an.
+
+»Oh, schonen Sie mich, Herr Holmes! Haben Sie Nachsicht mit einem Weibe!« bat sie inständig. »Ums Himmels willen, sagen Sie ihm nichts! Ich liebe ihn so sehr! Ich will ihm keinen Kummer bereiten, denn das würde ihm sein edles Herz brechen.«
+
+Holmes hob die Dame auf. »Ich freue mich, gnädige Frau, daß Sie noch im letzten Moment zur Besinnung gekommen sind! Wir haben keinen Augenblick mehr zu verlieren. Wo haben Sie den Brief?«
+
+Sie lief rasch an den Schreibtisch hinüber, schloß ihn auf und zog einen langen, blauen Briefumschlag hervor.
+
+»Hier ist er, Herr Holmes. Oh! daß ich ihn nie gesehen hätte!«
+
+»Wie können wir ihn nun zurückerstatten?« murmelte Holmes leise vor sich hin. »Rasch, rasch, wir müssen einen Ausweg finden! Wo ist das Kästchen?«
+
+»Noch im Schlafzimmer.«
+
+»Was für 'n Glück! Geschwind, gnädige Frau, Bringen Sie's!«
+
+Im nächsten Moment erschien sie mit dem Korrespondenzkästchen.
+
+»Wie öffneten Sie es das erstemal? Sie haben einen Nachschlüssel? Jawohl, gewiß haben Sie einen. Schließen Sie auf!«
+
+Sie zog einen kleinen Schlüssel aus ihrem Busen. Der Kasten wurde schnell aufgeschlossen. Er war vollgestopft mit Briefen. Holmes steckte den blauen Umschlag ganz unten hin zwischen andere Briefschaften. Das Kästchen wurde zugemacht, verschlossen und wieder ins Schlafzimmer gebracht.
+
+»Nun kann er kommen,« sagte Holmes; »wir haben noch immer zehn Minuten Zeit. Ich werde alles aufbieten, um Sie zu schützen. Ich bitte Sie nun, Ihrerseits diese Zeit dazu zu benutzen, mir frei und offen zu erzählen, wie sich diese außergewöhnliche Sache eigentlich verhält.«
+
+»Ich will Ihnen alles mitteilen, Herr Holmes,« rief sie. »Oh, Herr Holmes, ich würde mir lieber die Hand abhacken, als ihm Kummer machen! In ganz London gibt's keine zweite Frau, die ihren Mann so liebt wie ich, und doch, wenn er wüßte, was ich getan habe – was ich zu tun gezwungen war – würde er mir nie verzeihen. Denn er steht selbst zu hoch, um einen Fehler eines anderen vergessen oder vergeben zu können. Helfen Sie, Herr Holmes! Mein Glück, sein Glück, ja unser Leben steht auf dem Spiel!«
+
+»Schnell, gnädige Frau, die Zeit ist bald abgelaufen!«
+
+»Es war ein Brief von mir, Herr Holmes, ein unvorsichtiger Brief, den ich vor der Ehe geschrieben hatte – ein törichter Brief, ein Brief eines impulsiven jungen Mädchens. Ich ahnte nichts Böses, aber er würde es doch für ein Verbrechen gehalten haben. Wenn er den Brief gelesen hätte, würde er sein Zutrauen für alle Zeit verloren haben. Es sind Jahre vergangen seitdem. Ich dachte, die ganze Sache wäre vergessen. Da erfuhr ich, daß er diesem Lucas in die Hände gefallen sei, und daß er ihn meinem Gatten geben würde. Ich bat ihn um Gnade. Er antwortete, daß er mir den Brief aushändigen wollte, wenn ich ihm dafür ein gewisses Schriftstück aus dem Briefkasten meines Mannes verschaffte; er beschrieb mir's. Er hatte Spione im Bureau, die ihm dessen Existenz verraten hatten. Er versicherte mir, daß es meinem Gatten nichts schaden würde. Versetzen Sie sich in meine Lage, Herr Holmes! Was sollte ich tun?«
+
+»Ihren Gemahl ins Vertrauen ziehen!«
+
+»Das ging nicht, Herr Holmes, das konnte ich nicht! Auf der einen Seite war mir der Ruin sicher; auf der anderen konnte ich, so schrecklich mir's auch schien, meinem Manne einen Brief zu entwenden, die Folgen nicht übersehen, da es sich um politische Dinge handelte; aber in Bezug auf Liebe und Vertrauen waren sie mir nur zu klar. Ich tat's, Herr Holmes! Ich machte einen Abdruck von seinem Schlüssel, und dieser Lucas lieferte mir einen zweiten. Ich öffnete das Kästchen, nahm den Brief und brachte ihn in die Godolphinstraße.«
+
+»Was geschah dann weiter, gnädige Frau?«
+
+»Ich klopfte der Verabredung gemäß an die Haustür, Lucas öffnete. Ich folgte ihm in sein Zimmer, ließ aber die Tür etwas offen, weil ich mich fürchtete, mit dem Mann allein zu sein. Ich erinnere mich noch, daß ein Weib draußen herumschlich, als ich hineinging. Unser Geschäft war bald erledigt. Er hatte meinen Brief im Schreibpult liegen; ich gab ihm das Dokument und er mir den Brief. In diesem Augenblick pochte es draußen heftig an die Türe. Im Flur wurden Schritte hörbar. Lucas hob rasch den Teppich auf, steckte das Schriftstück an irgend einen verborgenen Platz und deckte ihn wieder drauf.
+
+»Was dann geschah, kommt mir vor wie ein schrecklicher Traum. Ich habe eine Vorstellung von einem dunkelen, wütenden Gesicht, von einer Frauenstimme, die auf Französisch schrie: ›Mein Warten ist nicht umsonst. Endlich, endlich hab' ich dich mit ihr erwischt!‹ Es entstand ein wilder Streit. Ich sah ihn mit einem Stuhl in der Hand, in ihrer blitzte ein Dolch. Ich stürzte hinweg von dem schrecklichen Schauplatz, hinaus aus dem Haus und erfuhr erst am nächsten Morgen durch die Zeitungen das gräßliche Ende. Ich war glücklich in jener Nacht, hatte ich doch meinen Brief wieder, und was daraus folgen würde, wußte ich nicht.
+
+»Erst am Morgen wurde mir klar, daß ich eine Sorge gegen eine andere vertauscht hatte. Die Angst meines Mannes über seinen Verlust ging mir zu Herzen. Ich konnte kaum umhin, vor ihm niederzuknien und ihm meine Tat zu gestehen. Dadurch hatte ich aber auch das Vergangene beichten müssen. Ich lief zu Ihnen an jenem Morgen, um die ganze Größe meiner Sünde zu erfahren. Von dem Moment an, wo ich sie begriffen hatte, hatte ich nur noch den einen Gedanken, das Schriftstück wieder in meine Hände zu bekommen. Es mußte noch dort liegen, wo es Lucas versteckt hatte, ehe das furchtbare Weib eintrat. Wenn sie nicht dazwischen gekommen wäre, würde ich nie seinen Aufbewahrungsort gekannt haben. Wie sollte ich aber hineinkommen? Zwei Tage lang hatte ich aufgepaßt, doch die Tür war stets verschlossen. Gestern abend machte ich einen letzten Versuch. Wie ich's anfing und wie mir's gelang, haben Sie bereits gehört. Ich brachte das Schreiben zurück. Ich wollte es vernichten, weil ich keinen Weg sah, es zurückzugeben, ohne meinem Manne meine Schuld zu gestehen, Himmel, ich höre seine Schritte auf der Treppe!«
+
+Der Staatssekretär stürzte ins Zimmer.
+
+»Nichts Neues, Herr Holmes, nichts gefunden?« rief er meinem Freunde entgegen.
+
+»Ich habe Hoffnung.«
+
+»Ah, Gott sei Dank!« Er strahlte vor Freude.
+
+»Der Premierminister wird bei mir speisen. Kann ich ihm die freudige Nachricht mitteilen? Er hat eiserne Nerven, aber ich weiß, daß er seit dem schrecklichen Vorfall kaum eine Stunde Schlaf gefunden hat. Jacobs, bitte den Premierminister heraufzukommen. Du, meine Liebe, kannst einstweilen ins Speisezimmer gehen. Es wird auf die Politik die Rede kommen. Wir werden dich in ein paar Minuten dort treffen.«
+
+Der Premier beherrschte sich, aber am Glanz seiner Augen und am Jucken seiner mageren Hände konnte ich erkennen, daß er die Aufregung seines jüngeren Kollegen teilte.
+
+»Ich vermute, Sie haben uns etwas zu berichte», Herr Holmes?«
+
+»Bis jetzt nur Negatives,« antwortete mein Freund. »Ich habe überall nachgeforscht, wo der Brief sein könnte, und ich glaube sicher, daß keine Gefahr zu befürchten ist.«
+
+»Das genügt aber nicht, Herr Holmes. Wir können nicht ewig in dieser Ungewißheit leben. Wir müssen etwas Bestimmtes wissen.«
+
+»Ich hoffe das herauszubekommen. Deshalb bin ich hier. Je mehr ich über die Sache nachdenke, um so mehr gewinne ich die Ueberzeugung, daß der Brief nie aus diesem Hause hinausgekommen ist.«
+
+»Herr Holmes!«
+
+»Wenn es der Fall wäre, würde es nunmehr bekannt sein.«
+
+»Aber warum sollte ihn jemand nehmen, um ihn hier im Hause zu behalten?«
+
+»Ich bin überhaupt nicht der Ansicht, daß ihn jemand genommen hat.«
+
+»Wie könnte er dann aber aus dem Kasten verschwunden sein?«
+
+»Ich glaube gar nicht, daß er je daraus verschwunden ist.«
+
+»Herr Holmes, Ihr Scherzen ist wahrhaftig nicht am Platze. Ich versichere Ihnen, daß er fort ist.«
+
+»Haben Sie das Kästchen seit Dienstag morgen wieder nachgesehen?«
+
+»Nein; das war nicht nötig.«
+
+»Sie könnten ihn doch übersehen haben.«
+
+»Das ist unmöglich, sag' ich Ihnen.«
+
+»Aber ich bin doch nicht überzeugt davon; ich weiß, daß Derartiges schon vorgekommen ist. Ich vermute, daß noch andere Briefschaften drin sind. Er kann möglicherweise dazwischen geraten sein.«
+
+»Er lag oben drauf.«
+
+»Vielleicht hat jemand daran geschüttelt und die Sachen durcheinandergebracht.«
+
+»Nein, nein; ich hatte alles ausgepackt.«
+
+»Es läßt sich ja leicht feststellen,« fiel der Premier ein. »Lassen Sie doch den Kasten hereinbringen.«
+
+Der Staatssekretär klingelte.
+
+»Jacobs, bring' meinen Kasten mit den Briefschaften herunter. Es ist ein überflüssiger Zeitverlust, da Sie sich jedoch sonst nicht überzeugen lassen wollen, soll's geschehen. Danke, stell' ihn hierher, Jacobs. Ich habe den Schlüssel stets an der Uhrkette gehabt. Hier sind die Briefschaften, sehen Sie. Brief von Lord Merrow, Bericht von Charles Hardy, Note aus Belgrad, Note über den russisch-deutschen Getreidezollvertrag, Brief von Madrid, Schreiben von Lord Flowers – heiliger Herr! was ist das? Lord Bellinger! Lord Bellinger!«
+
+Der Premier riß ihm das blaue Kuvert aus der Hand.
+
+»Ja, er ist's – und vollkommen unversehrt. Herr Hope, ich gratuliere Ihnen.«
+
+»Danke Ihnen! danke! Was für ein Stein ist mir vom Herzen. Aber es ist unbegreiflich – unmöglich! Herr Holmes, Sie sind ein Hexenmeister, ein Zauberer! Woher wußten Sie, daß er drin war?«
+
+»Weil er sonst nirgends war.«
+
+»Ich kann meinen Augen nicht trauen!« Er rannte wie besessen zur Tür hinaus. »Wo ist meine Frau? Ich muß ihr sagen, daß wieder alles gut ist. Hilda! Hilda!« hörten wir ihn auf der Treppe rufen.
+
+Der Premier blinzelte Holmes mit den Augen.
+
+»Kommen Sie 'mal her, mein lieber Herr,« sagte er. »Diese Sache liegt tiefer. Wie ist der Brief in den Kasten zurückgekommen?«
+
+Holmes wich den tiefforschenden Blicken dieser wunderbaren Augen lächelnd aus.
+
+»Wir haben auch unsere diplomatischen Geheimnisse,« versetzte er, nahm seinen Hut und ging zur Türe.

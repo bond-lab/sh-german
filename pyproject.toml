@@ -1,0 +1,12 @@
+[project]
+name = "sh-german"
+version = "0.1.0"
+description = "Public-domain German translations of the Sherlock Holmes canon, as NTU-MC corpus XML"
+requires-python = ">=3.12"
+dependencies = [
+    "spacy>=3.8",
+    "de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl",
+]
+
+[tool.ruff]
+line-length = 88

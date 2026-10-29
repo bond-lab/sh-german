@@ -1,0 +1,455 @@
+# Die verschwundene Braut
+
+Eines Tages wurde während seiner Abwesenheit ein Brief für Sherlock Holmes abgegeben. Ich hatte den ganzen Tag das Haus nicht verlassen, denn das Wetter war plötzlich regnerisch geworden; ein scharfer Herbstwind wehte, und die Flintenkugel in meinem Bein, die ich als Andenken aus dem afghanischen Feldzug heimgebracht habe, quälte mich mit empörender Hartnäckigkeit. In einem bequemen Stuhl sitzend, hatte ich die Beine auf einem zweiten Stuhl ausgestreckt und mich in einen ganzen Berg von Zeitungen vergraben, bis ich zuletzt die Tagesneuigkeiten satt bekam und die Blätter sämtlich beiseite schob. Während ich nun so in verdrossener Stimmung dalag, betrachtete ich mit träger Neugier das mächtige Wappen und Monogramm, das auf dem Umschlag des vor mir liegenden Briefes prangte, und fragte mich, wer wohl der adlige Briefschreiber sein möchte.
+
+»Da liegt ein höchst vornehmer Brief für dich«, rief ich meinem Freund bei seinem Eintritt entgegen. »Deine Briefe heute früh, von einem Fischhändler und einem Zolleinnehmer, waren weniger vornehm.«
+
+»Ja, mein Briefwechsel besitzt entschieden den Reiz der Abwechslung«, erwiderte er lächelnd, »und je weniger vornehm, desto interessanter sind sie in der Regel. Das da sieht gerade aus wie eine jener unwillkommenen gesellschaftlichen Einladungen, die einen entweder zu einer Marter oder zu einer Lüge verdammen.« Er erbrach das Siegel und überflog den Inhalt. »Warte einmal, das kann am Ende etwas ganz Interessantes geben!« rief er nun plötzlich.
+
+»Also nichts Gesellschaftliches?«
+
+»Nein, durchaus geschäftlich.«
+
+»Und von wem?«
+
+»Von einer der vornehmsten Personen in ganz England.«
+
+»Nun, ich gratuliere, mein lieber Junge.«
+
+»Ich versichere dir, Watson, es ist die Wahrheit, wenn ich sage, daß ich auf den gesellschaftlichen Rang meiner Kunden nicht so viel Wert lege, als auf das Interesse, das die Fälle bieten. Übrigens ist es wohl möglich, daß es bei dieser neuen Aufgabe auch nicht an interessantem Stoff fehlt. Du hast doch in diesen Tagen die Zeitungen genau durchgelesen, nicht wahr?«
+
+»Na, und ob!« erwiderte ich in kläglichem Ton und deutete dabei auf einen mächtigen Stoß, der in einer Ecke aufgehäuft lag; »ich habe ja sonst fast nichts zu tun gehabt.«
+
+»Nun, das kommt mir jetzt vielleicht zustatten, da kannst du mir sicher Auskunft geben. Ich lese nichts als die Kriminalberichte und den Briefkasten. Da erfährt man doch wenigstens immer etwas. Aber wenn du die neuesten Ereignisse so genau verfolgt hast, mußt du wohl auch etwas über Lord St. Simon und seine Hochzeit gelesen haben?«
+
+»O ja, das hat mich sogar sehr interessiert.«
+
+»Das ist schön. Der Brief hier ist von Lord St. Simon. Ich will ihn dir vorlesen, und dafür mußt du mir dann die Zeitungen noch einmal durchgehen und alles zusammensuchen, was sich auf die Angelegenheit bezieht. Er schreibt:
+
+Mein lieber Herr Sherlock Holmes!
+
+Lord Backwater sagt mir, daß ich Ihrem Scharfsinn und Ihrer Verschwiegenheit unbedingtes Vertrauen schenken dürfe. Ich habe mich daher entschlossen, bei Ihnen vorzusprechen und mir Ihren Rat in Beziehung auf das höchst schmerzliche Ereignis zu erbitten, das sich bei Gelegenheit meiner Hochzeit zugetragen hat. Herr Lestrade von der Geheimpolizei ist zwar in der Sache bereits tätig; allein er hat, wie er mir versichert, gegen Ihre Mitwirkung nicht nur nichts einzuwenden, sondern verspricht sich sogar Nutzen davon. Ich beabsichtige, um vier Uhr heute nachmittag bei Ihnen vorzusprechen und hoffe, daß Sie etwaige anderweitige Verpflichtungen auf später verschieben können.
+
+Ihr aufrichtiger
+
+St. Simon.
+
+»Der Brief ist aus Schloß Grosvenor datiert und mit einer Füllfeder geschrieben, wobei dem edlen Lord das Mißgeschick begegnet ist, einen Tintenklecks außen an seinen rechten kleinen Finger zu bringen«, bemerkte Holmes, während er das Schreiben zusammenfaltete.
+
+»Er sagt vier Uhr. Jetzt ist es drei. In einer Stunde ist er da. Bis dahin habe ich gerade noch Zeit, mich mit deiner Hilfe in der Sache aufs Laufende zu bringen. Sieh die Zeitungen durch und ordne die darauf bezüglichen Artikel nach ihrer Reihenfolge, unterdessen will ich einmal feststellen, wer unser Klient eigentlich ist.« Er nahm ein rotgebundenes Nachschlagebuch von dem Bücherbrett neben dem Kamin. »Da haben wir ihn ja«, sagte er, indem er sich niederließ und das Buch aufgeschlagen über seine Knie legte. »Lord Robert Walsingham de Vere St. Simon, zweiter Sohn des Herzogs von Balmoral – Hm! Wappen blau, drei Stachelnüsse im Mittelfeld über einem schwarzen Querbalken. Immerhin schon 41 Jahre alt, also nicht mehr zu jung zum Heiraten. War früher Unterstaatssekretär im Kolonialamt. Der Herzog, sein Vater, war früher Minister der auswärtigen Angelegenheiten. Stammen in gerader Linie von den Plantagenets und weiblicherseits von den Tudors ab. Das ist alles. Wir sind also nicht viel gescheiter als zuvor. Ich muß mich, scheint es, an dich halten, Watson, wenn ich etwas Ausgiebigeres erfahren will.«
+
+»Es ist keine große Mühe, zu finden, was ich suche«, versetzte ich, »denn die Ereignisse sind neuesten Datums, und der merkwürdige Fall fesselte gleich meine Aufmerksamkeit. Trotzdem sah ich davon ab, dir darüber zu berichten, denn ich wußte, daß du gerade mit einer Untersuchung beschäftigt warst und es nicht gerne siehst, wenn man dir mit etwas anderem dazwischen kommt.«
+
+»Ach, der Fall, den du meinst, ist bereits vollständig erledigt und war eigentlich von vornherein ganz klar. Bitte, lies mir nun vor, was du gefunden hast.«
+
+»Dies hier ist, soviel ich finden kann, die erste Notiz. Sie stand vor ein paar Wochen in der ›Morning-Post‹ unter den Personalnachrichten. ›Lord Robert St. Simon‹, heißt es da, zweiter Sohn des Herzogs von Balmoral, beabsichtigt, sich mit Fräulein Hatty Doran, einziger Tochter des Herrn Aloysius Doran aus San Francisco in Kalifornien, ehelich zu verbinden, und zwar soll allem Anschein nach die Vermählung in allernächster Zeit stattfinden‹ Das ist alles.«
+
+»Klipp und klar«, bemerkte Holmes darauf, indem er seine Beine vor dem Kaminfeuer ausstreckte.
+
+»Ein paar Tage später las ich darüber in einer der vornehmen Wochenschriften noch einen Artikel. Ach, da ist er ja:
+
+In Heiratssachen wird man wohl nächstens einen Schutzzoll für unsere heimischen Erzeugnisse verlangen, die allem Anschein nach durch die in Geltung stehenden freihändlerischen Grundsätze stark geschädigt werden. Eine der britischen Adelsfamilien um die andere beugt sich dem Szepter unserer hübschen überseeischen Stammverwandten. Die Zahl der Siegespreise, die diese entzückenden Eroberinnen davon getragen haben, hat in verflossener Woche einen ganz gewichtigen Zuwachs erfahren. Lord St. Simon, der sich seit mehr als zwanzig Jahren gegenüber den Pfeilen des kleinen Gottes als unverwundbar gezeigt hatte, kündigt nunmehr seine baldige eheliche Verbindung mit Miß Hatty Doran, der reizenden Tochter eines kalifornischen Millionärs an. Miß Doran, deren anmutige Erscheinung und blendend schöne Züge bei den Festlichkeiten in Westbury House großes Aufsehen erregten, ist ein einziges Kind, und ihre Mitgift wird, wie wir erfahren, mehr als eine Million betragen, abgesehen von dem, was ihr noch für später in Aussicht steht. Da es ein öffentliches Geheimnis ist, daß sich der Herzog im Lauf der letzten Jahre genötigt sah, seine Gemälde zu verkaufen, und Lord St. Simon außer dem kleinen Gute Birchmoor keinen eigenen Grundbesitz hat, so liegt es auf der Hand, daß die kalifornische Erbin nicht allein die Gewinnende bei dieser Verbindung ist, durch welche eine einfache Republikanerin auf so bequeme und nicht ungewöhnliche Art zur Angehörigen des höchsten britischen Adels erhoben wird.«
+
+»Sonst noch etwas?« fragte Holmes gähnend.
+
+»O freilich; die Hülle und Fülle. Es kommt dann noch eine Notiz in der ›Morning-Post‹, daß die Hochzeit in aller Stille in der St. Georgenkirche stattfinden, daß nur ein halbes Dutzend der nächsten Bekannten Einladungen erhalten, und daß die Gesellschaft sich danach wieder nach dem von Herrn Aloysius Doran gemieteten Hause in Lancastergate begeben werde. Zwei Tage darauf – also vorigen Mittwoch – kommt dann eine kurze Bemerkung, daß die Hochzeit stattgefunden habe, und daß das junge Paar die Flitterwochen auf Lord Backwaters Besitzung bei Petersfield zu verbringen gedenke. Dies ist alles, was die Zeitungen vor dem Verschwinden der jungen Frau über die Sache gebracht haben.«
+
+»Vor was?« fragte Holmes, hoch aufhorchend.
+
+»Vor dem Verschwinden der jungen Frau.«
+
+»Wann verschwand sie denn?«
+
+»Beim Hochzeitsmahl.«
+
+»Wirklich? Nun, die Sache läßt sich ja weit interessanter an, als es den Anschein hatte; sie ist ja direkt hochdramatisch.«
+
+»Ja. Ich war ganz überrascht; ein Fall wie dieser kommt nicht gerade alle Tage vor.«
+
+»Vor der Trauung verschwinden sie oft und viel, gelegentlich kommt es auch einmal während der Flitterwochen vor; aber einen Fall, wo es nach der Trauung mit dem Verschwinden so große Eile hatte, habe ich wirklich noch nicht erlebt. Bitte, laß mich den genauen Bericht hören.«
+
+»Ich will dir nur gleich im voraus sagen, daß er sehr unvollständig ist.«
+
+»Nun, dem können wir ja vielleicht abhelfen.«
+
+»Die Nachricht steht in einem der gestrigen Morgenblätter. Ich will dir den Artikel vorlesen; er trägt die Überschrift ›Merkwürdiger Vorfall bei einer vornehmen Hochzeit‹ und lautet:
+
+Die Familie Lord Robert St. Simons ist durch die rätselhaften und bedauerlichen Vorfälle, die sich bei dessen Hochzeit zugetragen haben, in die größte Bestürzung versetzt worden. Die kirchliche Feier fand, wie wir schon kurz mitgeteilt haben, am gestrigen Vormittag statt; allein es war erst jetzt möglich, den sonderbaren Gerüchten, die sich um dieses Ereignis knüpften, auf den Grund zu kommen. Die Angelegenheit, welche die Näherstehenden vergeblich zu vertuschen suchten, hat die Öffentlichkeit in solchem Grade erregt, daß es keinen vernünftigen Zweck mehr haben könnte, Dinge totschweigen zu wollen, die in jedermanns Munde sind.
+
+Die Feier in der St. Georgenkirche hielt sich im engsten Kreise. Es waren nur zugegen der Vater der Braut, Herr Aloysius Doran, die Herzogin von Balmoral, Lord Backwater, Lord Eustachius und Lady Clara St. Simon (die jüngeren Geschwister des Bräutigams) sowie Lady Alicia Whittington. Die ganze Gesellschaft begab sich darauf nach Herrn Aloysius Dorans Haus in Lancastergate, wo das Festmahl bereit stand. Eine Störung verursachte, wie es scheint, dabei eine weibliche Person, deren Name sich nicht hat feststellen lassen; sie versuchte unter dem Vorgeben, daß sie Ansprüche an Lord St. Simon habe, hinter der Gesellschaft gewaltsam in das Haus einzudringen und konnte nur nach einem längeren peinlichen Auftritt durch zwei Diener fortgebracht werden. Die Braut, welche das Haus glücklicherweise vor diesem unliebsamen Zwischenfall betreten hatte, saß mit der übrigen Gesellschaft zu Tische, als sie plötzlich über Übelbefinden klagte und sich auf ihr Zimmer zurückzog. Als ihre längere Abwesenheit aufzufallen begann, ging der Vater ihr nach, erfuhr jedoch von dem Kammermädchen, seine Tochter sei nur einen Augenblick auf ihr Zimmer gekommen, habe einen Mantel umgeworfen, den Hut aufgesetzt und darauf eilends das Haus verlassen. Ein Diener sagte aus, er habe allerdings eine Dame in dem eben beschriebenen Anzug das Haus verlassen sehen, ohne jedoch an die Möglichkeit zu denken, daß es seine Herrin sein könne, da er geglaubt habe, sie befinde sich bei der Gesellschaft. Sobald festgestellt war, daß die Braut wirklich verschwunden sei, setzten sich Herr Aloysius Doran und der Bräutigam augenblicklich mit der Polizei in Verbindung, und es sind alle Nachforschungen im Gange, um bald Licht in diese höchst merkwürdige Geschichte zu bringen. Bis gestern abend in später Stunde war übrigens von dem Verbleib der Vermißten noch nichts bekannt geworden. Die Polizei hat die Festnahme der Frau veranlaßt, welche die erste Störung herbeigeführt hatte, in der Annahme, daß sie aus Eifersucht oder irgend einem andern Beweggrund bei dem merkwürdigen Verschwinden der Braut beteiligt sein könnte.«
+
+»Und ist das alles?«
+
+»Nur eine kleine, aber wichtige Notiz steht noch in einem andern Morgenblatt.«
+
+»Und was enthält sie?«
+
+»Daß Fräulein Flora Millar, die Störerin der Hochzeitsfeier, wirklich festgenommen ist. Es scheint, daß sie früher Tänzerin am Allegrotheater war und mit dem Bräutigam einige Jahre lang ein Verhältnis unterhielt. Weitere Einzelheiten sind nicht erwähnt.
+
+Das ist das ganze auf diese Hochzeit bezügliche Material – soweit die Tagespresse sich damit beschäftigt hat.«
+
+»Es scheint tatsächlich ein sehr interessanter Fall zu sein, um den ich nicht kommen möchte. Aber da klingelt es, Watson; und da es gerade vier geschlagen hat, so dürfen wir sicher sein, daß es unser vornehmer Besuch ist. Laß dir nur nicht einfallen, Watson, fortgehen zu wollen, es ist mir viel lieber, ich habe einen Zeugen; wäre es auch nur zur Unterstützung meines Gedächtnisses.«
+
+»Lord Robert St. Simon«, meldete unser kleiner Diener, indem er die Tür weit aufmachte. Ein Herr trat ein mit feinen, angenehmen Zügen, vorspringender Nase und blasser Farbe; er hatte einen etwas hochmütigen Ausdruck um den Mund und den festen, offenen Blick eines Mannes, dem das angenehme Los zuteil geworden ist, stets befehlen zu dürfen und jederzeit Gehorsam zu finden. Sein Wesen war lebhaft, und doch machte seine ganze Erscheinung keinen jugendlichen Eindruck mehr, denn er hielt sich ein klein wenig vorgeneigt und sank beim Gehen etwas in die Knie. Als er den hochkrempigen Hut abnahm, zeigte sich auch sein Haar ringsum an den Spitzen ergraut und auf dem Scheitel dünn. Sein Anzug war von einer fast stutzerhaften Eleganz. Er trat mit gemessenem Schritt ein, drehte dabei den Kopf von einer Seite zur andern und ließ den goldenen Nasenklemmer um seine rechte Hand tanzen.
+
+»Guten Tag, Lord St. Simon«, sagte Holmes, indem er aufstand und sich verbeugte; »bitte, nehmen Sie Platz im Armstuhl. Dies ist mein Freund und Kollege, Dr. Watson. Setzen Sie sich etwas näher zum Feuer, dann wollen wir die Angelegenheit besprechen.«
+
+»Eine höchst peinliche Sache für mich, wie Sie sich leicht vorstellen können, Herr Holmes. Der Schlag hat mich bis ins Mark getroffen. Ich habe erfahren, daß Sie schon mehr heikle Fälle dieser Art unter den Händen gehabt haben, jedoch wohl kaum aus unseren Kreisen.«
+
+»Nein, aus weit vornehmeren.«
+
+»Wie sagten Sie, bitte?«
+
+»Mein letzter Klient dieser Art war ein König.«
+
+»O wirklich! Davon hatte ich keine Ahnung. Und welcher König war das?«
+
+»Der König von Schweden.«
+
+»Was? War ihm auch seine Frau abhanden gekommen?«
+
+»Sie werden begreifen«, erwiderte Holmes in sanftem Tone, »daß ich die Verschwiegenheit, die ich Ihnen in Ihren Angelegenheiten zusichere, in gleicher Weise auch meinen übrigen Klienten gegenüber beobachten muß.«
+
+»Natürlich! Ganz recht! Ganz recht! Bitte sehr um Vergebung. Was meinen eigenen Fall betrifft, so bin ich bereit, Ihnen jeden Aufschluß zu geben, der Ihnen förderlich sein kann.«
+
+»Danke. Was in den Tagesblättern darüber steht, weiß ich bereits alles, aber sonst nichts. Ich setze voraus, daß ich den Inhalt der Zeitungen als richtig annehmen darf – so z. B. auch den Artikel, der sich auf das Verschwinden der Braut bezieht.«
+
+Lord St. Simon überflog ihn. »Allerdings; was darin steht, ist richtig.«
+
+»Doch bedarf er noch der Vervollständigung, bevor man sich eine Ansicht in der Sache zu bilden vermag. Ich glaube, ich könnte mir das nötige Material am besten verschaffen, wenn ich Ihnen direkt Fragen stellte.«
+
+»Bitte, tun Sie das nur.«
+
+»Wann trafen Sie zum erstenmal mit Fräulein Doran zusammen?«
+
+»In San Francisco, vor einem Jahr.«
+
+»Sie befanden sich damals auf einer Reise in den Vereinigten Staaten?«
+
+»Ja.«
+
+»Verlobten Sie sich damals schon?«
+
+»Nein.«
+
+»Aber Sie standen auf freundschaftlichem Fuße mit ihr?«
+
+»Ich fand Vergnügen an ihrer Gesellschaft, und sie konnte auch wohl merken, daß dies der Fall war.«
+
+»Ihr Vater ist sehr reich?«
+
+»Er gilt für den reichsten Mann an der ganzen Westküste.«
+
+»Und womit verdiente er sein Geld?«
+
+»Mit Bergbau. Vor wenigen Jahren war er noch ohne Vermögen. Dann grub er auf Gold und machte dabei so glänzende Geschäfte, daß er mit Riesenschritten vorwärts kam.«
+
+»Nun, und was ist Ihr Eindruck von dem Charakter der jungen Dame – Ihrer Gemahlin?«
+
+Der Edelmann ließ seinen Klemmer noch etwas rascher tanzen und blickte starr in das Kaminfeuer. »Sehen Sie, Herr Holmes«, begann er, »meine Gemahlin war schon zwanzig Jahre alt, ehe ihr Vater ein reicher Mann wurde. Bis dahin war sie in einem Goldgräberdorf frei umhergelaufen und durch Wälder und Berge geschweift, so daß ihre Erziehung mehr auf Rechnung der Natur als des Schulmeisters zu setzen ist. Sie ist, was man einen Wildfang nennt, eine starke, ungestüme, freie, durch keinerlei alte Überlieferung beengte Natur. Sie ist rasch fertig mit ihrem Urteil und kennt keine Furcht, wenn es gilt, ihre Entschlüsse auszuführen. Auf der anderen Seite würde ich ihr nicht den Namen gegeben haben, den ich die Ehre habe zu tragen (hier ließ er ein kurzes, vornehmes Hüsteln hören), hätte ich sie nicht für ein durchaus edel geartetes Wesen gehalten. Ich glaube, daß sie heroischer Aufopferung fähig ist, und daß jede Spur von Unehrenhaftigkeit ihr fern liegt.«
+
+»Besitzen Sie ihre Photographie?«
+
+»Dies hier habe ich bei mir.« Damit öffnete er ein Etui und ließ uns ein sehr einnehmendes weibliches Bildnis sehen. Es war keine Photographie, sondern eine Miniaturmalerei auf Elfenbein, in welcher der Künstler das glänzend schwarze Haar, die großen dunklen Augen, den ausgesucht schönen Mund zu voller Wirkung zu bringen verstanden hatte. Holmes betrachtete das Porträt lange und aufmerksam, dann schloß er das Etui wieder und gab es dem Lord zurück.
+
+»Die junge Dame kam hierauf nach London, und Sie knüpften hier die Bekanntschaft wieder an?«
+
+»Jawohl. Ihr Vater brachte sie zur diesjährigen Saison herüber. Ich traf mehrmals mit ihr zusammen, bis ich mich mit ihr verlobte und kürzlich verheiratete.«
+
+»Sie hat, wenn ich recht berichtet bin, eine beträchtliche Mitgift erhalten?«
+
+»Eine ganz hübsche Mitgift. Aber nicht größer, als es in meiner Familie üblich ist.«
+
+»Und diese Mitgift verbleibt nun natürlich Ihnen, nachdem die eheliche Verbindung zur Tatsache geworden ist?«
+
+»Danach habe ich mich wirklich noch nicht erkundigt.«
+
+»Das läßt sich denken. Waren Sie mit Ihrer Braut am Tage vor der Hochzeit zusammen?«
+
+»Jawohl.«
+
+»War sie da guter Laune?«
+
+»In so froher Stimmung als jemals. Sie machte fortwährend Pläne für unsere Zukunft.«
+
+»Wirklich? Das ist höchst merkwürdig. Und am Hochzeitsmorgen?«
+
+»War sie so heiter als nur möglich. Wenigstens bis nach der Trauung.«
+
+»Und haben Sie nach der Trauung eine Veränderung an ihr bemerkt?«
+
+»Nun ja, um die Wahrheit zu gestehen, erfuhr ich bei dieser Gelegenheit zum erstenmal, daß sie auch etwas heftig werden kann. Das Vorkommnis war übrigens zu nebensächlich, um ein Wort darüber zu verlieren, und hat keinerlei Bedeutung für den vorliegenden Fall.«
+
+»Bitte, teilen Sie es uns trotz alledem mit.«
+
+»Ach, es hört sich wirklich kindisch an. Als wir vom Altar zurückgingen, ließ sie ihren Blumenstrauß fallen. Sie schritt gerade an der vordersten Sitzreihe vorüber, und so fiel er in einen der Kirchenstühle hinein. Dies verursachte einen Aufenthalt von einigen Augenblicken, allein der dort sitzende Herr händigte ihr sogleich den Strauß wieder ein, der auch durch den Fall nicht gelitten hatte. Trotzdem gab sie mir auf meine Bemerkungen über den Vorfall nur abgerissene Antworten, und während unserer Fahrt nach Hause zeigte sie eine unbegreifliche Erregung über diese unbedeutende Sache.«
+
+»Wirklich? Wie Sie sagen, befand sich ein Herr in dem Kirchenstuhl. Es waren also fremde Zuschauer zugegen?«
+
+»O ja. Dies läßt sich unmöglich vermeiden, wenn die Kirche offen ist.«
+
+»Jener Herr gehörte nicht zu den Bekannten Ihrer Gemahlin?«
+
+»Nein, nein. Ich nenne ihn nur aus Höflichkeit einen Herrn; es war ein ganz gewöhnlich aussehender Mensch, den ich kaum bemerkt hatte. Aber ich glaube, wir schweifen ziemlich weit von unserem Ziele ab.«
+
+»Ihre Gemahlin war also bei der Rückkehr von der Trauung in einer weniger heiteren Stimmung als auf dem Hinweg. Was tat sie nach der Ankunft im väterlichen Hause?«
+
+»Da sah ich sie im Gespräch mit Alice, ihrem amerikanischen Kammermädchen, das sie aus Kalifornien mitgebracht hat.«
+
+»Wohl eine vertraute Dienerin?«
+
+»Ja, nur etwas zu sehr. Mir scheint, sie gestattet sich ihrer Herrin gegenüber große Freiheiten. Doch sieht man derartige Verhältnisse in Amerika natürlich etwas anders an.«
+
+»Wie lange dauerte dieses Gespräch?«
+
+»Nur ein paar Minuten. Ich dachte gerade an etwas anderes.«
+
+»Sie haben nicht gehört, wovon sie sprachen?«
+
+»Meine Frau sagte etwas von ›in fremdes Gehege kommen‹. Ich habe keine Ahnung, was sie damit meinte.«
+
+»Und was tat Ihre Gemahlin nach dem Gespräch?«
+
+»Sie begab sich in das Speisezimmer.«
+
+»An Ihrem Arm?«
+
+»Nein, allein. In solchen Kleinigkeiten war sie sehr selbständig. Wir mochten etwa zehn Minuten bei Tisch gesessen haben, als sie eilig aufstand, einige Worte der Entschuldigung murmelte und den Saal verließ, um nicht wiederzukehren.«
+
+»Wenn ich recht verstanden habe, so ist sie nach Aussage des Kammermädchens auf ihr Zimmer gegangen, hat einen langen Mantel über ihr Brautkleid geworfen, einen Hut aufgesetzt und das Haus verlassen.«
+
+»Ganz richtig. Darauf wurde sie noch im Hydepark zusammen mit der Flora Millar gesehen, die an jenem Vormittag bereits in Herrn Dorans Hause eine Störung verursacht hatte und inzwischen verhaftet worden ist.«
+
+»Ganz richtig. Ich darf Sie wohl um etwas genauere Auskunft über diese junge Dame und Ihre Beziehungen zu ihr bitten.«
+
+Lord St. Simon zuckte die Achseln und zog die Augenbrauen in die Höhe. »Wir haben ein paar Jahre lang auf freundschaftlichem Fuße miteinander gestanden – ich darf wohl sagen: auf sehr freundschaftlichem Fuße. Sie war meist am ›Allegro‹ beschäftigt. Ich habe nicht unnobel an ihr gehandelt, und sie hatte keinen triftigen Grund zur Klage über mich, aber Sie wissen ja, wie diese Mädel sind, Herr Holmes. Flora war ein ganz nettes, kleines Ding, allein äußerst hitzköpfig und von einer blinden Anhänglichkeit an mich. Sie schrieb mir schreckliche Briefe, als sie erfuhr, daß ich im Begriff stand, mich zu verheiraten; und, um die Wahrheit zu sagen, war der Grund, warum ich die Hochzeit so in der Stille feiern ließ, daß ich fürchtete, es möchte einen Skandal in der Kirche geben. Gerade wie wir von dort zurückkehrten, erschien sie vor Herrn Dorans Hause und suchte sich unter höchst unziemlichen, ja sogar drohenden Äußerungen gegen meine Gattin einzudrängen; allein ich hatte so etwas vorausgeahnt und deshalb zwei Polizisten in bürgerlicher Kleidung aufgestellt, die sie wieder fortbrachten. Sie beruhigte sich schließlich, als sie sah, daß sie mit dem lärmenden Auftritt doch nichts ausrichten konnte.«
+
+»Hat Ihre Gattin das alles mit angehört?«
+
+»Nein, Gott sei Dank, das nicht.«
+
+»Und mit eben diesem Mädchen hat man sie nachher gehen sehen?«
+
+»Jawohl. Dies ist auch der Punkt, den Herr Lestrade als so schwerwiegend ansieht. Man nimmt an, Flora habe meine Frau in irgend eine schreckliche Falle gelockt.«
+
+»Nun, das wäre freilich möglich.«
+
+»Sie sind also auch dieser Ansicht?«
+
+»Für wahrscheinlich halte ich es gerade nicht; aber wie denken Sie selbst darüber?«
+
+»So wie ich Flora kenne, könnte sie keiner Fliege etwas zuleide tun.«
+
+»Die Eifersucht bewirkt aber doch oft ganz merkwürdige Veränderungen im Charakter des Menschen.«
+
+»Sollte Ihnen das Glück beschieden sein, die Lösung dieses Rätsels zu finden –« fuhr unser Besucher fort, indem er sich erhob.
+
+»Ich habe sie gefunden«, unterbrach ihn Holmes.
+
+»Wie? Höre ich recht?«
+
+»Ich habe sie gefunden, sage ich.«
+
+»Nun, wo ist denn meine Frau?«
+
+»Auch auf diesen weiteren Punkt werde ich die Antwort nicht lange schuldig bleiben.«
+
+Lord St. Simon schüttelte das Haupt. »Ich glaube doch fast, dazu gehört mehr Weisheit, als Sie oder ich im Kopfe haben«, versetzte er. Dann zog er sich mit einer vornehmen, altmodischen Verbeugung zurück.
+
+»Es ist wirklich recht gnädig von Seiner Lordschaft, daß er meinem Kopf die Ehre erweist, ihn mit dem seinigen auf eine Stufe zu stellen«, meinte Sherlock Holmes lachend. »Auf dieses lange Kreuzverhör hin habe ich aber eine kleine Erfrischung und eine Zigarre verdient. Ich war mit meinen Schlußfolgerungen übrigens im reinen, ehe unser Besuch erschien.«
+
+»Mein lieber Holmes!«
+
+»Ja – es ist so. Unter meinen Aufzeichnungen befinden sich mehrere ähnliche Fälle, aber so flink ist es noch bei keinem gegangen. Das Verhör machte meine Vermutung nur zur Gewißheit. Ein Indizienbeweis ist gelegentlich außerordentlich überzeugend, namentlich wenn auch das übrige so genau dazu paßt.«
+
+»Aber ich habe doch alles mit angehört, so gut wie du!«
+
+»Allerdings, aber ohne die Kenntnis der früheren Fälle, die mir so sehr zustatten kommt. Da war ein Fall vor einigen Jahren, wo –. Doch da kommt ja Lestrade! Hallo, Lestrade, guten Abend! Dort drüben steht Ihr Stammglas, und hier ist die Zigarrenkiste.«
+
+Der kleine Herr erschien in einer hellen Jacke und hellem Halstuch, was ihm ein ganz seemännisches Aussehen gab, in der Hand trug er einen schwarzen Reisekoffer. Nach kurzem Gruß ließ er sich nieder und steckte sich die angebotene Zigarre an.
+
+»Was ist denn los?« fragte Holmes mit einem Zwinkern seiner Augen. »Sie sehen ja recht mißmutig aus.«
+
+»Bin ich auch. Diese Teufelsgeschichte mit der Hochzeit Lord St. Simons! Ich weiß nicht, an welchem Zipfel ich das Geschäft anfassen soll!«
+
+»Wirklich! Das ist mir überraschend.«
+
+»Hat man je von einer so vertrackten Geschichte gehört? Sobald ich meine, ich habe einen Faden gefunden, schlüpft er mir wieder durch die Finger; den ganzen Tag habe ich mich daran abgearbeitet.«
+
+»Und gewaltig naß sind Sie scheint's dabei geworden«, versetzte Holmes, seinen Rockärmel befühlend.
+
+»Ja. Ich habe den Kanal ausfischen lassen.«
+
+»Wozu denn das, um Gottes willen?«
+
+»Um den Leichnam der Lady St. Simon zu finden.«
+
+Sherlock Holmes lehnte sich in seinem Stuhl zurück und lachte aus vollem Halse.
+
+»Haben Sie auch das Bassin des Springbrunnens auf dem Trafalgarplatz ausfischen lassen?«
+
+»Wieso? Warum das?«
+
+»Weil Sie gerade so viel Aussicht hatten, dort die Leiche zu finden, wie im Kanal.«
+
+Lestrade warf einen zornigen Blick auf meinen Freund. »Es scheint, Sie sind schon vollständig im klaren über alles!« sagte er gereizt.
+
+»Nun, ich habe zwar erst eben den Verlauf der Sache vernommen, aber meine Ansicht habe ich mir gebildet.«
+
+»So! Dann sind Sie wohl der Meinung, der Kanal habe gar nichts mit der Sache zu tun?«
+
+»Ich halte es für höchst unwahrscheinlich.«
+
+»Wollen Sie dann vielleicht die Güte haben, mir zu erklären, wie diese Sachen hier hineingekommen sind?« Damit öffnete er seine Tasche, aus welcher ein Brautkleid aus Seide, ein Paar weiße Atlasschuhe, ein Brautkranz und Schleier herausfielen, alles vom Wasser durchweicht und verdorben. »So«, sagte er, und legte noch einen ganz neuen Ehering oben auf den Haufen, »nun knacken Sie mir mal diese Nuß, Herr Holmes.«
+
+»Also aus dem Kanal sind die Sachen heraufgeholt worden?« versetzte mein Freund und blies dabei blaue Ringe in die Lust.
+
+»Nein, ein Parkhüter sah sie in der Nähe des Ufers schwimmen; man hat sie als der Lady gehörig erkannt; nun dachte ich, sind die Kleider da, so wird die Leiche auch nicht weit davon sein.«
+
+»Dieser wunderbaren Logik zufolge müßte man also die Leiche eines Verstorbenen stets in der Nähe seines Kleiderschrankes finden. Und bitte, sagen Sie mir doch, was hofften Sie denn dadurch zu erreichen?«
+
+»Einen Beweis für die Beteiligung der Flora Millar an dem Verschwinden der Vermißten.«
+
+»Tut mir leid, aber das wird schwer halten.«
+
+»Wirklich, auch jetzt noch?« rief Lestrade in gereiztem Tone. »Und mir tut es leid, Holmes, Ihnen sagen zu müssen, daß Sie mit Ihren Schlüssen und Vermutungen sehr daneben gehauen haben. Sie haben zwei Böcke in den letzten zwei Minuten geschossen. Durch dieses Kleid ist Flora Millar überführt.«
+
+»Und wieso das?«
+
+»In dem Kleid ist eine Tasche. In der Tasche befindet sich ein Visitenkartentäschchen. In diesem Täschchen steckt ein Zettel. Und hier ist der Zettel selbst.« Damit legte er diesen vor Holmes auf den Tisch hin. »Hören Sie nur:
+
+Wenn alles besorgt ist, werde ich erscheinen. Komme unverzüglich. F. H. M.
+
+»Ich war von Anfang an der Überzeugung, daß Lady St. Simon durch Flora Millar weggelockt worden ist, daß diese, ohne Zweifel im Verein mit anderen, an ihrem Verschwinden schuld ist. Dieser Zettel, mit Flora Millars Anfangsbuchstaben unterzeichnet, wurde der Lady ohne Zweifel unter der Tür in aller Stille in die Hände gespielt, um sie vom Hause wegzulocken.«
+
+»Vortrefflich Lestrade«, versetzte Holmes lachend. »Sie sind in der Tat höchst scharfsinnig. Lassen Sie mich mal sehen!« Damit griff er gleichgültig nach dem Zettel, allein plötzlich wurde seine Aufmerksamkeit rege, und ein Ausruf freudiger Überraschung entfuhr ihm. »Das ist wirklich von Bedeutung«, bemerkte er.
+
+»So, sind Sie jetzt auch meiner Meinung?«
+
+»Versteht sich. Ich gratuliere Ihnen aufrichtig.«
+
+Lestrade erhob sich in seiner Siegesfreude und beugte sich gleichfalls über den Zettel. »Aber«, rief er, »Sie schauen ja auf die verkehrte Seite!«
+
+»Durchaus nicht, das ist die richtige Seite.«
+
+»Die richtige Seite? Sie sind nicht bei Trost. Hier steht ja die Notiz mit Bleistift geschrieben.«
+
+»Und dort steht etwas, das einem Stück von einer Hotelrechnung ähnlich sieht und mich außerordentlich interessiert:
+
+4. Okt. Zimmer 8 Schill., Frühst. 2 Schill. 6 Pence, Gabelfrühstück
+
+22 Schill. 6 Pence, ein Glas Sherry 8 Pence. –
+
+»Dahinter steckt nichts. Das habe ich längst gesehen«, erwiderte Lestrade.
+
+»Es hat allerdings ganz den Anschein. Und trotzdem ist es von höchster Bedeutung. Was die Bleistiftnotiz betrifft, so ist sie, oder wenigstens die Anfangsbuchstaben, gleichfalls von Wichtigkeit. Ich gratuliere daher nochmals.«
+
+»Wir haben jetzt genug Zeit vertrödelt«, versetzte Lestrade, indem er sich erhob. »Ich halte mehr davon, eine Aufgabe tüchtig anzupacken, als beim Kaminfeuer geistreiche Annahmen darüber auszuklügeln. Adieu, Herr Holmes, wir werden ja sehen, wer der Sache zuerst auf den Grund kommt!« Er packte die Kleidungsstücke wieder in die Tasche und schritt der Tür zu.
+
+»Einen Wink will ich Ihnen doch noch geben, Lestrade«, rief Holmes gleichmütig seinem abgehenden Kollegen nach, »ich will Ihnen die richtige Lösung des Rätsels verraten: Lady St. Simon gehört ins Fabelreich. Eine solche gibt es nicht und hat es nie gegeben.«
+
+Lestrade warf einen betrübten Blick auf meinen Freund. Dann wandte er sich zu mir, deutete auf seine Stirn und verschwand eiligst unter feierlichem Kopfschütteln.
+
+Kaum hatte sich die Tür hinter ihm geschlossen, so erhob sich Holmes und zog seinen Überzieher an. »Es ist etwas Wahres an dem, was der Mensch sagt; es taugt nichts, hier müßig zu sitzen«, äußerte er, »deshalb muß ich dich wohl jetzt mit deinen Zeitungen allein lassen, Watson.«
+
+Es war fünf Uhr vorüber, als Holmes mich verließ; doch hatte ich nicht lange Zeit, mich einsam zu fühlen: es dauerte keine Stunde, so brachten zwei Leute aus einem Delikatessengeschäft eine große flache Kiste herein, der sie zu meinem größten Erstaunen im Handumdrehen ein ganz üppiges kaltes Abendessen entnahmen, das bald auf unserem bescheidenen Junggesellentisch prangte. Da standen Rebhühner, ein Fasan, eine Gänseleberpastete nebst einer ganzen Batterie alter bestaubter Flaschen. Kaum waren der Wein und die leckeren Gerichte aufgestellt, so verschwanden die Überbringer wie die Geister in ›Tausend und eine Nacht‹, ohne sich auf eine weitere Erklärung einzulassen, als daß das alles hierher bestellt und schon bezahlt sei.
+
+Kurz vor neun Uhr trat Holmes mit lebhaftem Schritt ins Zimmer. Seine Züge trugen einen ernsten Ausdruck, doch ersah ich aus einem gewissen Glanz in seinen Augen, daß der Erfolg seinen Schlüssen recht gegeben habe.
+
+»Also das Abendessen ist bereit«, sagte er und rieb sich die Hände.
+
+»Es scheint, du erwartest Gesellschaft; es sind ja fünf Gedecke.«
+
+»Wir müssen uns heute auf einige ungebetene Gäste gefaßt machen«, meinte er. »Mich wundert nur, daß Lord St. Simon noch nicht da ist. Doch eben höre ich seinen Tritt auf der Treppe, wenn mich nicht alles täuscht.«
+
+Es war wirklich unser Besuch vom Nachmittag, der jetzt hereinstürmte und mit verstörtem Ausdruck in den aristokratischen Zügen seinen Zwicker noch eifriger um die Finger schwang als sonst.
+
+»Mein Bote hat Sie also getroffen?« fragte Holmes.
+
+»Jawohl. Und ich muß gestehen, was er mir ausrichtete, hat mich über alle Maßen verblüfft. Haben Sie einen sichern Beweis für Ihre Behauptung?«
+
+»Den besten, der sich denken läßt.«
+
+Lord St. Simon sank auf einen Stuhl und fuhr sich mit der Hand über die Stirn.
+
+»Was wird der Herzog sagen«, murmelte er vor sich hin, »wenn er hört, welche Demütigung einem Mitglied seiner Familie widerfahren ist.«
+
+»Es ist lediglich eine unglückliche Verkettung von Umständen. Daß es sich dabei um eine Demütigung handelt, kann ich überhaupt nicht zugeben«, sagte Holmes.
+
+»Sie sehen eben diese Dinge von einem andern Standpunkt an.«
+
+»Ich kann mich nicht überzeugen, daß irgend jemand eine Schuld trifft. Die junge Frau hätte im Grunde kaum anders handeln können. Ihr schroffes Vorgehen ist freilich zu bedauern; aber sie stand ohne Mutter da und hatte somit keinen Menschen, der ihr in dieser kritischen Lage raten konnte.«
+
+»Es war eine entwürdigende Behandlung, eine öffentliche Beschimpfung!« rief Lord St. Simon und trommelte mit den Fingern auf dem Tisch.
+
+»Sie müssen dem armen Mädchen, das sich in einer so überaus schwierigen Lage befand, etwas zugute halten.«
+
+»Ich bin nicht in der Stimmung, irgend jemandem etwas zugute zu halten. Ich bin aufs äußerste empört. Man hat mir schmählich mitgespielt.«
+
+»Ich glaube, es hat geklingelt«, unterbrach ihn Holmes. »Jawohl, man hört schon Schritte heraufkommen. Da ich Sie nicht überreden kann, die Sache in milderem Licht zu sehen, Lord St. Simon, so habe ich hier einen Anwalt bestellt, der es vielleicht besser zu Wege bringt.« Damit öffnete er die Tür und ließ eine Dame und einen Herrn eintreten. »Lord St. Simon«, wandte er sich wieder an diesen, »gestatten Sie mir, Ihnen Herrn und Frau Hay Moulton vorzustellen. Die Dame ist Ihnen wohl bereits bekannt.«
+
+Beim Erscheinen der neuen Ankömmlinge war der Lord sofort von seinem Sitz aufgesprungen; mit zu Boden gesenktem Blick, die rechte Hand vorn in den Rock gesteckt, stand er da – ein Bild beleidigter Würde. Die junge Frau tat einen raschen Schritt auf ihn zu und streckte ihm beide Hände entgegen, aber er schaute nicht empor. Und wenn er fest bleiben wollte, war dies wohl auch das beste, denn dem bittenden Ausdruck ihres Gesichtes war nicht leicht zu widerstehen.
+
+»Du zürnst mir, Robert?« sagte sie. »Freilich, du hast wohl guten Grund dazu.«
+
+»Nur keine Entschuldigung«, erwiderte der Angeredete bitter.
+
+»Ich weiß wohl, ich habe wirklich unrecht an dir gehandelt; ich hätte dir's sagen sollen, ehe ich davonging. Aber ich war ganz aus dem Häuschen; sobald ich meinen Frank wiedergesehen hatte, wußte ich wirklich nicht mehr, was ich tat und sagte. Ich wundere mich nur, daß ich nicht gleich vor dem Altar ohnmächtig wurde und hinfiel.«
+
+»Vielleicht ist es Ihnen erwünscht, Frau Moulton, wenn ich mit meinem Freund während dieser Erörterungen das Zimmer verlasse?« warf hier Holmes ein.
+
+»Wenn ich meine Meinung äußern darf«, ließ sich jetzt der fremde Herr vernehmen, »so glaube ich, daß wir die Sache bisher schon mit allzuviel Heimlichkeit betrieben haben. Meinetwegen könnte die ganze Welt erfahren, wie alles zugegangen ist.« Es war ein kleiner, geschmeidiger, sonnenverbrannter Mann, glatt rasiert, mit klugem Gesicht und lebhaftem Wesen.
+
+»Dann will ich unsere Geschichte frischweg erzählen«, sagte die junge Frau. »Frank und ich trafen uns vor Jahren in Mc. Quires Camp am Felsengebirge, wo mein Vater eine Grube besaß. Wir verlobten uns miteinander; allein eines Tages stieß mein Vater auf eine reiche Ader in der Grube und gewann mächtig viel Gold, während Frank aus seiner Grube immer weniger herausschlug und zu nichts kam. Je reicher wir wurden, um so ärmer wurde Frank, zuletzt wollte mein Vater nichts mehr von unserer Verlobung hören und schickte mich fort nach Frisco. Aber Frank wollte nicht von mir lassen; er folgte mir und traf ohne meines Vaters Wissen mit mir zusammen. Hätten wir es ihm gesagt, so wäre er nur in Wut geraten, deshalb machten wir die Sache für uns allein ab. Frank erklärte, er wolle fortgehen und auch sein Glück machen; erst wenn er so viel habe wie wir, werde er wiederkommen und seine Rechte an mich geltend machen – nicht früher. So versprach ich ihm denn, auf ihn zu warten in alle Ewigkeit, und gab ihm mein Wort, keinen andern zu heiraten, solange er am Leben sei. ›Warum sollten wir aber nicht einfach heiraten?‹ meinte er, ›dann bist du mir sicher; meine Rechte als Ehemann mache ich erst geltend, wenn ich zurückkomme.‹ Wir kamen bald darüber ins reine, und er hatte alles so hübsch eingefädelt, ein Geistlicher wartete schon, daß wir's gleich auf der Stelle abmachten; Frank ging dann fort, sein Glück zu suchen, und ich kehrte zu meinem Vater zurück.
+
+Das nächste, was ich von Frank hörte, war, daß er in Montana sei; dann begab er sich nach Arizona, um sich dort umzusehen; und später bekam ich Nachricht von ihm aus Neu-Mexiko. Eines Tages stand eine lange Geschichte in den Zeitungen, wie die Apache-Indianer ein Goldgräberdorf überfallen hätten, und dabei war mein Frank unter den Erschlagenen aufgeführt. Ich fiel um wie tot und war monatelang schwer krank; mein Vater meinte, ich habe eine zehrende Krankheit und brachte mich in Frisco von einem Arzt zu andern. Ein Jahr oder noch länger hörte ich kein Wort mehr von Frank, so daß ich fest glaubte, er sei wirklich tot. Darauf kam Lord St. Simon nach Frisco, später reisten wir nach London, und meine Heirat mit ihm kam zustande. Mein Vater war sehr froh darüber; aber ich fühlte stets, daß kein anderer Mann auf dieser Welt je den Platz in meinem Herzen einnehmen würde, der nur allein Frank gehörte.
+
+Trotzdem wäre ich Lord St. Simon eine pflichtgetreue Gattin gewesen, falls ich seine Frau geworden wäre. Unsere Gefühle haben wir nicht in der Gewalt, wohl aber unsere Handlungen. Als ich mit ihm vor den Altar trat, war es mein fester Vorsatz, ihn glücklich zu machen. Aber Sie können sich denken, wie mir zumute war, als ich gerade beim Hintreten vor den Altar zufällig hinter mich schaute und Franks Augen aus der ersten Sitzreihe unmittelbar auf mich gerichtet sah. Ich meinte zuerst, es sei sein Geist, aber als ich wieder hinschaute, saß er noch immer da und blickte mich mit einem so eigentümlichen Ausdruck an, als wollte er fragen, ob mir seine Gegenwart erwünscht sei oder nicht. Ich wundere mich nur, daß ich nicht in Ohnmacht fiel. Alles drehte sich mit mir im Kreise, und die Worte des Geistlichen klangen mir im Ohr wie Bienensummen. Was sollte ich tun? Sollte ich die Trauung unterbrechen und einen Auftritt in der Kirche veranlassen? Ich blickte noch einmal nach ihm hin, und er schien meine Gedanken zu erraten, denn er legte die Finger an die Lippen, zum Zeichen, daß ich nichts sagen solle. Dann sah ich ihn etwas auf ein Stückchen Papier kritzeln – offenbar eine Notiz für mich. Beim Vorübergehen an seinem Platz ließ ich meine Blumen vor ihm hinfallen, und als er sie mir zurückgab, drückte er mir das Zettelchen in die Hand. Es enthielt nur mit ein paar Worten die Aufforderung, zu ihm zu kommen, sobald er mir ein Zeichen geben würde. Ich war natürlich keinen Augenblick mehr im unklaren darüber, daß meine Pflichten in erster Linie jetzt ihm gehörten, und beschloß deshalb, einfach seinem Ruf zu folgen.
+
+Zu Hause sprach ich mit meinem Mädchen, die ihn schon in Kalifornien gekannt hatte und ihm immer wohlgesinnt gewesen war. Ich hieß sie reinen Mund halten, ein paar Sachen einpacken und mir Hut und Mantel zurecht legen. Ich weiß wohl, ich hätte mich mit Lord St. Simon verständigen sollen, aber das wäre vor seiner Mutter und all den vornehmen Leuten eine furchtbare Aufgabe gewesen. So entschloß ich mich, auf- und davonzugehen und die Erklärung auf später zu verschieben. Ich saß noch keine zehn Minuten bei Tisch, als ich Frank durch das Fenster auf der Straße drüben erblickte. Er nickte mir zu und schlug dann den Weg nach dem Park ein. Ich schlüpfte hinaus, zog meine Sachen an und ging ihm nach. Unterwegs trat eine Frau an mich heran, um mir irgend etwas über Lord St. Simon mitzuteilen – nach dem wenigen, was ich davon verstand, schien es mir, als habe auch er vor der Hochzeit schon eine kleine Heimlichkeit gehabt –, aber ich machte, daß ich von ihr wegkam, und holte Frank bald ein. Darauf fuhren wir zusammen nach Gordon-Square, wo er eine Wohnung genommen hatte, und nun war ich nach den langen Jahren des Harrens wirklich mit meinem Gatten vereint.
+
+Frank war bei den Apachen gefangen gewesen, war aber entflohen und nach Frisco gelangt, wo er erfuhr, daß ich ihn als tot aufgegeben hatte und nach England gegangen war; er reiste mir dahin nach und traf mich schließlich gerade am Morgen meiner zweiten Hochzeit.«
+
+»Ich las davon in einer Zeitung«, erklärte der Amerikaner, »der Name der Braut und die Kirche waren darin genannt, aber ihre Wohnung war nicht angegeben.«
+
+»Wir besprachen uns nun darüber, wie wir uns verhalten sollten«, fuhr die junge Frau fort, »Frank war für volle Offenheit; aber ich schämte mich so sehr, daß ich nur den einen Wunsch hatte, zu verschwinden und von den Hochzeitsgästen keinen je wiederzusehen. Höchstens wollte ich an meinen Vater ein paar Zeilen schreiben, zum Zeichen, daß ich noch am Leben sei. Es war gräßlich für mich, wenn ich mir vorstellte, wie alle die hochadeligen Herren und Damen um die Hochzeitstafel herumsaßen und auf meine Rückkehr warteten. So nahm denn Frank meine Hochzeitskleider, packte sie zusammen, damit man mir nicht auf die Spur käme, und warf das Bündel irgendwo weg, wo kein Mensch es finden könnte. Morgen würden wir höchst wahrscheinlich schon nach Paris abgereist sein, wäre nicht der gute Herr Holmes heute abend bei uns erschienen. Wie es ihm gelungen ist, uns aufzufinden, geht freilich über meinen Verstand; er setzte uns ganz klar und freundlich auseinander, daß Frank recht hätte und ich unrecht, und daß wir beide durch solche Heimlichkeit einen falschen Schein auf uns laden würden. Dann schlug uns Herr Holmes vor, in seiner Wohnung mit Lord St. Simon allein zu einer Besprechung zusammenzutreffen, und wir begaben uns gleich darauf hierher. Nun hast du alles gehört, Robert; es tut mir sehr leid, wenn ich dir weh getan habe, aber ich hoffe, du denkst nicht allzu schlecht von mir.«
+
+Lord St. Simon hatte seine steife Haltung die ganze Zeit über beibehalten und mit gerunzelter Stirn und mit zusammengekniffenen Lippen der langen Erzählung zugehört.
+
+»Sie werden entschuldigen«, erwiderte er, »aber ich bin nicht gewohnt, meine intimsten persönlichen Verhältnisse öffentlich zu erörtern.«
+
+»Dann willst du mir also nicht vergeben – mir nicht noch einmal die Hand reichen, ehe ich fortgehe?«
+
+»O gewiß, wenn es Ihnen Vergnügen macht.« Er streckte die Hand aus und ergriff kalt die ihm dargebotene Rechte der jungen Frau.
+
+»Ich hatte gehofft«, warf Holmes ein, »Sie würden uns bei einem gemütlichen Abendessen Gesellschaft leisten.«
+
+»Damit verlangen Sie denn doch wohl etwas zuviel von mir«, erwiderte Seine Lordschaft. »Es bleibt mir nichts übrig, als mich mit Ihren Enthüllungen abzufinden, aber man kann doch kaum von mir erwarten, daß ich noch gute Miene zum bösen Spiel mache. Gestatten Sie mir, Ihnen insgesamt eine recht gute Nacht zu wünschen.« Damit machte er uns allen eine gemeinsame Verbeugung und schritt zur Tür hinaus.
+
+»Nun, dann werden wenigstens Sie uns doch sicherlich mit Ihrer Gesellschaft beehren«, wandte sich Holmes an Herrn Moulton. »Es ist mir jedesmal eine Freude, wenn ich einen Angehörigen des großen freien Staates treffe, dessen Sternenbanner der ganzen Welt auf der Bahn der Freiheit und des Fortschritts voranleuchtet!«
+
+»Das war einmal ein interessanter Fall«, bemerkte Holmes, als unsere Gäste uns verlassen hatten. »Man konnte daran recht deutlich sehen, wie einfach sich oft die Dinge aufklären, die einem auf den ersten Blick ganz rätselhaft vorkommen. Wie klar und natürlich entwickelte sich in der Erzählung der jungen Frau ein Ereignis aus dem andern, und wie verblüffend kam einem die ganze Angelegenheit vor, wenn man sie zum Beispiel mit den Augen des Herrn Lestrade von der Geheimpolizei ansah!«
+
+»So warst du selbst gar nicht auf einer falschen Fährte?«
+
+»Von Anbeginn stand mir zweierlei klar vor Augen: einmal, daß die Braut der Hochzeit ganz freudig entgegenging, und dann, daß sie wenige Minuten nach der Rückkehr aus der Kirche anderen Sinnes wurde. Offenbar war demnach im Laufe des Vormittags etwas vorgefallen, das diese Wirkung hervorbrachte. Was konnte es sein? Gesprochen hatte sie außerhalb des Hauses mit niemand, da sie ihrem Bräutigam nicht von der Seite gegangen war. Hatte sie aber jemand gesehen, so mußte dies jemand aus Amerika gewesen sein, denn während ihres kurzen Aufenthalts hierzulande hatte keiner so viel Einfluß auf sie gewinnen können, daß sein bloßer Anblick eine völlige Sinnesänderung bei ihr bewirkte. Du siehst, durch Ausschließung anderer Möglichkeiten war ich bereits zu der Überzeugung gelangt, daß sie wohl jemand aus Amerika werde gesehen haben. Wer konnte wohl dieser Amerikaner sein, der eine solche Macht über sie besaß? Vielleicht ein Freund, möglicherweise aber auch ein Gatte. Daß sie ihre Jugendjahre in wilden Gegenden und unter eigentümlichen Verhältnissen verlebt hatte, war mir ja bekannt. So weit war ich bereits gelangt, ehe ich das erste Wort aus Lord St. Simons Munde vernahm. Als dieser dann von dem Zuschauer vorn in der ersten Bank und von der Veränderung erzählte, die nachher plötzlich mit der Braut vor sich ging, wie sie ihren Strauß vor den Fremden hinfallen ließ, zu dem sehr durchsichtigen Zweck, sich dabei von ihm einen Zettel zustecken zu lassen, wie sie sich dann mit ihrer Vertrauten besprach und dabei die sehr bezeichnende Andeutung von ›in fremdes Gehege kommen‹ fallen ließ, was in der Goldgräbersprache so viel bedeutet, als Besitz von etwas ergreifen, worauf einem anderen ältere Ansprüche zustehen – da war mir die ganze Sachlage völlig klar. Sie mußte mit einem Mann auf und davongegangen sein, und zwar entweder mit einem Freund oder mit einem Gatten, wobei übrigens die größere Wahrscheinlichkeit für letzteres sprach.«
+
+»Aber wie in aller Welt hast du die beiden aufgefunden?«
+
+»Das wäre freilich schwierig gewesen, allein Freund Lestrade hielt Anhaltspunkte hierfür in Händen, von deren Wert er selbst keine Ahnung hatte. Die Anfangsbuchstaben waren natürlich von großer Wichtigkeit, aber noch viel wertvoller war der Nachweis, daß der Gesuchte im Lauf der letzten Woche sich in einem der ersten Gasthöfe Londons seine Rechnung hatte ausstellen lassen.«
+
+»Was brachte dich darauf, daß es einer der ersten Gasthöfe sein müsse?«
+
+»Die ausgesucht hohen Preise. Acht Schilling für ein Bett und acht Pence für ein Glas Sherry wiesen auf eines der teuersten Hotels hin. Es gibt nicht viele hier, die derartige Preise haben. Schon in dem zweiten Hotel, in der Northumberland-Avenue, erfuhr ich aus dem Fremdenbuch, daß ein Herr Francis H. Moulton aus Amerika erst am Tage vorher ausgezogen war, und bei Durchsicht der auf seinen Namen eingetragenen Posten entdeckte ich wörtlich alle, für die er Rechnung erhalten hatte. Als seine neue Anschrift für etwa noch eintreffende Briefe gab er 226 Gordon-Square an. So fuhr ich dorthin und hatte das Glück, das liebende Paar zu Hause zu treffen. Ich erlaubte mir, ihnen einige väterliche Ratschläge zu erteilen und ihnen klar zu machen, daß sie in jeder Beziehung besser tun würden, weder die Welt noch insbesondere Lord St. Simon über ihr Verhältnis zu einander irgendwie in Zweifel zu lassen. Ich machte ihnen den Vorschlag, hier mit dem Lord zusammenzutreffen, und wie du gesehen hast, sind sie darauf eingegangen.«
+
+»Damit haben sie aber nicht viel erreicht«, bemerkte ich. »Sein Verhalten war kein sehr liebenswürdiges.«
+
+»Ach, Watson«, erwiderte Holmes heiter, »du wärest auch vielleicht nicht gerade besonders liebenswürdig, wenn du dich nach all den Mühen und Sorgen des Brautstandes mit einem Schlage um Gattin und Vermögen betrogen sehen müßtest. Ich meine, wir haben allen Grund, Lord St. Simon recht milde zu beurteilen und unserm Glücksstern zu danken, daß wir voraussichtlich niemals in eine ähnliche Lage geraten werden. Komm, setze dich hierher zum Feuer und reiche mir meine Violine, wir haben ja jetzt nur noch das eine Problem zu lösen, wie wir uns diese finsteren Herbstabende auf möglichst angenehme Weise vertreiben.«
+
+> Holmes ließ das Blatt sinken.
+
+> Ja, das war eine verdrehte Geschichte, dachte er. Und im Grund war sie doch höchst einfach und hat fast alle Beteiligten nichts als ein bissel Lehrgeld gekostet. Vielleicht hat auch der enttäuschte Lord inzwischen eine andere Dollarbraut gefunden.
+
+> Er nahm eine neue Zeitung zur Hand.
+
+> Als er die Überschrift gelesen hatte, lachte er leise. Watson vergaß doch gar nichts! Auch wenn Holmes selbst schon lang nicht mehr daran dachte, bei Watson tauchten doch alle ihre Erlebnisse eines Tages wieder auf. Und da der Freund noch immer nicht zurückkehrte, so blieb Holmes nichts übrig, als auch sie zu lesen:

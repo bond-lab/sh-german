@@ -1,0 +1,183 @@
+# Source editions on Projekt Gutenberg-DE (https://projekt-gutenberg.org) and
+# the canonical story each chapter holds.  Chapter numbers are those of the
+# book's reader pages (chapter/N/).  Abbreviations follow Jay Finley Christ
+# (1947), lowercased, as in the NTU Multilingual Corpus.
+#
+# The [corpus] table names the corpus (corpusID prefix in the XML), the
+# licence recorded in the XML and the offset added to document numbers.
+#
+# Editorial text that is not Doyle's (frame narrative added in the Franckh
+# reissues, prefaces, publisher's and translator's front matter) is kept
+# but marked, so that it is not aligned across languages:
+#   front_until: paragraphs before the one starting with this text are
+#                front matter
+#   front:       number of leading paragraphs that are front matter
+#   frame_prefix: text at the start of the first story paragraph that belongs
+#                to the frame (split off into its own paragraph)
+#   frame_from:  the paragraph starting with this text and all after it are
+#                frame narrative or closing matter
+
+[corpus]
+name = "sh-german"
+docnum_offset = 0
+license = "Public domain; text from Projekt Gutenberg-DE"
+
+[[book]]
+slug = "spaete-rache"
+title = "Späte Rache"
+series = "Sherlock Holmes-Serie I"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1902
+translator = ""
+note = "Translator not named in the edition."
+documents = [
+  { abbr = "stud", chapters = [2,3,4,5,6,7,8,9,10,11,12,13,14], title = "Späte Rache", english = "A Study in Scarlet" },
+]
+
+[[book]]
+slug = "das-zeichen-der-vier-2"
+title = "Das Zeichen der Vier"
+series = "Sherlock Holmes-Serie II"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1902
+translator = ""
+note = "Gutenberg-DE transcribes the 1906 printing. Translator not named."
+documents = [
+  { abbr = "sign", chapters = [2,3,4,5,6,7,8,9,10,11,12,13,14], title = "Das Zeichen der Vier", english = "The Sign of Four" },
+]
+
+[[book]]
+slug = "der-bund-der-rothaarigen-und-andere-detektivgeschichten"
+title = "Der Bund der Rothaarigen und andere Detektivgeschichten"
+series = "Sherlock Holmes-Serie III"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1902
+translator = "Louis Ottmann und Margarete Jacobi"
+note = "Gutenberg-DE transcribes the Franckh'sche Verlagshandlung reissue (1936), which wraps the stories in a frame narrative (Watson telling them to guests) by an unnamed editor; the frame is kept and marked. The separate Lutz printing of 'The Boscombe Valley Mystery' is in the sh-german-other repository."
+documents = [
+  { abbr = "scan", chapters = [2, 3], title = "Skandalgeschichte im Fürstentum O...", english = "A Scandal in Bohemia", front_until = "Ich war damals erst kurz verheiratet", frame_from = "Doktor Watson hatte geendet." },
+  { abbr = "redh", chapters = [4], title = "Der Bund der Rothaarigen", english = "The Red-Headed League", frame_from = "»Ein großer Dummkopf, dieser Herr Wilson«" },
+  { abbr = "bosc", chapters = [5], title = "Der Mord im Tale von Bascombe", english = "The Boscombe Valley Mystery", frame_from = "Die kleine Gesellschaft saß noch immer im Dunkeln." },
+  { abbr = "stoc", chapters = [6], title = "Eine sonderbare Anstellung", english = "The Adventure of the Stockbroker's Clerk", frame_prefix = "»Ach ja, ich weiß«, sagte Watson lächelnd. »Sie meinte die Geschichte mit der sonderbaren Anstellung. ", frame_from = "»Es war schade«, meinte einer der Herren" },
+  { abbr = "twis", chapters = [7], title = "Der Mann mit der Schramme", english = "The Man with the Twisted Lip", frame_from = "Eine Uhr sandte elf tiefe Schläge" },
+  { abbr = "blue", chapters = [8], title = "Die Geschichte des blauen Karfunkels", english = "The Adventure of the Blue Carbuncle", frame_from = "Das Feuer im Kamin war längst heruntergebrannt" },
+]
+
+[[book]]
+slug = "das-getupfte-band-und-andere-detektivgeschichten"
+title = "Das getupfte Band und andere Detektivgeschichten"
+series = "Sherlock Holmes-Serie IV"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1902
+translator = "Louis Ottmann und Margarete Jacobi"
+note = "Gutenberg-DE transcribes the Franckh'sche Verlagshandlung reissue (1939), which wraps the stories in a frame narrative (Holmes reading Watson's articles) by an unnamed editor; the frame is kept and marked. In 'Das Landhaus in Hampshire' the editor rewrote the opening scene (Holmes on art for art's sake, Violet Hunter's letter) as frame dialogue; it is marked up to the morning of her visit. The separate Lutz printings of three of the stories are in the sh-german-other repository."
+documents = [
+  { abbr = "spec", chapters = [2, 3], title = "Das getupfte Band", english = "The Adventure of the Speckled Band", front_until = "Wenn ich meine Aufzeichnungen", frame_from = "Als der einsame Leser" },
+  { abbr = "engr", chapters = [4], title = "Der Daumen des Ingenieurs", english = "The Adventure of the Engineer's Thumb", frame_from = "Holmes lachte, als er diesen letzten Satz gelesen hatte." },
+  { abbr = "nobl", chapters = [5], title = "Die verschwundene Braut", english = "The Adventure of the Noble Bachelor", frame_from = "Holmes ließ das Blatt sinken." },
+  { abbr = "bery", chapters = [6], title = "Die Geschichte des Beryll-Kopfschmuckes", english = "The Adventure of the Beryl Coronet", frame_from = "Während Holmes das Blatt weglegte" },
+  { abbr = "silv", chapters = [7], title = "Silberstrahl", english = "The Adventure of Silver Blaze" },
+  { abbr = "copp", chapters = [8], title = "Das Landhaus in Hampshire", english = "The Adventure of the Copper Beeches", front_until = "Am nächsten Morgen, pünktlich zur angekündigten Stunde" },
+]
+
+[[book]]
+slug = "fuenf-apfelsinenkerne-und-andere-detektivgeschichten"
+title = "Fünf Apfelsinenkerne und andere Detektivgeschichten"
+series = "Sherlock Holmes-Serie V"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1902
+translator = "Louis Ottmann und Margarete Jacobi"
+note = "Gutenberg-DE transcribes the 1905 printing."
+documents = [
+  { abbr = "five", chapters = [2], title = "Fünf Apfelsinenkerne", english = "The Five Orange Pips" },
+  { abbr = "musg", chapters = [3], title = "Der Katechismus der Familie Musgrave", english = "The Adventure of the Musgrave Ritual" },
+  { abbr = "reig", chapters = [4], title = "Die Gutsherren von Reigate", english = "The Adventure of the Reigate Squire" },
+  { abbr = "croo", chapters = [5], title = "Der Krüppel", english = "The Adventure of the Crooked Man" },
+  { abbr = "resi", chapters = [6], title = "Der Doktor und sein Patient", english = "The Adventure of the Resident Patient" },
+  { abbr = "nava", chapters = [7], title = "Der Marinevertrag", english = "The Adventure of the Naval Treaty" },
+  { abbr = "fina", chapters = [8], title = "Das letzte Problem", english = "The Adventure of the Final Problem", frame_from = "Schluß des fünften Bandes." },
+]
+
+[[book]]
+slug = "als-sherlock-holmes-aus-lhassa-kam"
+title = "Als Sherlock Holmes aus Lhassa kam"
+series = "Sherlock Holmes-Serie VII"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1905
+translator = "Rudolf Lautenbach und Adolf Gleiner"
+note = ""
+documents = [
+  { abbr = "empt", chapters = [2], title = "Im leeren Hause", english = "The Adventure of the Empty House" },
+  { abbr = "norw", chapters = [3], title = "Der Baumeister von Norwood", english = "The Adventure of the Norwood Builder" },
+  { abbr = "yell", chapters = [4], title = "Das gelbe Gesicht", english = "The Adventure of the Yellow Face" },
+  { abbr = "gree", chapters = [5], title = "Der griechische Dolmetscher", english = "The Adventure of the Greek Interpreter" },
+  { abbr = "glor", chapters = [6], title = "Holmes' erstes Abenteuer", english = "The Adventure of the Gloria Scott" },
+  { abbr = "gold", chapters = [7], title = "Der goldene Klemmer", english = "The Adventure of the Golden Pince-Nez" },
+  { abbr = "soli", chapters = [8], title = "Die einsame Radfahrerin", english = "The Adventure of the Solitary Cyclist" },
+]
+
+[[book]]
+slug = "die-tanzenden-maennchen"
+title = "Die tanzenden Männchen und andere Detektivgeschichten"
+series = "Sherlock Holmes-Serie VIII"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1906
+translator = "Rudolf Lautenbach"
+note = ""
+documents = [
+  { abbr = "danc", chapters = [2], title = "Die tanzenden Männchen", english = "The Adventure of the Dancing Men" },
+  { abbr = "prio", chapters = [3], title = "Die Entführung aus der Klosterschule", english = "The Adventure of the Priory School" },
+  { abbr = "blac", chapters = [4], title = "Der schwarze Peter", english = "The Adventure of Black Peter" },
+  { abbr = "sixn", chapters = [5], title = "Die sechs Napoleonbüsten", english = "The Adventure of the Six Napoleons" },
+  { abbr = "abbe", chapters = [6], title = "Der Mord in Abbey Grange", english = "The Adventure of the Abbey Grange" },
+  { abbr = "seco", chapters = [7], title = "Der zweite Blutflecken", english = "The Adventure of the Second Stain" },
+]
+
+[[book]]
+slug = "sherlock-holmes-als-einbrecher"
+title = "Sherlock Holmes als Einbrecher: Neue Sherlock Holmes-Geschichten"
+series = "Sherlock Holmes-Serie"
+publisher = "Verlag von Robert Lutz, Stuttgart"
+year = 1907
+translator = "Rudolf Lautenbach"
+note = ""
+documents = [
+  { abbr = "chas", chapters = [2], title = "Sherlock Holmes als Einbrecher", english = "The Adventure of Charles Augustus Milverton" },
+  { abbr = "3stu", chapters = [3], title = "Die drei Studenten", english = "The Adventure of the Three Students" },
+  { abbr = "miss", chapters = [4], title = "Der vermißte Fußballspieler", english = "The Adventure of the Missing Three-Quarter" },
+]
+
+[[book]]
+slug = "der-sterbende-sherlock-holmes-und-andere-detektivgeschichten"
+title = "Der sterbende Sherlock Holmes und andere Detektivgeschichten"
+series = ""
+publisher = "Franckh'sche Verlagshandlung, Stuttgart"
+year = 0
+translator = "Johannes Hartmann"
+note = "Year not given by Gutenberg-DE (1920s or 1930s). The preface 'Ein für allemal' is kept as front matter of the first story. Translator's dates unknown, so the public-domain status of this volume is less certain than the Lutz ones."
+documents = [
+  { abbr = "dyin", chapters = [2, 3], front_until = "Frau Hudson, unsere Hauswirtin", title = "Der sterbende Sherlock Holmes", english = "The Adventure of the Dying Detective" },
+  { abbr = "wist", chapters = [4], title = "Das Geheimnis der Villa Wisteria", english = "The Adventure of Wisteria Lodge" },
+  { abbr = "redc", chapters = [5], title = "Der rote Kreis", english = "The Adventure of the Red Circle" },
+  { abbr = "lady", chapters = [6], title = "Das Verschwinden der Lady Frances Carfax", english = "The Disappearance of Lady Frances Carfax" },
+  { abbr = "bruc", chapters = [7], title = "Die gestohlenen Zeichnungen", english = "The Adventure of the Bruce-Partington Plans" },
+  { abbr = "devi", chapters = [8], title = "Das Abenteuer mit dem Teufelsfuß", english = "The Adventure of the Devil's Foot" },
+  { abbr = "iden", chapters = [9], title = "Ein Fall geschickter Täuschung", english = "A Case of Identity" },
+]
+
+[[book]]
+slug = "das-tal-des-grauens"
+title = "Das Tal des Grauens"
+series = ""
+publisher = "Dürr & Weber, Leipzig"
+year = 0
+translator = "H. O. Herzog"
+note = "Year not given by Gutenberg-DE (early 1920s). Translator's dates unknown, so the public-domain status is less certain than the Lutz volumes."
+documents = [
+  { abbr = "vall", chapters = [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16], title = "Das Tal des Grauens", english = "The Valley of Fear", frame_from = "Ende." },
+]
+
+# ---------------------------------------------------------------------------
+# Other editions: modern translations (under their translators' copyright,
+# published on Projekt Gutenberg-DE) and duplicate old printings.
+
