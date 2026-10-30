@@ -8393,7 +8393,7 @@
       <Word wid="deu-s360497w26" lemma="." surface_form="." upos="PUNCT" pos="$." cfrom="148" cto="149"/>
       <Tag category="stype" value="p"/>
     </Sentence>
-    <Sentence sid="deu-s360498" sent="Es wird Ihnen wahrscheinlich schwer fallen, jetzt den Vorgang zu erzählen; so will ich's lieber dem Herrn Professor sagen, wie sich alles zugetragen hat, und Sie können mich verbessern, wo ich irre. Ist's" pid="p235">
+    <Sentence sid="deu-s360498" sent="Es wird Ihnen wahrscheinlich schwer fallen, jetzt den Vorgang zu erzählen; so will ich's lieber dem Herrn Professor sagen, wie sich alles zugetragen hat, und Sie können mich verbessern, wo ich irre." pid="p235">
       <Word wid="deu-s360498w0" lemma="es" surface_form="Es" upos="PRON" pos="PPER" cfrom="0" cto="2"/>
       <Word wid="deu-s360498w1" lemma="werden" surface_form="wird" upos="AUX" pos="VAFIN" cfrom="3" cto="7"/>
       <Word wid="deu-s360498w2" lemma="ihnen" surface_form="Ihnen" upos="PRON" pos="PPER" cfrom="8" cto="13"/>
@@ -8433,13 +8433,13 @@
       <Word wid="deu-s360498w36" lemma="ich" surface_form="ich" upos="PRON" pos="PPER" cfrom="189" cto="192"/>
       <Word wid="deu-s360498w37" lemma="irren" surface_form="irre" upos="VERB" pos="VVFIN" cfrom="193" cto="197"/>
       <Word wid="deu-s360498w38" lemma="." surface_form="." upos="PUNCT" pos="$." cfrom="197" cto="198"/>
-      <Word wid="deu-s360498w39" lemma="Ist's" surface_form="Ist's" upos="NOUN" pos="NN" cfrom="199" cto="204"/>
     </Sentence>
-    <Sentence sid="deu-s360499" sent="Ihnen recht so?" pid="p235">
-      <Word wid="deu-s360499w0" lemma="ihnen" surface_form="Ihnen" upos="PRON" pos="PPER" cfrom="0" cto="5"/>
-      <Word wid="deu-s360499w1" lemma="recht" surface_form="recht" upos="ADV" pos="ADV" cfrom="6" cto="11"/>
-      <Word wid="deu-s360499w2" lemma="so" surface_form="so" upos="ADV" pos="ADV" cfrom="12" cto="14"/>
-      <Word wid="deu-s360499w3" lemma="?" surface_form="?" upos="PUNCT" pos="$." cfrom="14" cto="15"/>
+    <Sentence sid="deu-s360499" sent="Ist's Ihnen recht so?" pid="p235">
+      <Word wid="deu-s360499w0" lemma="Ist's" surface_form="Ist's" upos="NOUN" pos="NN" cfrom="0" cto="5"/>
+      <Word wid="deu-s360499w1" lemma="ihnen" surface_form="Ihnen" upos="PRON" pos="PPER" cfrom="6" cto="11"/>
+      <Word wid="deu-s360499w2" lemma="recht" surface_form="recht" upos="ADV" pos="ADV" cfrom="12" cto="17"/>
+      <Word wid="deu-s360499w3" lemma="so" surface_form="so" upos="ADV" pos="ADV" cfrom="18" cto="20"/>
+      <Word wid="deu-s360499w4" lemma="?" surface_form="?" upos="PUNCT" pos="$." cfrom="20" cto="21"/>
     </Sentence>
     <Sentence sid="deu-s360500" sent="Nun, nun, antworten Sie nur." pid="p235">
       <Word wid="deu-s360500w0" lemma="nun" surface_form="Nun" upos="ADV" pos="ADV" cfrom="0" cto="3"/>

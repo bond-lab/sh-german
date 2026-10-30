@@ -91,10 +91,15 @@ Document numbers are 1-45 (the manifest order; `sh-german-other` starts
 at 101) and sentence numbers are `10000 * N + i`, so all the files load
 into one database without renumbering.  Tokens, lemmas, STTS tags (`pos`) and universal tags
 (`upos`) come from spaCy `de_core_news_sm` 3.8.0.  spaCy's sentence
-splits are post-processed so that clauses after `;`, `:` and `,`, spaced
-ellipses and anything starting with a lowercase word stay in one
-sentence, matching the English side.  Punctuation keeps its surface form
-as lemma.  There are no sense tags and no alignments yet.
+splits are post-processed to match the English side: a sentence is
+joined to the one before when that one does not end in sentence-final
+punctuation (spaCy breaks before a capitalised `Sie`, inside names such
+as `Sherlock | Holmes` and after abbreviations such as `Mrs.`), when
+either is punctuation alone or an initial, or when it starts with a
+lowercase word (clauses after `;`, `:` and `,`); opening quotes are
+moved to the sentence they open.  Punctuation keeps its surface form
+as lemma.  There are no sense tags yet; sentence alignments to the
+English canon are described below.
 
 ## Copyright
 
@@ -163,3 +168,25 @@ The scripts and metadata are under the MIT licence (see LICENSE).
 | devi | Das Abenteuer mit dem Teufelsfuß | The Adventure of the Devil's Foot | Der sterbende Sherlock Holmes und andere Detektivgeschichten | Franckh'sche Verlagshandlung, Stuttgart, n.d. | Johannes Hartmann |
 | iden | Ein Fall geschickter Täuschung | A Case of Identity | Der sterbende Sherlock Holmes und andere Detektivgeschichten | Franckh'sche Verlagshandlung, Stuttgart, n.d. | Johannes Hartmann |
 | vall | Das Tal des Grauens | The Valley of Fear | Das Tal des Grauens | Dürr & Weber, Leipzig, n.d. | H. O. Herzog |
+
+## Sentence alignment with the English canon
+
+`alignment/eng-deu.tsv` links the German sentences to the English
+sentences of the same stories in the NTU-MC (`eng.db`, documents
+440-499; `eng_sid` is the English sentence id there, `deu_sid` the
+German id of `ntumc/*.xml`).  One row per sentence pair; a German
+sentence linked to two English sentences has two rows, and sentences
+the translator dropped or added have none.  Editorial sentences and the
+front matter were not aligned.
+
+The links were made with [Bertalign](https://github.com/bfsujason/bertalign)
+(LaBSE embeddings, two-pass dynamic programming) by
+`scripts/align-sentences.py` of the [IMI](https://github.com/bond-lab/IMI)
+repository (`usrname` bertalign, `conf` = cosine similarity of the two
+sides), and every bead that was not a confident 1-1 link, about 13 %,
+was checked by hand and re-cut where wrong (`usrname` claude,
+`ltype` auto): about 3 % of all beads changed, mostly English sentences
+the translator had dropped and the aligner had folded into a
+neighbouring bead, and short dialogue turns attached to the wrong
+neighbour.  `fix-sentence-links.py` in IMI applies such corrections,
+`review-sentence-links.py` lists the doubtful beads.

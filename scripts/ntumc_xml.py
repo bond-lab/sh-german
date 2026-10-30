@@ -18,7 +18,9 @@ Usage::
 from __future__ import annotations
 
 import argparse
+import itertools
 import logging
+import re
 import sys
 import tomllib
 from dataclasses import dataclass
@@ -60,7 +62,46 @@ UPOS = {
     "VERB",
     "X",
 }
-NO_BREAK_AFTER = {";", ":", ","}
+# A sentence ends in one of these, possibly followed by closing quotes
+# or brackets ...
+TERMINAL = (".", "!", "?", "…", "–", "—")
+CLOSERS = {"«", "‹", ")", '"', "'", "’"}
+# ... and an opening quote or bracket belongs to the sentence it opens.
+OPENERS = {"»", "›", "(", "»›", "›–", "»›–"}
+# A full stop after one of these does not end a sentence.
+ABBREVIATIONS = {
+    "Mr",
+    "Mrs",
+    "Dr",
+    "Prof",
+    "St",
+    "Nr",
+    "Mc",
+    "Hrn",
+    "Frl",
+    "Kap",
+    "Anm",
+    "Eigent",
+    "Mme",
+    "Mlle",
+    "Sgt",
+    "Lieut",
+    "Capt",
+    "Rev",
+    "Hon",
+    "Jr",
+    "Sr",
+    "Co",
+    "Übers",
+    "Uebers",
+    "Verf",
+    "Hrsg",
+    "Bd",
+    "Str",
+    "Tel",
+    "No",
+    "Vol",
+}
 HEADINGS = {"# ": "h1", "## ": "h2", "### ": "h3"}
 
 
@@ -111,10 +152,18 @@ def load_manifest() -> tuple[dict, list[DocMeta]]:
     return corpus, docs
 
 
+def has_letters(span: Span) -> bool:
+    """Return True if ``span`` has at least two letters, so can stand alone.
+
+    Punctuation alone (``»›–``) and initials (``– G.``) cannot.
+    """
+    return sum(ch.isalpha() for ch in span.text) >= 2
+
+
 def starts_lowercase(span: Span) -> bool:
-    """Return True if the first alphabetic token of ``span`` is lowercase."""
-    first = next((tok for tok in span if tok.is_alpha), None)
-    return first is not None and first.text[:1].islower()
+    """Return True if the first token with a letter in ``span`` is lowercase."""
+    first = next((tok.text for tok in span if any(ch.isalpha() for ch in tok.text)), "")
+    return first[:1].islower()
 
 
 def ends_in_ellipsis(span: Span) -> bool:
@@ -122,14 +171,32 @@ def ends_in_ellipsis(span: Span) -> bool:
     return len(span) > 1 and span[-1].text == "." and span[-2].text == "."
 
 
-def sentences(doc: Doc) -> list[Span]:
-    """Split a paragraph into sentences, keeping clauses together.
+def ends_sentence(span: Span) -> bool:
+    """Return True if ``span`` ends in sentence-final punctuation.
 
-    spaCy's parser starts a new sentence after ';', ':' and ',' and inside
-    spaced ellipses; the English side of the corpus keeps these in one
-    sentence, and a German sentence never starts with a lowercase word or
-    consists of punctuation alone.  Such sentences are merged into the one
-    before.
+    Closing quotes and brackets after the punctuation are allowed; a full
+    stop after an abbreviation such as ``Mrs.`` or ``Eigent.`` is not
+    sentence-final, nor is a bare word (``Sherlock``, ``Befolgen``).
+    """
+    text = span.text.rstrip().rstrip("".join(CLOSERS)).rstrip()
+    m = re.search(r"(\w+)\.$", text)
+    if m and m.group(1) in ABBREVIATIONS:
+        return False
+    return text.endswith(TERMINAL)
+
+
+def sentences(doc: Doc) -> list[Span]:
+    """Split a paragraph into sentences, correcting spaCy's boundaries.
+
+    spaCy's parser starts a new sentence after ';', ':' and ',', inside
+    spaced ellipses, after abbreviations (``Mrs. | Oakshott``), before a
+    capitalised pronoun (``Befolgen | Sie``), in the middle of names
+    (``Sherlock | Holmes``) and after an opening quote that belongs to the
+    next sentence (``sagte er. » | Was``).  The English side of the corpus
+    keeps all of these in one sentence, so a sentence is joined to the one
+    before when that one does not end in sentence-final punctuation, when
+    either is punctuation alone or an initial, or when this one starts
+    with a lowercase word; opening quotes move to the sentence they open.
 
     Args:
         doc: A parsed paragraph
@@ -137,13 +204,22 @@ def sentences(doc: Doc) -> list[Span]:
     Returns:
         The sentence spans, in order
     """
+    bounds = [[s.start, s.end] for s in doc.sents]
+    for prev, cur in itertools.pairwise(bounds):
+        while prev[1] > prev[0] and doc[prev[1] - 1].text in OPENERS:
+            prev[1] -= 1
+        cur[0] = prev[1]
     merged: list[Span] = []
-    for span in doc.sents:
+    for start, end in bounds:
+        if end <= start:
+            continue
+        span = doc[start:end]
         if merged and (
-            merged[-1][-1].text in NO_BREAK_AFTER
+            not has_letters(merged[-1])
+            or not has_letters(span)
+            or not ends_sentence(merged[-1])
             or ends_in_ellipsis(merged[-1])
             or starts_lowercase(span)
-            or not any(tok.is_alpha for tok in span)
         ):
             merged[-1] = doc[merged[-1].start : span.end]
         else:
